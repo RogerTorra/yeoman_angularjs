@@ -25,9 +25,7 @@ angular
         controllerAs: 'context'
       })
       .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl',
-        controllerAs: 'about'
+        redirectTo: '/'
       })
       .otherwise({
         redirectTo: '/'
