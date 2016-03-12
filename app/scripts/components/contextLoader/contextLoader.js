@@ -7,11 +7,10 @@
  * # MainCtrl
  * Controller of the angularYoApp
  */
+ 
 angular.module('angularYoApp')
-  .controller('MainCtrl', function () {
-    this.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('ContextLoader', function () {
+  
+    this.directives = [];
+    
   });
