@@ -73,7 +73,12 @@ module.exports = function (grunt) {
         port: 9000,
         // Change this to '0.0.0.0' to access the server from outside.
         hostname: 'localhost',
-        livereload: 35729
+        middleware: function (connect, options, defaultMiddleware) {
+				 var proxy = require('grunt-connect-proxy/lib/utils').proxyRequest;
+				 return [
+					proxy
+				 ].concat(defaultMiddleware);
+			   }
       },
       livereload: {
         options: {
@@ -94,6 +99,13 @@ module.exports = function (grunt) {
           }
         }
       },
+      proxies:[
+			{
+                context: '/portalserver/',
+                host: '127.0.0.1',
+                port: 8001,
+            }
+      ],
       test: {
         options: {
           port: 9001,
@@ -449,7 +461,13 @@ module.exports = function (grunt) {
         'svgmin'
       ]
     },
-
+    //Api mocker server
+    apimocker: {
+          options:{
+               configFile: 'apimocker/config.json' 
+          }
+    },
+      
     // Test settings
     karma: {
       unit: {
@@ -459,7 +477,11 @@ module.exports = function (grunt) {
     }
   });
 
+  grunt.loadNpmTasks('grunt-connect-proxy'); 
+  grunt.loadNpmTasks('grunt-apimocker');  
 
+  grunt.registerTask('mocker-dev',['configureProxies','apimocker', 'serve']);
+    
   grunt.registerTask('serve', 'Compile then start a connect web server', function (target) {
     if (target === 'dist') {
       return grunt.task.run(['build', 'connect:dist:keepalive']);
