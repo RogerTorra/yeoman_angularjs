@@ -1,0 +1,23 @@
+[
+      {
+        "familyName": "Tarjetas",
+        "id": "2",
+        "amount": "12000",
+        "contracts": [
+          {
+            "productName": "Servired",
+            "contractNumber": "0019.3333.61.4010072855",
+            "amount": "4000"
+          },
+          {
+            "productName": "Servired",
+            "contractNumber": "0019.3333.61.4010072855",
+            "amount": "4000"
+          },
+          {
+            "productName": "Servired",
+            "contractNumber": "0019.3333.61.4010072855",
+            "amount": "4000"
+          }]
+      }
+]

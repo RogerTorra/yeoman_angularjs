@@ -1,0 +1,63 @@
+{
+  "mockDirectory": "apimocker",
+  "quiet": false,
+  "port": "8001",
+  "latency": 1000,
+  "allowedHeaders": ["Content-Type"],
+  "webServices": {
+	    "positions": {
+	      "mockFile": "positions/positions.json",
+	      "httpStatus": 200,
+	      "verbs": ["get"],
+		  "switch": ["byFamily","byAmount"]
+	    },
+		"products": {
+	      "mockFile": "products/products.json",
+	      "httpStatus": 200,
+	      "verbs": ["get"]
+	    },
+	    "init":{
+	      "mockFile": "planner/init.json",
+	      "httpStatus": 200,
+	      "verbs": ["get", "post"]
+	    },
+	    "simulator":{
+	      "mockFile": "planner/simulator.json",
+	      "httpStatus": 200,
+	      "verbs":["post"]
+	    },
+	    "Prop_initTaskPlannerWSPipe":{
+		    	"mockFile":"planner/Prop_initTaskPlannerWSPipe.json",
+		    	"httpStatus": 200,
+		    	"verbs": ["get", "post"]
+		    	
+	   	},
+	   	"Prop_simulateTaskPlannerWSPipe":{
+		    	"mockFile":"planner/Prop_simulateTaskPlannerWSPipe.json",
+		    	"httpStatus": 200,
+		    	"verbs": ["get", "post"]
+		    	
+	   	},
+	   	"Prop_resetTaskPlannerWSPipe":{
+		    	"mockFile":"planner/Prop_resetTaskPlannerWSPipe.json",
+		    	"httpStatus": 200,
+		    	"verbs": ["get", "post"]
+		    	
+	   	},
+	   	"Prop_loadTaskPlannerDetailWSPipe":{
+		    	"mockFile":"planner/Prop_loadTaskPlannerDetailWSPipe.json",
+		    	"httpStatus": 200,
+		    	"verbs": ["get", "post"],
+		    	"switch":[
+		    	{
+		    		"type":"regexp",
+		    		"switch":"dateBegin\\\":\\\"(.*)\\\",\\\"dateEnd"
+		    	},
+		    	{
+		    		"type":"regexp",
+		    		"switch":"subCampaignId\\\":\\\"(.*)\\\""
+		    	}]
+		    	
+	   	}
+   	}
+}
