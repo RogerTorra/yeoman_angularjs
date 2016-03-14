@@ -13,7 +13,10 @@ angular.module('angularYoApp')
     
   return {
     getData: function(param){
-        return Restangular.all(param).getList({key:'a53d6261421a1f2df295743de64f4455'});
+        return Restangular.all(param).post({key:'a53d6261421a1f2df295743de64f4455'}).then(
+            function(result){
+                return result;
+            });
     }
   };
     

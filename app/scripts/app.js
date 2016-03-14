@@ -19,7 +19,7 @@ angular
     'ui.bootstrap',
     'restangular'
   ])
-  .config(function ($routeProvider) {
+  .config(function ($routeProvider,RestangularProvider) {
     $routeProvider
       .when('/', {
         templateUrl: 'scripts/components/contextLoader/contextLoader.html',
@@ -32,4 +32,14 @@ angular
       .otherwise({
         redirectTo: '/'
       });
+    
+     RestangularProvider.addResponseInterceptor(function(data, operation, what, url, response, deferred) {
+      var extractedData;
+      if (operation === "getList") {
+        extractedData = data.result;
+      } else {
+        extractedData = data;
+      }
+      return extractedData;
+    });
   });

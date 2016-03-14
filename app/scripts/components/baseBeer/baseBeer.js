@@ -70,8 +70,8 @@ angular.module('angularYoApp')
   }
    
 $scope.load = function(){
-    BaseBeerFactory.getData('api/beers').then(function(response){
-        console.log(response);
+    BaseBeerFactory.getData('api/beers').then(function(data){
+        console.log(data);
     });
 };    
 
