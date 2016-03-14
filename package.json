@@ -41,5 +41,8 @@
   },
   "scripts": {
     "test": "karma start test/karma.conf.js"
+  },
+  "dependencies": {
+    "grunt-apimocker": "0.0.2"
   }
 }
