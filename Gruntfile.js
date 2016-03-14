@@ -83,8 +83,10 @@ module.exports = function (grunt) {
       livereload: {
         options: {
           open: true,
-          middleware: function (connect) {
+          middleware: function (connect,options, defaultMiddleware) {
+            var proxy = require('grunt-connect-proxy/lib/utils').proxyRequest;
             return [
+            proxy,
               connect.static('.tmp'),
               connect().use(
                 '/bower_components',
@@ -95,17 +97,21 @@ module.exports = function (grunt) {
                 connect.static('./app/styles')
               ),
               connect.static(appConfig.app)
-            ];
+            ].concat(defaultMiddleware);
           }
-        }
-      },
-      proxies:[
+        },
+        proxies:[
 			{
-                context: '/portalserver/',
-                host: '127.0.0.1',
-                port: 8001,
+                context: '/api',
+                host: 'api.brewerydb.com',
+                https:false,
+                rewrite: {
+                    '^/api': '/v2',
+                }
             }
-      ],
+        ],
+      },
+      
       test: {
         options: {
           port: 9001,
@@ -119,7 +125,8 @@ module.exports = function (grunt) {
               ),
               connect.static(appConfig.app)
             ];
-          }
+          },
+            
         }
       },
       dist: {
@@ -480,7 +487,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-connect-proxy'); 
   grunt.loadNpmTasks('grunt-apimocker');  
 
-  grunt.registerTask('mocker-dev',['configureProxies','apimocker', 'serve']);
+  grunt.registerTask('mocker-dev',['configureProxies:livereload','apimocker', 'serve']);
     
   grunt.registerTask('serve', 'Compile then start a connect web server', function (target) {
     if (target === 'dist') {

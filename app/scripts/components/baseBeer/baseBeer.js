@@ -9,7 +9,7 @@
  */
  
 angular.module('angularYoApp')
-  .controller('BaseBeer', function ($scope) {
+  .controller('BaseBeer', function ($scope,BaseBeerFactory) {
   
     this.directives = [];
     
@@ -68,5 +68,11 @@ angular.module('angularYoApp')
 
     return array;
   }
-    
-  });
+   
+$scope.load = function(){
+    BaseBeerFactory.getData('api/beers').then(function(response){
+        console.log(response);
+    });
+};    
+
+});
