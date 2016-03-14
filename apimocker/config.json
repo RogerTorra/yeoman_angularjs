@@ -5,27 +5,12 @@
   "latency": 1000,
   "allowedHeaders": ["Content-Type"],
   "webServices": {
-	    "positions": {
-	      "mockFile": "positions/positions.json",
-	      "httpStatus": 200,
-	      "verbs": ["get"],
-		  "switch": ["byFamily","byAmount"]
-	    },
-		"products": {
-	      "mockFile": "products/products.json",
-	      "httpStatus": 200,
-	      "verbs": ["get"]
-	    },
-	    "init":{
-	      "mockFile": "planner/init.json",
+	    "beers":{
+	      "mockFile": "beers/beers.json",
 	      "httpStatus": 200,
 	      "verbs": ["get", "post"]
 	    },
-	    "simulator":{
-	      "mockFile": "planner/simulator.json",
-	      "httpStatus": 200,
-	      "verbs":["post"]
-	    },
+
 	    "Prop_initTaskPlannerWSPipe":{
 		    	"mockFile":"planner/Prop_initTaskPlannerWSPipe.json",
 		    	"httpStatus": 200,

@@ -82,6 +82,7 @@ module.exports = function (grunt) {
       },
       livereload: {
         options: {
+          keepalive:true,
           open: true,
           middleware: function (connect,options, defaultMiddleware) {
             var proxy = require('grunt-connect-proxy/lib/utils').proxyRequest;
@@ -101,14 +102,22 @@ module.exports = function (grunt) {
           }
         },
         proxies:[
-			{
+            {
+                context: '/api',
+               	host: '127.0.0.1',
+                rewrite: {
+                    '^/api': '',
+                },
+				port: 8001
+            }
+			/*{
                 context: '/api',
                 host: 'api.brewerydb.com',
                 https:false,
                 rewrite: {
                     '^/api': '/v2',
                 }
-            }
+            }*/
         ],
       },
       
@@ -487,7 +496,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-connect-proxy'); 
   grunt.loadNpmTasks('grunt-apimocker');  
 
-  grunt.registerTask('mocker-dev',['configureProxies:livereload','apimocker', 'serve']);
+  grunt.registerTask('mocker-dev',['configureProxies:livereload','apimocker', 'connect:livereload']);
     
   grunt.registerTask('serve', 'Compile then start a connect web server', function (target) {
     if (target === 'dist') {
