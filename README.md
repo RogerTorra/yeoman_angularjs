@@ -1,12 +1,48 @@
-# angular-yo
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+Base Demo TFG
+============
 
-## Build & development
+Angularjs project Web 
+============
 
-Run `grunt` for building and `grunt serve` for preview.
+This is the repository of the base demo TFG Project. It provides an starting point for an angularJS project
+
+
+### Quick Start
+
+#### Before you start, tools you will need
+
+* install npm
+* bower and grunt (run the following commands):
+
+```script
+npm install -g bower
+
+npm install -g grunt
+
+
+## Running
+
+* configure project:
+
+```script
+npm install
+bower install
+```
+* run project
+
+Run the application. 
+
+`grunt server`
+
+Run the appliction and open the browser.
+
+`grunt server:open` 
 
 ## Testing
 
-Running `grunt test` will run the unit tests with karma.
+Exexecute the following command to launch tests
+
+`grunt test`
+ 

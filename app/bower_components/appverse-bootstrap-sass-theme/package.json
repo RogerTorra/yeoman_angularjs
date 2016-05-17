@@ -1,0 +1,22 @@
+{
+  "name": "appverse-bootstrap-sass-theme",
+  "version": "0.0.7",
+  "repository": {
+    "type": "git",
+    "url": "user/repo"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-compress": "^0.13.0",
+    "load-grunt-tasks": "3.1.0",
+    "grunt-release": "^0.13.0"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.4.5"
+  },
+  "scripts": {
+    "package": "grunt"
+  },
+  "license": "MPL-2.0"
+}

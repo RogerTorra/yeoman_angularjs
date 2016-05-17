@@ -1,0 +1,20 @@
+{
+  "name": "placeholders",
+  "version": "4.0.0",
+  "main": "dist/placeholders.js",
+  "ignore": [
+    ".editorconfig",
+    ".eslintrc",
+    ".jscsrc"
+  ],
+  "homepage": "https://github.com/jamesallardice/Placeholders.js",
+  "_release": "4.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.0",
+    "commit": "b00ee19606b440e85ca9fc0badf85283baccf4a0"
+  },
+  "_source": "https://github.com/jamesallardice/Placeholders.js.git",
+  "_target": "4.0.0",
+  "_originalSource": "placeholders"
+}

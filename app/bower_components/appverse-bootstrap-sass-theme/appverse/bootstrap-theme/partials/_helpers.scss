@@ -1,0 +1,192 @@
+// Copyright (c) 2012 GFT Appverse, S.L., Sociedad Unipersonal.
+// This Source Code Form is subject to the terms of the Appverse Public License
+// Version 2.0 (“APL v2.0”). If a copy of the APL was not distributed with this
+// file, You can obtain one at http://www.appverse.mobi/licenses/apl_v2.0.pdf. [^]
+// Redistribution and use in source and binary forms, with or without modification,
+// are permitted provided that the conditions of the AppVerse Public License v2.0
+// are met.
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. EXCEPT IN CASE OF WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, IN NO EVENT
+// SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+// INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+// PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+// WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT(INCLUDING NEGLIGENCE OR OTHERWISE)
+// ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+// POSSIBILITY OF SUCH DAMAGE.
+
+//Text Right
+.text-right {
+    text-align: right;
+}
+
+//Margins
+
+//Margin top
+.mt-xs {
+    margin-top: .5em;
+}
+
+.mt-sm {
+    margin-top: 1em;
+}
+
+.mt-md {
+    margin-top: 1.5em;
+}
+
+.mt-lg {
+    margin-top: 2em;
+}
+
+//Margin bottom
+.mb-xs {
+    margin-bottom: .5em;
+}
+
+.mb-sm {
+    margin-bottom: 1em;
+}
+
+.mb-md {
+    margin-bottom: 1.5em;
+}
+
+.mb-lg {
+    margin-bottom: 2em;
+}
+
+//Margin left
+.ml-xs {
+    margin-left: .5em;
+}
+
+.ml-sm {
+    margin-left: 1em;
+}
+
+.ml-md {
+    margin-left: 1.5em;
+}
+
+.ml-lg {
+    margin-left: 2em;
+}
+
+//Margin right
+.mr-xs {
+    margin-right: .5em;
+}
+
+.mr-sm {
+    margin-right: 1em;
+}
+
+.mr-md {
+    margin-right: 1.5em;
+}
+
+.mr-lg {
+    margin-right: 2em;
+}
+
+//Paddings
+
+//Padding top
+.pt-xs {
+    padding-top: .5em;
+}
+
+.pt-sm {
+    padding-top: 1em;
+}
+
+.pt-md {
+    padding-top: 1.5em;
+}
+
+.pt-lg {
+    padding-top: 2em;
+}
+
+//Padding bottom
+.pb-xs {
+    padding-bottom: .5em;
+}
+
+.pb-sm {
+    padding-bottom: 1em;
+}
+
+.pb-md {
+    padding-bottom: 1.5em;
+}
+
+.pb-lg {
+    padding-bottom: 2em;
+}
+
+//Padding left
+.pl-xs {
+    padding-left: .5em;
+}
+
+.pl-sm {
+    padding-left: 1em;
+}
+
+.pl-md {
+    padding-left: 1.5em;
+}
+
+.pl-lg {
+    padding-left: 2em;
+}
+
+//Padding right
+.pr-xs {
+    padding-right: .5em;
+}
+
+.pr-sm {
+    padding-right: 1em;
+}
+
+.pr-md {
+    padding-right: 1.5em;
+}
+
+.pr-lg {
+    padding-right: 2em;
+}
+
+/* Style to add pointer for tabs as recommended by UI Angular bootstrap */
+
+.nav,
+.pagination,
+.carousel,
+.panel-title a {
+    cursor: pointer;
+}
+
+
+/* Style pre tags for Markup and Javascript tabs */
+
+pre > pre {
+    margin-bottom: 0;
+    padding: 0;
+    border: 0;
+}
+
+pre[hljs] {
+    padding: 0;
+    background-color: #fff;
+}
+
+code.javascript {
+    span.hljs-comment {
+        display: none;
+    }
+}

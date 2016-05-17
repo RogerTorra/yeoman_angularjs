@@ -1,0 +1,89 @@
+// Copyright (c) 2012 GFT Appverse, S.L., Sociedad Unipersonal.
+// This Source Code Form is subject to the terms of the Appverse Public License
+// Version 2.0 (“APL v2.0”). If a copy of the APL was not distributed with this
+// file, You can obtain one at http://www.appverse.mobi/licenses/apl_v2.0.pdf. [^]
+// Redistribution and use in source and binary forms, with or without modification,
+// are permitted provided that the conditions of the AppVerse Public License v2.0
+// are met.
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. EXCEPT IN CASE OF WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, IN NO EVENT
+// SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+// INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+// PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+// WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT(INCLUDING NEGLIGENCE OR OTHERWISE)
+// ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+// POSSIBILITY OF SUCH DAMAGE.
+//ANGULAR SLIDER COMPONENT
+rzslider {
+  height: 13px;
+
+  span {
+    &.rz-bar {
+      height: 13px;
+      border-radius: 6px;
+      background-color: #f6f6f6;
+      box-shadow: 1px 1px 3px darken(#f6f6f6, 15%);
+
+      &.rz-selection {
+        background: $brand-primary;
+        border-radius: 6px 0 0 6px;
+        border-right: 8px solid $brand-primary;
+        box-sizing: content-box;
+      }
+    }
+
+    &.rz-bubble {
+      &.rz-limit {
+        font-size: 14px;
+        color: $text-color;
+      }
+
+      &:not(.rz-limit) {
+        background-color: $gray;
+        color: #fff;
+        font-weight: 500;
+        margin-top: -30px;
+        margin-left: -1px;
+        min-height: 36px;
+        min-width: 36px;
+        border-radius: 50%;
+        line-height: 36px;
+        text-align: center;
+        padding: 1px 5px;
+
+        &:after {
+          content: '';
+          position: absolute;
+          top: 100%;
+          left: 50%;
+          width: 0;
+          height: 0;
+          margin-left: -8px;
+          margin-top: -3px;
+          border: 8px solid transparent;
+          border-top-color: $gray;
+        }
+      }
+    }
+
+    &.rz-pointer {
+      width: 24px;
+      height: 24px;
+      top: -7px;
+      background-color: #fff;
+      box-shadow: -0.776px 2.898px 3px 0 rgba(0, 1, 1, 0.35),inset 1px 1.732px 1px 0 rgba(255, 255, 255, 0.2);
+      transition: box-shadow .3s ease;
+
+      &:after {
+        display: none;
+      }
+
+      &:active {
+        box-shadow: 0 1px 3px 1px rgba(0,0,0,.4),0 0 0 15px rgba(33,62,127,.1);
+      }
+    }
+  }
+}

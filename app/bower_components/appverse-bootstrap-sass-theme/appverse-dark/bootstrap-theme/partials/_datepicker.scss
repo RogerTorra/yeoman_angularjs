@@ -1,0 +1,168 @@
+// Copyright (c) 2012 GFT Appverse, S.L., Sociedad Unipersonal.
+// This Source Code Form is subject to the terms of the Appverse Public License
+// Version 2.0 (“APL v2.0”). If a copy of the APL was not distributed with this
+// file, You can obtain one at http://www.appverse.mobi/licenses/apl_v2.0.pdf. [^]
+// Redistribution and use in source and binary forms, with or without modification,
+// are permitted provided that the conditions of the AppVerse Public License v2.0
+// are met.
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. EXCEPT IN CASE OF WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, IN NO EVENT
+// SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+// INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+// PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+// WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT(INCLUDING NEGLIGENCE OR OTHERWISE)
+// ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+// POSSIBILITY OF SUCH DAMAGE.
+
+//DATEPICKER CALENDAR STYLES
+//DATEPICKER
+.datepicker {
+  border-radius: 4px;
+  box-shadow: 0 1 3px rgba(0,0,0,.3);
+
+  table {
+    outline: none;
+    display: inline-block;
+    padding: .8em;
+  }
+
+  .glyphicon-chevron-left {
+    &:before {
+      content: '\e091';
+    }
+  }
+
+  .glyphicon-chevron-right {
+    &:before {
+      content: '\e092';
+    }
+  }
+
+  .btn {
+    background: none;
+    outline: none !important;
+    background-color: transparent;
+    color: $text-color;
+    border: none;
+    padding: .4em .8em;
+
+    .text-info {
+      color: lighten($brand-primary, 35%);
+    }
+
+    span {
+      display: inline-block;
+      padding: .2em .4em;
+      border-radius: 50%;
+    }
+
+    &:hover {
+      background-color: transparent;
+
+      span {
+        color: $white;
+        background-color: $body-bg;
+      }
+
+      .text-muted {
+        color: #eee;
+      }
+    }
+
+    &.active {
+      background-color: transparent;
+      box-shadow: none;
+
+      span {
+        background-color: $white;
+        color: $brand-primary;
+      }
+
+      .text-info {
+        color: lighten($brand-primary, 35%);
+      }
+
+      &:hover {
+        span {
+          color: $brand-primary;
+        }
+      }
+    }
+
+    &[disabled] {
+      &:hover {
+        background-color: transparent;
+        color: $text-color;
+
+        span {
+          background-color: transparent;
+          color: $text-color;
+        }
+      }
+    }
+  }
+
+  thead {
+    tr:first-child {
+      .btn {
+        &:hover {
+          background-color: $body-bg;
+        }
+      }
+    }
+  }
+}
+
+.datepicker + .input-group-btn {
+  .btn {
+    background-color: darken($brand-primary, 5%);
+    border: 1px solid $input-border;
+    color: $gray-light;
+
+    &:hover {
+      background-color: darken($brand-primary, 8%);
+      border-color: lighten($brand-primary, 25%);
+      color: darken($gray-light, 10%);
+    }
+
+    &:active {
+      outline: none;
+    }
+  }
+}
+
+.dropdown-menu {
+  &.ng-valid-date,
+  &.ng-invalid-date,
+  &.ng-valid-date-disabled {
+    background: none;
+    background-color: $brand-primary;
+
+    li[ng-if="showButtonBar"] {
+      @extend .clearfix;
+      padding-top: 0 !important;
+      padding-bottom: .4em !important;
+
+      .btn {
+        background: none;
+        border-radius: $border-radius-base !important;
+        color: $text-color;
+        border-color: lighten($text-color, 25%);
+
+        &:hover {
+          background-color: darken($brand-primary, 10%);
+          color: $white;
+        }
+      }
+
+      .btn-group {
+        .btn:first-child {
+          margin-right: .5em;
+        }
+      }
+    }
+  }
+}

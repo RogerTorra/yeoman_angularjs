@@ -1,0 +1,131 @@
+// Copyright (c) 2012 GFT Appverse, S.L., Sociedad Unipersonal.
+// This Source Code Form is subject to the terms of the Appverse Public License
+// Version 2.0 (“APL v2.0”). If a copy of the APL was not distributed with this
+// file, You can obtain one at http://www.appverse.mobi/licenses/apl_v2.0.pdf. [^]
+// Redistribution and use in source and binary forms, with or without modification,
+// are permitted provided that the conditions of the AppVerse Public License v2.0
+// are met.
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. EXCEPT IN CASE OF WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, IN NO EVENT
+// SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+// INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+// PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+// WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT(INCLUDING NEGLIGENCE OR OTHERWISE)
+// ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+// POSSIBILITY OF SUCH DAMAGE.
+
+// BUTTONS
+/*BUTTONS TEXT*/
+.btn {
+  text-transform: uppercase;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-shadow: none;
+
+  .caret {
+    border-top-color: #fff;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  &.btn-lg {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+.btn-default {
+  &:hover {
+    color: $btn-default-color;
+  }
+
+  .caret {
+    border-top-color: $text-color;
+  }
+}
+
+.buttons {
+  .btn {
+    margin-bottom: .5em;
+  }
+}
+/*BUTTONS OPACITY*/
+.btn.disabled {
+  opacity: .5;
+}
+/*BTN ACTION NEW KIND OF BUTTON FOR ACTION BUTTONS LIKE SUBMIT OR SAVE*/
+.btn-action {
+  border: 1px solid $btn-action-border;
+  background-color: $btn-action-bg;
+  color: $btn-action-color;
+
+  &:hover {
+    background-color: darken($btn-action-bg, 10%);
+    border: 1px solid darken($btn-action-border, 10%);
+  }
+}
+
+/*OUT OF TOOLBAR DROPDOWN MENU*/
+.btn-group {
+  .dropdown-menu {
+    background-color: $brand-primary;
+
+    >li {
+      >a {
+        color: $text-color;
+
+        &:hover {
+          background-color: $white;
+          color: $brand-primary;
+        }
+      }
+
+      &.divider {
+        background-color: $gray-light;
+      }
+    }
+  }
+
+  .dropdown-toggle {
+    .caret {
+      border-top-color: #fff;
+    }
+  }
+}
+
+.dropdown-menu {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+/*BUTTON GROUP THAT WORKS AS A TOGGLE*/
+.btn-group-toggle {
+  .btn {
+    background-color: $brand-primary;
+    color: $text-color;
+    text-transform: capitalize;
+    font-size: 1em;
+    border-collapse: collapse;
+    border-color: darken($brand-primary, 10%);
+    border-right-width: 0;
+
+    &:last-child {
+      border-right-width: 1px;
+    }
+
+    &:hover {
+      color: $text-color;
+      background-color: darken($brand-primary, 5%);
+    }
+
+    &.active {
+      background-color: darken($brand-primary,8%);
+      color: #fff;
+    }
+  }
+}

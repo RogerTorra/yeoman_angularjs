@@ -1,0 +1,231 @@
+// Copyright (c) 2012 GFT Appverse, S.L., Sociedad Unipersonal.
+// This Source Code Form is subject to the terms of the Appverse Public License
+// Version 2.0 (“APL v2.0”). If a copy of the APL was not distributed with this
+// file, You can obtain one at http://www.appverse.mobi/licenses/apl_v2.0.pdf. [^]
+// Redistribution and use in source and binary forms, with or without modification,
+// are permitted provided that the conditions of the AppVerse Public License v2.0
+// are met.
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. EXCEPT IN CASE OF WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, IN NO EVENT
+// SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+// INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+// PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+// WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT(INCLUDING NEGLIGENCE OR OTHERWISE)
+// ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+// POSSIBILITY OF SUCH DAMAGE.
+//SIDEBAR STYLES
+/*!
+ * Start Bootstrap - Simple Sidebar HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+/* Toggle Styles */
+#wrapper {
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  padding-left: 270px;
+
+  #sidebar-wrapper {
+    z-index: 1000;
+    position: fixed;
+    overflow: hidden;
+    width: 250px;
+    left: 250px;
+    height: calc(100% - 60px);
+    margin-left: -250px;
+    overflow-y: auto;
+    background: $body-bg;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+    border-right: 1px solid $brand-primary;
+  }
+
+  #page-content-wrapper {
+    padding: 20px;
+    position: relative;
+  }
+
+  &.toggled {
+    padding-left: 65px;
+
+    #sidebar-wrapper {
+      width: 45px;
+    }
+
+    #page-content-wrapper {
+      width: 100%;
+
+      //position: absolute;
+      //margin-right: -250px;
+      padding: 15px;
+      position: relative;
+      margin-right: 0;
+    }
+  }
+}
+
+/* Sidebar Styles */
+.sidebar-nav {
+  position: absolute;
+  top: 0;
+  width: 250px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    transition: all .3s linear;
+
+    a {
+      padding: 1em;
+      display: block;
+      text-decoration: none;
+      color: $brand-primary;
+
+      i {
+        margin-right: 1em;
+        transition: all .25s linear;
+      }
+
+      .text {
+        transition: all .3s linear;
+      }
+
+      &:hover {
+        text-decoration: none;
+        color: $brand-primary;
+        background: $white;
+
+        i {
+          &.glyphicon {
+            @extend .zoom;
+
+            &.glyphicon-pencil {
+              @extend .rotate;
+            }
+
+            &.glyphicon-home {
+              @extend .zoom;
+            }
+
+            &.glyphicon-th-list {
+              @extend .swingX;
+            }
+
+            &.glyphicon-apple {
+              @extend .swingY;
+            }
+
+            &.glyphicon-triangle-bottom {
+              @include rotate(-180deg);
+            }
+          }
+        }
+      }
+
+      &:active,
+      &:focus {
+        text-decoration: none;
+      }
+    }
+
+    &.active {
+      a {
+        background-color: $brand-primary;
+        color: $body-bg;
+      }
+    }
+  }
+
+  > .sidebar-brand {
+    height: 65px;
+    font-size: toUnit(18px, 14px, 'em');
+
+    a {
+      color: $brand-primary;
+
+      &:hover {
+        color: $brand-primary;
+        background: none;
+      }
+    }
+  }
+}
+
+.toggled {
+  .sidebar-nav {
+    li a {
+      .text {
+        font-size: 0;
+        width: 0;
+      }
+    }
+
+    .sidebar-brand {
+      height: 0;
+
+      a {
+        height: 0;
+      }
+    }
+  }
+}
+
+//Menu toggle button
+.menu-toggle {
+  position: fixed;
+  bottom: 0;
+  border-radius: 0;
+  border: none;
+  background-color: $body-bg;
+
+  i {
+    transition: all .3s linear;
+    color: $brand-primary;
+  }
+
+  &:hover {
+    background-color: $white;
+  }
+
+  &:focus {
+    background-color: $body-bg;
+
+    &:hover {
+      background-color: $white;
+    }
+  }
+}
+
+.toggled {
+  .menu-toggle {
+    i {
+      @include rotate(180deg);
+    }
+  }
+}
+
+//SIDEBAR MENU ITEMS TOOLTIP WHEN SMALL
+.side-menu-tooltip {
+  display: none !important;
+}
+
+.toggled {
+  .side-menu-tooltip {
+    display: block !important;
+    margin-left: -205px !important;
+  }
+}
+
+@media (max-width:768px) {
+  #wrapper {
+    padding-left: 65px;
+
+    &.toggled {
+      padding-left: 65px;
+    }
+  }
+}

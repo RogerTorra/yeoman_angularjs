@@ -1,0 +1,172 @@
+// Copyright (c) 2012 GFT Appverse, S.L., Sociedad Unipersonal.
+// This Source Code Form is subject to the terms of the Appverse Public License
+// Version 2.0 (“APL v2.0”). If a copy of the APL was not distributed with this
+// file, You can obtain one at http://www.appverse.mobi/licenses/apl_v2.0.pdf. [^]
+// Redistribution and use in source and binary forms, with or without modification,
+// are permitted provided that the conditions of the AppVerse Public License v2.0
+// are met.
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+// ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+// WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. EXCEPT IN CASE OF WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, IN NO EVENT
+// SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+// INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+// PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+// WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT(INCLUDING NEGLIGENCE OR OTHERWISE)
+// ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+// POSSIBILITY OF SUCH DAMAGE.
+//REGULAR GRID
+.table {
+  border-radius: 5px;
+
+  tr {
+    th {
+      text-transform: uppercase;
+      color: $text-color;
+      font-weight: 200;
+    }
+
+    td {
+      color: $text-color;
+    }
+
+    &.info {
+      td {
+        background-color: $brand-info !important;
+      }
+
+      &:hover {
+        td {
+          background-color: darken($brand-info, 5%) !important;
+        }
+      }
+    }
+
+    &.danger {
+      td {
+        background-color: $brand-danger !important;
+      }
+
+      &:hover {
+        td {
+          background-color: darken($brand-danger, 5%) !important;
+        }
+      }
+    }
+
+    &.success {
+      td {
+        background-color: $brand-success !important;
+      }
+
+      &:hover {
+        td {
+          background-color: darken($brand-success, 5%) !important;
+        }
+      }
+    }
+
+    &.warning {
+      td {
+        background-color: $brand-warning !important;
+      }
+
+      &:hover {
+        td {
+          background-color: darken($brand-warning, 5%) !important;
+        }
+      }
+    }
+  }
+}
+
+/*NG-GRID STYLES*/
+.ng-grid-header {
+  padding: 15px;
+  background: #fff;
+  border-radius: 5px 5px 0 0;
+  border: 1px solid $ng-grid-border-color;
+}
+
+.ngGrid {
+  border-radius: 5px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border: 1px solid $ng-grid-border-color;
+  border-top: none;
+  background-color: $ng-grid-bg;
+  min-height: 400px;
+
+  .ngTopPanel {
+    background-color: transparent;
+  }
+
+  .ngHeaderCell {
+    text-transform: uppercase;
+    color: #a6a6a6;
+    font-weight: 200;
+    background-color: transparent;
+    border-bottom: 1px solid $ng-grid-border-color;
+
+    .ngHeaderText {
+      padding: $ng-grid-cell-padding;
+    }
+  }
+
+  .ngRow {
+    background-color: transparent;
+
+    .ngCell {
+      color: #606060;
+      background-color: transparent;
+      border-bottom: 1px solid $ng-grid-border-color;
+
+      .ngCellText {
+        padding: $ng-grid-cell-padding;
+      }
+
+      &:last-child {
+        .ngCellText {
+          padding: 12px 20px;
+        }
+      }
+    }
+  }
+
+  .ngVerticalBar {
+    display: none;
+  }
+
+  .ngTotalSelectContainer {
+    margin-right: 20px;
+    font-size: 12px;
+    margin-top: 15px;
+  }
+
+  .ngSortButtonDown,
+  .ngSortButtonUp {
+    position: absolute;
+    top: 50%;
+    margin-top: -6px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    right: initial;
+    height: 0;
+    width: 0;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .ngSortButtonDown:after {
+    content: '\e093';
+  }
+
+  .ngSortButtonUp:after {
+    content: '\e094';
+  }
+}

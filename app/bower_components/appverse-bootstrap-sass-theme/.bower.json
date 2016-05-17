@@ -1,0 +1,26 @@
+{
+  "name": "appverse-bootstrap-sass-theme",
+  "version": "0.0.7",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.3"
+  },
+  "main": [
+    "bootstrap-theme.scss"
+  ],
+  "ignore": [
+    "demo",
+    "node_modules",
+    "Gruntfile.js",
+    ".bowerrc"
+  ],
+  "homepage": "https://github.com/Appverse/Appverse-Bootstrap-Sass-Theme",
+  "_release": "0.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.7",
+    "commit": "9f37db7c2c393ede1287a049708be8ecadb85d13"
+  },
+  "_source": "https://github.com/Appverse/Appverse-Bootstrap-Sass-Theme.git",
+  "_target": "~0.0.7",
+  "_originalSource": "appverse-bootstrap-sass-theme"
+}
