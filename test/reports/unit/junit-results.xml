@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <testsuites>
-  <testsuite name="PhantomJS 2.1.1 (Windows 7 0.0.0)" package="" timestamp="2016-05-17T09:39:36" id="0" hostname="PCLLE073">
+  <testsuite name="PhantomJS 2.1.1 (Mac OS X 0.0.0)" package="" timestamp="2016-05-22T17:45:59" id="0" hostname="Mac-mini-de-Roger.local">
     <properties>
-      <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
+      <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
     </properties>
   </testsuite>
-  <testsuite name="PhantomJS 2.1.1 (Windows 7 0.0.0)" package="" timestamp="2016-05-17T09:39:36" id="0" hostname="PCLLE073" tests="1" errors="0" failures="0" time="0.005">
+  <testsuite name="PhantomJS 2.1.1 (Mac OS X 0.0.0)" package="" timestamp="2016-05-22T17:45:59" id="0" hostname="Mac-mini-de-Roger.local" tests="1" errors="0" failures="0" time="0.007">
     <properties>
-      <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
+      <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
     </properties>
-    <testcase name="should have a properly working homeController controller" time="0.005" classname="PhantomJS 2.1.1 (Windows 7 0.0.0).Unit: Testing Controllers"/>
+    <testcase name="should have a properly working homeController controller" time="0.007" classname="PhantomJS 2.1.1 (Mac OS X 0.0.0).Unit: Testing Controllers"/>
     <system-out><![CDATA[
 ]]></system-out>
     <system-err/>

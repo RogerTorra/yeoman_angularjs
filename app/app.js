@@ -1,7 +1,5 @@
 (function() {
     'use strict';
-    //Instantiate agGrid Module to be used in angular
-    agGrid.initialiseAgGridWithAngular1(angular);
 
     angular.module('App.Controllers', []);
 
@@ -10,23 +8,12 @@
         'ui.bootstrap',
         'angularRipple',
         'ui.select',
-        'ngSanitize',
-        'rzModule',
-        'rt.resize',
-        'chart.js',
-        'xeditable',
-        'agGrid',
         'ui.router',
         'App.Controllers',
         'ngMdIcons',
         'angular-loading-bar'
-    ]).run(function($log, editableOptions) {
-        $log.debug('testAlphaApp run');
-        editableOptions.theme = 'bs3';
-        $('#menu-toggle').click(function(e) {
-            e.preventDefault();
-            $('#wrapper').toggleClass('toggled');
-        });
+    ]).run(function($log) {
+        $log.debug('run');
     }).config(['cfpLoadingBarProvider', function(cfpLoadingBarProvider) {
         cfpLoadingBarProvider.includeSpinner = false;
     }]);

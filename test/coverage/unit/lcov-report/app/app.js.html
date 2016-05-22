@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Code coverage report for ./app/app.js</title>
+    <title>Code coverage report for app/app.js</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="../prettify.css">
     <link rel="stylesheet" href="../base.css">
@@ -13,15 +13,15 @@
 </head>
 <body>
 <div class="header low">
-    <h1>Code coverage report for <span class="entity">./app/app.js</span></h1>
+    <h1>Code coverage report for <span class="entity">app/app.js</span></h1>
     <h2>
-        Statements: <span class="metric">33.33% <small>(5 / 15)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
+        Statements: <span class="metric">40% <small>(4 / 10)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
         Branches: <span class="metric">100% <small>(0 / 0)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
-        Functions: <span class="metric">14.29% <small>(1 / 7)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
-        Lines: <span class="metric">33.33% <small>(5 / 15)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
+        Functions: <span class="metric">16.67% <small>(1 / 6)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
+        Lines: <span class="metric">40% <small>(4 / 10)</small></span> &nbsp;&nbsp;&nbsp;&nbsp;
         Ignored: <span class="metric"><span class="ignore-none">none</span></span> &nbsp;&nbsp;&nbsp;&nbsp;
     </h2>
-    <div class="path"><a href="../index.html">All files</a> &#187; <a href="index.html">./app/</a> &#187; app.js</div>
+    <div class="path"><a href="../index.html">All files</a> &#187; <a href="index.html">app/</a> &#187; app.js</div>
 </div>
 <div class="body">
 <pre><table class="coverage">
@@ -65,38 +65,13 @@
 38
 39
 40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56</td><td class="line-coverage"><span class="cline-any cline-yes">1</span>
+41</td><td class="line-coverage"><span class="cline-any cline-yes">1</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">1</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">1</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -106,11 +81,6 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -137,8 +107,6 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">(function() {
     'use strict';
-    //Instantiate agGrid Module to be used in angular
-    agGrid.initialiseAgGridWithAngular1(angular);
 &nbsp;
     angular.module('App.Controllers', []);
 &nbsp;
@@ -147,25 +115,12 @@
         'ui.bootstrap',
         'angularRipple',
         'ui.select',
-        'ngSanitize',
-        'rzModule',
-        'rt.resize',
-        'chart.js',
-        'xeditable',
-        'agGrid',
         'ui.router',
-        //'appverse.router',
         'App.Controllers',
-        //'appverse',
         'ngMdIcons',
         'angular-loading-bar'
-    ]).run(<span class="fstat-no" title="function not covered" >function($log, editableOptions) {</span>
-<span class="cstat-no" title="statement not covered" >        $log.debug('testAlphaApp run');</span>
-<span class="cstat-no" title="statement not covered" >        editableOptions.theme = 'bs3';</span>
-<span class="cstat-no" title="statement not covered" >        $('#menu-toggle').click(<span class="fstat-no" title="function not covered" >function(e) {</span></span>
-<span class="cstat-no" title="statement not covered" >            e.preventDefault();</span>
-<span class="cstat-no" title="statement not covered" >            $('#wrapper').toggleClass('toggled');</span>
-        });
+    ]).run(<span class="fstat-no" title="function not covered" >function($log) {</span>
+<span class="cstat-no" title="statement not covered" >        $log.debug('run');</span>
     }).config(['cfpLoadingBarProvider', <span class="fstat-no" title="function not covered" >function(cfpLoadingBarProvider) {</span>
 <span class="cstat-no" title="statement not covered" >        cfpLoadingBarProvider.includeSpinner = false;</span>
     }]);
@@ -195,7 +150,7 @@
 
 </div>
 <div class="footer">
-    <div class="meta">Generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Tue May 17 2016 11:39:36 GMT+0200 (Romance Daylight Time)</div>
+    <div class="meta">Generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Sun May 22 2016 19:45:59 GMT+0200 (CEST)</div>
 </div>
 <script src="../prettify.js"></script>
 <script>
