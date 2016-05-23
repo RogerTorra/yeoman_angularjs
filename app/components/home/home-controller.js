@@ -1,10 +1,9 @@
 'use strict';
 
-angular.module('App.Controllers')
+angular.module('basetfgApp')
 
 .controller('homeController',
     function ($log, $scope) {
         $log.debug('homeController loading');
-
         $scope.greeting = 'Welcome';
     });

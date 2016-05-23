@@ -3,4 +3,5 @@
 /.tmp
 /.sass-cache
 /app/bower_components
+/bower_components
 /templates
