@@ -54,10 +54,11 @@ module.exports = yeoman.Base.extend({
         "config",
         "tasks"
     ];
-        base = 'C:/projects/generator-tower-angular/generators/app/templates/';
+       // base = 'C:/projects/generator-tower-angular/generators/app/templates/';
       files.forEach(function (file) { 
           this.fs.copy(
-            path.join(base, file),
+            //path.join(base, file),
+            this.templatePath(file), 
             this.destinationPath(file)
         );
       }.bind(this));
@@ -79,12 +80,10 @@ module.exports = yeoman.Base.extend({
         "app/app.js",
         "test/e2e/homeSpec.js"
     ];
-          base = 'C:/projects/generator-tower-angular/generators/app/templates/';
+          //base = 'C:/projects/generator-tower-angular/generators/app/templates/';
       templates.forEach(function (template) {
-                    this.log(base);
-          this.log(template);
-        this.fs.copyTpl(
-            path.join(base, template),
+            this.fs.copyTpl(
+            this.templatePath(template),
             this.destinationPath(template),
             this
         );
@@ -94,9 +93,9 @@ module.exports = yeoman.Base.extend({
       
     // determine the app root
       var rootPath = findup('.yo-rc.json');
-      this.log("1 "+rootPath);
+      this.log("1 "+this.sourceRoot());
       rootPath = rootPath ? path.dirname(rootPath) : process.cwd();
-      this.log("2 "+rootPath);
+      this.log("2 "+this.templatePath('Gruntfile.js'));
       if (rootPath !== process.cwd()) {
         this.log(
           '\n' +
@@ -141,13 +140,10 @@ module.exports = yeoman.Base.extend({
 
   writing: function () {     
        //FILES
-      this.moveFiles('./templates/', project.files);
+      this.moveFiles(this.templatePath(''), project.files);
       //TEMPLATES
-      this.moveTemplates(this.templatePath(), project.templates);
-        /*this.fs.copy(
-          this.templatePath('dummyfile.txt'),
-          this.destinationPath('dummyfile.txt')
-        );*/
+      this.moveTemplates(this.templatePath(''), project.templates);
+
   },
 
   install: function () {
