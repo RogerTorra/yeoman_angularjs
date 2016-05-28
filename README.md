@@ -21,8 +21,23 @@ npm install -g bower
 
 npm install -g grunt
 
+npm install -g yo
+
+
 
 ## Running
+*configure generator
+
+```script
+npm install
+npm link
+```
+
+*generating project
+
+```script
+yo tower_angular
+```
 
 * configure project:
 
