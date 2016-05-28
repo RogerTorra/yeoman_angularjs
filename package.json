@@ -1,65 +1,53 @@
 {
-    "name": "basetfg",
-    "version": "0.0.1",
-    "repository": {
-        "type": "git",
-        "url": "user/repo"
-    },
+  "name": "generator-tower-angular",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "Roger Torra",
+    "email": "elrogertorra@gmail.com",
+    "url": "http://github.com/rogertorra"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators\\index.js",
+  "keywords": [
+    "html5",
+    "angularjs",
+    "grunt",
+    "bower",
+    "demo"
+  ],
+   "dependencies": {
+    "findup-sync": "^0.2.1",
+    "chalk": "^1.1.1",
+    "cheerio": "^0.19.0",
+    "lodash": "^3.6.0",
+    "update-notifier": "^0.6.0",
+    "yosay": "^1.0.5",
+    "escodegen": "^1.6.1",
+    "esprima": "^2.6.0",
+    "estraverse": "^4.1.0",
+    "fs-extra": "^0.26.0",
+    "html-wiring": "^1.2.0",
+    "js-beautify": "^1.6.2",
+    "json-schema-faker": "0.3.1",
+    "request": "^2.53.0",
+    "shelljs": "^0.5.3",
+    "underscore.string": "^3.2.2",
+    "urllib-sync": "^1.0.1",
+    "yeoman-generator": "^0.18.1",
+    "z-schema": "^3.9.4"
+
+  },
     "devDependencies": {
-        "autoprefixer": "^6.0.3",
-        "grunt-browser-sync": "2.1.3",
-        "grunt": "0.4.5",
-        "grunt-concurrent": "1.0.0",
-        "grunt-contrib-clean": "0.6.0",
-        "grunt-contrib-coffee": "0.13.0",
-        "grunt-contrib-concat": "0.5.1",
-        "grunt-contrib-copy": "0.8.0",
-        "grunt-contrib-cssmin": "0.12.2",
-        "grunt-contrib-htmlmin": "0.4.0",
-        "grunt-contrib-jshint": "0.11.2",
-        "grunt-contrib-uglify": "0.9.1",
-        "grunt-contrib-watch": "0.6.1",
-        "grunt-include-source": "^0.7.1",
-        "grunt-istanbul": "^0.3.0",
-        "grunt-jscs": "^2.1.0",
-        "grunt-karma": "0.12.1",
-        "grunt-license-report": "0.0.8",
-        "grunt-ng-annotate": "0.10.0",
-        "grunt-postcss": "^0.6.0",
-        "grunt-release": "^0.13.0",
-        "grunt-rev": "0.1.0",
-        "grunt-sass": "1.1.0",
-        "grunt-shell": "^1.1.2",
-        "grunt-usemin": "3.0.0",
-        "grunt-wiredep": "^2.0.0",
-        "jshint-stylish": "^2.0.1",
-        "karma": "^0.13.0",
-        "karma-chrome-launcher": "0.1.8",
-        "karma-coverage": "0.3.1",
-        "karma-jasmine": "0.3.5",
-        "karma-junit-reporter": "^0.2.2",
-        "karma-notify-reporter": "^0.1.1",
-        "karma-phantomjs-launcher": "^1.0.0",
-        "karma-sinon": "^1.0.4",
-        "load-grunt-configs": "0.4.3",
-        "load-grunt-tasks": "3.1.0",
-        "lodash": "3.7.0",
-        "ng-describe": "^1.4.1",
-        "time-grunt": "1.1.1",
-        "phantomjs-prebuilt": "^2.1.0",
-        "protractor": "^2.5.0",
-        "q": "^1.4.1",
-        "sinon": "^1.17.2",
-        "istanbul": "^0.3.17",
-        "jasmine-core": "2.2.0",
-        "jasmine-reporters": "^2.0.7"
-    },
-    "engines": {
-        "node": ">=0.10.0",
-        "npm": ">=1.4.5"
-    },
-    "scripts": {
-        "postinstall": "node node_modules/protractor/bin/webdriver-manager update",
-        "test": "grunt test"
-    }
+    "fs-extra": "^0.26.0",
+    "istanbul": "^0.4.0",
+    "js-beautify": "^1.6.2",
+    "mocha": "*",
+    "xunit-file": "0.0.9",
+    "yeoman-assert": "^2.1.1",
+    "yeoman-test": "^1.1.0"
+  }
 }

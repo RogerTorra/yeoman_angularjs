@@ -1,0 +1,32 @@
+{
+    "test":"testueee",
+    "templates": [
+        "app/index.html",
+        "package.json",
+        "bower.json",
+        ".jshintrc",
+        ".jscsrc",
+        ".jshintignore",
+        ".jsbeautifyrc",
+        "README.md",
+        "app/components/home/home.html",
+        "app/components/home/home-controller.js",
+        "app/states/app-states.js",
+        "app/app.js",
+        "test/e2e/homeSpec.js"
+    ],
+    "files": [
+        ".yo-rc.json",
+        ".bowerrc",
+        "Gruntfile.js",
+        "test",
+        "app/styles",
+        "config",
+        "tasks"
+    ],
+    "appScripts": [
+        "app.js",
+        "components/**/*.js",
+        "states/**/*.js"
+    ]
+}
