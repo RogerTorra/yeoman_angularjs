@@ -22,7 +22,7 @@ npm install -g bower
 npm install -g grunt
 
 npm install -g yo
-
+```
 
 
 ## Running
