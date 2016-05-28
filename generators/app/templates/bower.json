@@ -1,5 +1,5 @@
 {
-  "name": "basetfg",
+  "name": "<%= name %>",
   "version": "0.0.1",
   "directory":"app/",
   "dependencies": {

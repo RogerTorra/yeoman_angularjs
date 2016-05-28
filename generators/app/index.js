@@ -9,7 +9,6 @@ var path = require('path');
 var findup = require('findup-sync');
 
 var project ={
-    "test":"testueee",
     "templates": [
         "app/index.html",
         "package.json",
@@ -54,7 +53,6 @@ module.exports = yeoman.Base.extend({
         "config",
         "tasks"
     ];
-       // base = 'C:/projects/generator-tower-angular/generators/app/templates/';
       files.forEach(function (file) { 
           this.fs.copy(
             //path.join(base, file),
@@ -80,12 +78,14 @@ module.exports = yeoman.Base.extend({
         "app/app.js",
         "test/e2e/homeSpec.js"
     ];
-          //base = 'C:/projects/generator-tower-angular/generators/app/templates/';
+    this.props.css = '<%= css %>';
+    this.props.scripts = '<%= scripts %>';
+        
       templates.forEach(function (template) {
             this.fs.copyTpl(
             this.templatePath(template),
             this.destinationPath(template),
-            this
+            this.props
         );
     }.bind(this));
   },   
@@ -112,7 +112,7 @@ module.exports = yeoman.Base.extend({
     this.log(yosay(
       'Welcome to the scrumtrulescent ' + chalk.red('generator-tower-angular') + ' generator!'
     ));
-     this.log(chalk.bgBlack.cyan('\n+-----------------------------------------------------------+\n'+
+     this.log(chalk.bgBlack.cyan('\n\n\n+-----------------------------------------------------------+\n'+
 'XXXXXXXXXXXXX                                               |\n'+
 'XXXXXXXXXXXXX                                               |\n'+
 'XXXXXXXXXXXXX    XXX            XXX         XXXXXXXXXXXX    |\n'+
@@ -125,13 +125,15 @@ module.exports = yeoman.Base.extend({
 '|            XXXX                 XXXXXX                    |\n'+
 '+----------------------------------------------------------->\n'));  
     var prompts = [{
-      type: 'confirm',
-      name: 'someOption',
-      message: 'Would you like to enable this option?',
-      default: true
-    }];
+    type: 'input',
+    name: 'name',
+    message: 'Whats your project name',
+    //Defaults to the project's folder name if the input is skipped
+    default: this.appname
+  }];
       
     this.prompt(prompts, function (props) {
+        this.log(props);
       this.props = props;
       // To access props later use this.props.someOption;
       done();

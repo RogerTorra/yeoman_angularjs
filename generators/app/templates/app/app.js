@@ -3,7 +3,7 @@
 
     angular.module('App.Controllers', []);
 
-    angular.module('basetfgApp', [
+    angular.module('<%= name %>App', [
         'ngAnimate',
         'ui.bootstrap',
         'angularRipple',
@@ -20,7 +20,7 @@
 
 
     //Animation for views transition.
-    angular.module('basetfgApp').animation('.fade-in', function() {
+    angular.module('<%= name %>App').animation('.fade-in', function() {
         return {
             enter: function(element, done) {
                 element.css({

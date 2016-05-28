@@ -7,7 +7,7 @@
 
 'use strict';
 
-angular.module('basetfgApp')
+angular.module('<%= name %>')
     .config(
     ['$stateProvider', '$urlRouterProvider',
       function ($stateProvider, $urlRouterProvider) {

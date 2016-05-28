@@ -4,11 +4,11 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!-->
 <!--<html class="no-js" manifest="cache.manifest">-->
-<html class="no-js" ng-app="basetfgApp">
+<html class="no-js" ng-app="<%= name %>App">
 <!--<![endif]-->
 
 <head>
-    <title data-ng-bind="'Base - ' + $state.current.name"></title>
+    <title data-ng-bind="'<%= name %> - ' + $state.current.name"></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
@@ -19,7 +19,7 @@
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:css styles/css/styles.css -->
-    <!-- include: "type": "css", "files": "<% css %>" -->
+    <!-- include: "type": "css", "files": "<%= css %>" -->
 
     <!-- /include -->
     <!-- endbuild -->
@@ -82,7 +82,7 @@
 
     <!-- endbower -->
 
-    <!-- include: "type": "js", "files": "<% scripts %>" -->
+    <!-- include: "type": "js", "files": "<%= scripts %>" -->
 
     <!-- /include -->
     <!-- endbuild -->

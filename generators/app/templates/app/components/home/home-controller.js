@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('basetfgApp')
+angular.module('<%= name %>App')
 
 .controller('homeController',
     function ($log, $scope) {
