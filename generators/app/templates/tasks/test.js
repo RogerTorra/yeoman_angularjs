@@ -22,20 +22,5 @@ module.exports = function(grunt) {
         'karma:unit'
     ]);
 
-    grunt.registerTask('test', [
-        'clean:reports',
-        'karma:continuous',
-        'clean:server',
-        'concurrent:server',
-        'postcss:css',
-        'instrument',
-        'browserSync:test',
-        'shell:jasmine2'
-    ]);
-
-    grunt.registerTask('test:unit:auto', [
-        'karma:unit_auto'
-    ]);
-
 
 };

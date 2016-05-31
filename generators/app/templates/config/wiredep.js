@@ -3,21 +3,6 @@ module.exports = {
     update: {
         src: ['app/index.html'],
         options:{
-            "exclude": [
-                "/lodash/",
-                "/sockjs-client/",
-                "/sifter/",
-                "/json3/",
-                "/microplugin/",
-                "/placeholders/",
-                "/angular-highlightjs/",
-                "/angular-cache/",
-                "/angular-dynamic-locale/",
-                "/angular-translate/",
-                "/angular-translate-loader-static-files/",
-                "/restangular/",
-                "/stomp-websocket/"
-            ],
             "overrides": {
                 "jquery": {
                     "main": [
@@ -114,13 +99,6 @@ module.exports = {
                                 "dist/css/selectize.css"
                             ]
                 },
-                "appverse-web-html5-core": {
-                    "main": [
-                                "dist/appverse/appverse.min.js",
-                                "dist/appverse-router/appverse-router.min.js",
-                                "dist/appverse-utils/appverse-utils.min.js"
-                            ]
-                }
             }
         }
     }

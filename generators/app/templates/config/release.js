@@ -1,6 +1,5 @@
 'use strict';
 
-// Renames files for browser caching purposes
 module.exports = {
   options: {
     additionalFiles: ['bower.json'],

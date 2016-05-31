@@ -8,43 +8,10 @@ var slug = require("underscore.string");
 var path = require('path');
 var findup = require('findup-sync');
 
-var project ={
-    "templates": [
-        "app/index.html",
-        "package.json",
-        "bower.json",
-        ".jshintrc",
-        ".jscsrc",
-        ".jshintignore",
-        ".jsbeautifyrc",
-        "README.md",
-        "app/components/home/home.html",
-        "app/components/home/home-controller.js",
-        "app/states/app-states.js",
-        "app/app.js",
-        "test/e2e/homeSpec.js"
-    ],
-    "files": [
-        ".yo-rc.json",
-        ".bowerrc",
-        "Gruntfile.js",
-        "test",
-        "app/styles",
-        "config",
-        "tasks"
-    ],
-    "appScripts": [
-        "app.js",
-        "components/**/*.js",
-        "states/**/*.js"
-    ]
-};
 
 module.exports = yeoman.Base.extend({
-    scripts: "<%= scripts %>",
-    css: "<%= scripts %>",
-    moveFiles: function moveFiles(base, files) {
-    files =  [
+    moveFiles: function moveFiles() {
+    var files =  [
         ".yo-rc.json",
         ".bowerrc",
         "Gruntfile.js",
@@ -62,8 +29,8 @@ module.exports = yeoman.Base.extend({
       }.bind(this));
     },
 
-    moveTemplates: function moveTemplates(base, templates) {
-        templates = [
+    moveTemplates: function moveTemplates() {
+       var templates = [
         "app/index.html",
         "package.json",
         "bower.json",
@@ -106,45 +73,43 @@ module.exports = yeoman.Base.extend({
       }
   },
   prompting: function () {
-    var done = this.async();
-      this.log(project.test);
-    // Have Yeoman greet the user.
-    this.log(yosay(
-      'Welcome to the scrumtrulescent ' + chalk.red('generator-tower-angular') + ' generator!'
-    ));
-     this.log(chalk.bgBlack.cyan('\n\n\n+-----------------------------------------------------------+\n'+
-'XXXXXXXXXXXXX                                               |\n'+
-'XXXXXXXXXXXXX                                               |\n'+
-'XXXXXXXXXXXXX    XXX            XXX         XXXXXXXXXXXX    |\n'+
-'XXXXXXXXXXXXX     XXXX   XX    XXXX         XXX      XXX    |\n'+
-'   XXXXXXX  XXXXXX  XXX  XX   XXXX   XXXXX  XXXX     XXX    |\n'+
-'+  XXXXXXX XXXXXXXX  XXX XX  XXXX  XXX   XX XXXXXXXXXXXX    |\n'+
-'|  XXXXXXX XX    XX  XXXXXXXXXX   XXXXXXXXX XXX   XXXX      |\n'+
-'|  XXXXXXX XXXXXXXX     XXXXX    XXX        XXX      XXX    |\n'+
-'|           XXXXXX              XXX     XX  XXX        XXX  |\n'+
-'|            XXXX                 XXXXXX                    |\n'+
-'+----------------------------------------------------------->\n'));  
-    var prompts = [{
-    type: 'input',
-    name: 'name',
-    message: 'Whats your project name',
-    //Defaults to the project's folder name if the input is skipped
-    default: this.appname
-  }];
+        var done = this.async();
+        // Have Yeoman greet the user.
+        this.log(chalk.bgBlack.cyan('\n\n\n+-----------------------------------------------------------+\n'+
+                                 'XXXXXXXXXXXXX                                               |\n'+
+                                 'XXXXXXXXXXXXX                                               |\n'+
+                                 'XXXXXXXXXXXXX    XXX            XXX         XXXXXXXXXXXX    |\n'+
+                                 'XXXXXXXXXXXXX     XXXX   XX    XXXX         XXX      XXX    |\n'+
+                                 '   XXXXXXX  XXXXXX  XXX  XX   XXXX   XXXXX  XXXX     XXX    |\n'+
+                                 '+  XXXXXXX XXXXXXXX  XXX XX  XXXX  XXX   XX XXXXXXXXXXXX    |\n'+
+                                 '|  XXXXXXX XX    XX  XXXXXXXXXX   XXXXXXXXX XXX   XXXX      |\n'+
+                                 '|  XXXXXXX XXXXXXXX     XXXXX    XXX        XXX      XXX    |\n'+
+                                 '|           XXXXXX              XXX     XX  XXX        XXX  |\n'+
+                                 '|            XXXX                 XXXXXX                    |\n'+
+                                 '+----------------------------------------------------------->\n'));  
+        this.log(chalk.red('generator-tower-angular') + ' Create your angular application project.');
       
-    this.prompt(prompts, function (props) {
-        this.log(props);
-      this.props = props;
-      // To access props later use this.props.someOption;
-      done();
-    }.bind(this));
+        var prompts = [{
+            type: 'input',
+            name: 'name',
+            message: 'Whats your project name',
+            //Defaults to the project's folder name if the input is skipped
+            default: this.appname
+        }];
+      
+        this.prompt(prompts, function (props) {
+            this.log(props);
+            this.props = props;
+          // To access props later use this.props.someOption;
+          done();
+        }.bind(this));
   },
 
   writing: function () {     
        //FILES
-      this.moveFiles(this.templatePath(''), project.files);
+      this.moveFiles();
       //TEMPLATES
-      this.moveTemplates(this.templatePath(''), project.templates);
+      this.moveTemplates();
 
   },
 
