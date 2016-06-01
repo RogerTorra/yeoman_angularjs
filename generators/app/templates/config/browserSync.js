@@ -1,5 +1,19 @@
 'use strict';
 // Add vendor prefixed styles
+
+var proxy = require('http-proxy-middleware')     
+var localProxy = proxy('/api',{ 
+
+    target: 'http://localhost:8001', 
+    changeOrigin: true, 
+    pathRewrite:{ 
+        '/api': '/'
+    } 
+
+});
+
+
+
 module.exports = {
     options: {
         watchTask: true,
@@ -21,7 +35,8 @@ module.exports = {
     dev: {
         options: {
             server: {
-                baseDir: ['./<%= paths.app %>']
+                baseDir: ['./<%= paths.app %>'],
+                middleware: [localProxy] 
             },
               files: [
                 'app/**/*.js',

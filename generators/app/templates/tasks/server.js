@@ -34,6 +34,7 @@ module.exports = function (grunt) {
         'clean:server',
         'concurrent:server',
         'postcss:css',
+        'apimocker',
         'browserSync:dev',
         'jshint:all',
         'wiredep',
