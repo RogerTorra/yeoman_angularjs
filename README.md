@@ -26,11 +26,10 @@ npm install -g yo
 
 
 ## Running
-*configure generator
+*download generator
 
 ```script
-npm install
-npm link
+npm install generator-tower-angular
 ```
 
 *generating project
