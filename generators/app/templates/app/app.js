@@ -11,7 +11,9 @@
         'ui.router',
         'App.Controllers',
         'ngMdIcons',
-        'angular-loading-bar'
+        'angular-loading-bar',
+        'ngMaterial',
+        'restangular'
     ]).run(function($log) {
         $log.debug('run');
     }).config(['cfpLoadingBarProvider', function(cfpLoadingBarProvider) {

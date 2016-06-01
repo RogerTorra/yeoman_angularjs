@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<div class="container-fluid">
+ <div class="home">
+         <h1>Beers </h1>
+         <select name="style" ng-model="vm.selectedStyle" 
+                 ng-options="option.shortName for option in vm.styles track by option.id">
+        </select>
+        <md-whiteframe class="md-whiteframe-6dp whiteframe" layout layout-align="center center">
+            <p><i class="glyphicon glyphicon-info-sign"> </i> - {{vm.selectedStyle.description}}</p>
+        </md-whiteframe>
+        <md-card>
+            <img ng-src="{{vm}}" class="md-card-image" alt="Washed Out">
+            <md-card-title>
+              <md-card-title-text>
+                <span class="md-headline">{{vm.beers}}</span>
+              </md-card-title-text>
+            </md-card-title>
+            <md-card-content>
+              <p>
+                The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+                two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+              </p>
+              <p>
+                The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+                two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+              </p>
+              <p>
+                The titles of Washed Out's breakthrough song and the first single from Paracosm share the
+                two most important words in Ernest Greene's musical language: feel it. It's a simple request, as well...
+              </p>
+            </md-card-content>
+            <md-card-actions layout="row" layout-align="end center">
+              <md-button aria-label="left"><i class="glyphicon glyphicon-chevron-left"> </i></md-button>
+              <md-button aria-label="right"><i class="glyphicon glyphicon-chevron-right"> </i></md-button>
+            </md-card-actions>
+      </md-card>
+  </div>
+</div>

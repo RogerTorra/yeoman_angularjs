@@ -1,0 +1,1716 @@
+{
+    "currentPage": 1,
+    "numberOfPages": 1,
+    "totalResults": 37,
+    "data": [
+        {
+            "id": "IJRx7g",
+            "name": "3X Mild Ale",
+            "nameDisplay": "3X Mild Ale",
+            "abv": "7.2",
+            "ibu": "38",
+            "srmId": 29,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IJRx7g/upload_8S4otf-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IJRx7g/upload_8S4otf-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IJRx7g/upload_8S4otf-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-01-01 02:06:40",
+            "updateDate": "2016-05-20 10:00:12",
+            "srm": {
+                "id": 29,
+                "name": "29",
+                "hex": "660D00"
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "fQuADn",
+            "name": "Alex's Mild",
+            "nameDisplay": "Alex's Mild",
+            "description": "The smooth British malts dominate both the aroma and flavor while the English East Kent Goldings hops are mostly nonexistent, just there to create a balance that is not too sweet while adding a bit of earthy aromatics. It has a medium light body that hits with malt character in the middle and finishes quite dry leaving the palate ready for more, which is by design as this style is considered a session beer.",
+            "abv": "4.2",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fQuADn/upload_F1xqn5-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fQuADn/upload_F1xqn5-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fQuADn/upload_F1xqn5-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-09-10 19:30:14",
+            "updateDate": "2015-12-17 17:30:26",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "OR0Ozh",
+            "name": "Alfred's Honey Mild",
+            "nameDisplay": "Alfred's Honey Mild",
+            "description": "A traditional dark mild ale, with added honey",
+            "abv": "3.2",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OR0Ozh/upload_UFbFlZ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OR0Ozh/upload_UFbFlZ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OR0Ozh/upload_UFbFlZ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-21 22:06:02",
+            "updateDate": "2015-12-16 21:22:32",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "Tb8EHh",
+            "name": "Bays Dark Ale",
+            "nameDisplay": "Bays Dark Ale",
+            "description": "This Dark style Ale offers a full-bodied flavour, but not too heavy taste. The Dark is a dark coloured but light tasting sessionable product that can be enjoyed over and over again year-round. A local favourite, Bays Dark is a very drinkable beer that’s hard to put down. Bays Dark finishes smooth with its chocolate malt addition and lacks the heavy component in many other darker beers because of its pilsener malt.",
+            "abv": "4",
+            "ibu": "4",
+            "glasswareId": 5,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Tb8EHh/upload_CGuwF9-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Tb8EHh/upload_CGuwF9-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Tb8EHh/upload_CGuwF9-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Bays Dark Ale and Meat and Cheese Pie, can it get better? Also, hearty roasts and steak.",
+            "createDate": "2014-02-05 22:20:17",
+            "updateDate": "2015-12-17 08:40:04",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "Ce3KW1",
+            "name": "Black Sheep Unusual Dark Beer",
+            "nameDisplay": "Black Sheep Unusual Dark Beer",
+            "description": "A label reserved for that occasional dark beer that refuses to be easily  categorised.",
+            "styleId": 11,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Ce3KW1/upload_5KdDqh-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Ce3KW1/upload_5KdDqh-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Ce3KW1/upload_5KdDqh-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-27 16:44:48",
+            "updateDate": "2015-12-18 03:09:31",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "czwGMM",
+            "name": "Brawler",
+            "nameDisplay": "Brawler",
+            "description": "PUGILIST STYLE ALE\r\nThe most approachable of our ales, Brawler is malt forward and delicately hopped for a knockout flavor. Its smooth character, hints of caramel and toast, and remarkable drinkability define this ruby colored brew as a true session ale. Perfect for when you want to go a few rounds.\r\n\r\nAWARDS \r\nSilver Medal in the English Mild category at the 2013 Great American Beer Festival",
+            "abv": "4.2",
+            "ibu": "12",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/czwGMM/upload_Ar54yu-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/czwGMM/upload_Ar54yu-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/czwGMM/upload_Ar54yu-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Brawler's bready essence and luscious malts lend a sweetness that brings out flavors in margherita pizza and low and slow BBQ. Its lower alcohol content makes it a great partner for spicier dishes. It also goes great with the company of good friends.",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-16 04:57:31",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "0bOIzD",
+            "name": "Brewer’s Dark",
+            "nameDisplay": "Brewer’s Dark",
+            "description": "This dark-coloured beer is smooth, well-rounded and light to drink. It has enticingly sweet undertones of liquorice and chocolate, and a full, malty aftertaste. Always a favourite with cask ale fanatics. This beer has also won a CAMRA gold award, so we’re confident about its quality. First brewed in 1982.",
+            "abv": "3.5",
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/0bOIzD/upload_yinOMU-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/0bOIzD/upload_yinOMU-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/0bOIzD/upload_yinOMU-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-13 16:17:19",
+            "updateDate": "2015-12-18 00:28:06",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "E9nrPA",
+            "name": "BøgeBryg",
+            "nameDisplay": "BøgeBryg",
+            "abv": "5.2",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/E9nrPA/upload_78MuQj-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/E9nrPA/upload_78MuQj-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/E9nrPA/upload_78MuQj-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-24 17:24:13",
+            "updateDate": "2015-12-18 03:03:25",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "BTKyL2",
+            "name": "Canterbury Dark Mild Lager",
+            "nameDisplay": "Canterbury Dark Mild Lager",
+            "description": "Specialty Lager: Caramel bodied with delicate aroma hops and a pleasant finish\r\nCanada’s first copper-coloured lager, Canterbury Dark Mild is brewed with the finest hops, yeast and most importantly, two-row malted barley. This distinctive beer is an homage to the finest of British brews and a favourite of those want mouth-filling flavour when they’re in the pub or at home.\r\n\r\nCanterbury features a smooth, mature taste to complement its bold, rich colour while retaining a lager’s traditional, fresh finish. This classically brewed beer is a tad sweeter than its pale pilsner cousins and a natural complement to a good Irish Stew or other full-bodied fare. The ideal match is most pub grub like fish and chips or steak and kidney pie",
+            "abv": "5",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BTKyL2/upload_MSgGXD-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BTKyL2/upload_MSgGXD-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BTKyL2/upload_MSgGXD-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-31 13:02:53",
+            "updateDate": "2015-12-16 17:46:46",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "X5xegC",
+            "name": "Chasing The Dragon",
+            "nameDisplay": "Chasing The Dragon",
+            "abv": "7.1",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/X5xegC/upload_0NMLb3-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/X5xegC/upload_0NMLb3-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/X5xegC/upload_0NMLb3-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-11-22 03:48:20",
+            "updateDate": "2015-12-17 20:06:22",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "3qzZ5I",
+            "name": "Clean Shaven Series #5: Nut Brown Ale",
+            "nameDisplay": "Clean Shaven Series #5: Nut Brown Ale",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3qzZ5I/upload_bsY4Lk-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3qzZ5I/upload_bsY4Lk-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3qzZ5I/upload_bsY4Lk-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-01-12 20:58:00",
+            "updateDate": "2015-12-17 08:11:28",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "pX6BrE",
+            "name": "Crusader Dark Mild Ale",
+            "nameDisplay": "Crusader Dark Mild Ale",
+            "description": "The finest imported English Mild Ale malt along with Crystal and Chocolate Malts combine with true English hops to create an English style treat.  A deep copper color pleases the eyes while fine malts and Fuggles hops please the palate.",
+            "abv": "3.8",
+            "ibu": "20",
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/pX6BrE/upload_3YkvlM-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/pX6BrE/upload_3YkvlM-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/pX6BrE/upload_3YkvlM-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.04",
+            "createDate": "2014-09-12 15:35:42",
+            "updateDate": "2015-12-17 18:13:26",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "MnaZjo",
+            "name": "Dark",
+            "nameDisplay": "Dark",
+            "description": "There is something of a pagan feel about Arran. A place where nature still holds sway. Where the qualities of tradition are still valued. This Isle of Arran Dark Premium Beer offers you a smooth beer of weight and substance, brewed from only the purest water and natural ingredients, and free of artificial additives or preservatives. Naturally.",
+            "abv": "4.3",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/MnaZjo/upload_bwQZ2a-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/MnaZjo/upload_bwQZ2a-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/MnaZjo/upload_bwQZ2a-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-27 15:05:06",
+            "updateDate": "2015-12-18 01:35:01",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "8y1i0b",
+            "name": "Dark Age",
+            "nameDisplay": "Dark Age",
+            "abv": "4",
+            "glasswareId": 5,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8y1i0b/upload_C2qBQY-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8y1i0b/upload_C2qBQY-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8y1i0b/upload_C2qBQY-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-11-12 12:47:30",
+            "updateDate": "2015-12-17 06:32:37",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "lUrrHn",
+            "name": "Dark Ale",
+            "nameDisplay": "Dark Ale",
+            "description": "This is a very pleasant dark ale. This dark ale has an up front arome of chocolate and good dark malt flavours of coffee and chocolate. Despite being a dark beer, this one has a light body for drinkability.",
+            "abv": "4",
+            "ibu": "27",
+            "srmId": 41,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/lUrrHn/upload_94Bchk-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/lUrrHn/upload_94Bchk-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/lUrrHn/upload_94Bchk-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-02-11 18:08:48",
+            "updateDate": "2015-12-17 09:46:15",
+            "srm": {
+                "id": 41,
+                "name": "Over 40",
+                "hex": "000000"
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "zQfwoE",
+            "name": "Dark Mild",
+            "nameDisplay": "Dark Mild",
+            "description": "Small beer, big ego. This mahogany colored ale is a delightful medley of malted barley. As you peel back the layers of malt, you’ll discover a delicate beer surrounded with complexity and blended with the flavors of toasted bread and chocolate cake. There’s even a hint of coffee for that roasted dry element your palate craves. The Mild is best enjoyed fresh and prides itself as a low-alcohol session beer. Its dark facade and nutty finish provide an allure that is truly one of a kind. Our mild is well-suited for draught and cask conditioning. Hungry? We suggest pairing with grilled portobellos and seared beef garnished with truffle oil.",
+            "abv": "4",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zQfwoE/upload_kh67IS-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zQfwoE/upload_kh67IS-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zQfwoE/upload_kh67IS-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-06-13 18:17:16",
+            "updateDate": "2015-12-16 17:34:24",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "atu6m1",
+            "name": "Dark Mild",
+            "nameDisplay": "Dark Mild",
+            "description": "A traditional English Dark Mild, one of the great underappreciated beers. Mild in ABV, mild in hop bitterness and aroma, yet our most full flavoured and drinkable ale. Light bodied and very smooth, yet dark in colour with a rich, chocolate flavor.",
+            "abv": "3.7",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/atu6m1/upload_IjftZv-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/atu6m1/upload_IjftZv-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/atu6m1/upload_IjftZv-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-07-27 15:01:25",
+            "updateDate": "2015-12-17 04:58:22",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "lnxbIV",
+            "name": "Darkness",
+            "nameDisplay": "Darkness",
+            "description": "Aromatic roast malts give a deep red colour and Fuggles hops give a mild level of bitterness and aroma.",
+            "abv": "4.2",
+            "glasswareId": 5,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/lnxbIV/upload_idNXFf-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/lnxbIV/upload_idNXFf-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/lnxbIV/upload_idNXFf-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-21 17:34:06",
+            "updateDate": "2015-12-16 22:31:34",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "y4uVIv",
+            "name": "Deep Thought",
+            "nameDisplay": "Deep Thought",
+            "description": "Brewed with infinite majesty and calm. Full bodied rich and dark. This highly hopped beer is bursting with citrus and berry flavours... one to contemplate?",
+            "abv": "4.7",
+            "availableId": 8,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/y4uVIv/upload_wIOpJV-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/y4uVIv/upload_wIOpJV-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/y4uVIv/upload_wIOpJV-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-03 17:39:14",
+            "updateDate": "2015-12-17 21:05:33",
+            "available": {
+                "id": 8,
+                "name": "Winter",
+                "description": "Available during the winter months."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "NayFs9",
+            "name": "Doll's Eye",
+            "nameDisplay": "Doll's Eye",
+            "description": "Doll's Eye Cascadian Dark Ale is a hoppy dark ale with pleasant notes of malt roastiness. Brewed with generous amounts of Cascade and Nugget hops, giving it a piney and floral hop character.",
+            "abv": "5.2",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NayFs9/upload_x22MPu-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NayFs9/upload_x22MPu-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NayFs9/upload_x22MPu-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-09 16:12:23",
+            "updateDate": "2015-12-18 00:45:37",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "skWlio",
+            "name": "Gutch",
+            "nameDisplay": "Gutch",
+            "description": "Gutch is an American twist on the mild English Ale. This Deep red amber ale is highlighted by notes of hazelnut, bittersweet chocolate and toffee.   Our blend of foreign and domestic hops bring the malt character forward leaving behind subtle hints of citrus, and spice, and everything nice.",
+            "abv": "5",
+            "ibu": "16",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/skWlio/upload_YjqpyQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/skWlio/upload_YjqpyQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/skWlio/upload_YjqpyQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-09-10 19:51:41",
+            "updateDate": "2015-12-17 17:36:30",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "tP3KRw",
+            "name": "Hazelnut Mild",
+            "nameDisplay": "Hazelnut Mild",
+            "abv": "4.2",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/tP3KRw/upload_yiz9VX-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/tP3KRw/upload_yiz9VX-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/tP3KRw/upload_yiz9VX-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-10-28 19:48:00",
+            "updateDate": "2015-12-18 05:36:37",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "I2jrBu",
+            "name": "Hooky Mild",
+            "nameDisplay": "Hooky Mild",
+            "description": "A dark chestnut coloured ale, full of roast malt flavours, and complemented with superb dry-hop aromas from East Kent Goldings.",
+            "abv": "2.8",
+            "styleId": 11,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/I2jrBu/upload_tUG5q0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/I2jrBu/upload_tUG5q0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/I2jrBu/upload_tUG5q0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-28 18:41:31",
+            "updateDate": "2015-12-18 01:48:43",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "lngmOE",
+            "name": "Jennings Dark Mild",
+            "nameDisplay": "Jennings Dark Mild",
+            "description": "Jennings Dark Mild is a very dark, malty mild, which is characteristically sweet, but well balanced and extremely drinkable.",
+            "abv": "3.1",
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/lngmOE/upload_88Y91P-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/lngmOE/upload_88Y91P-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/lngmOE/upload_88Y91P-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-27 14:02:10",
+            "updateDate": "2015-12-18 01:21:48",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "wmWqlC",
+            "name": "Little London",
+            "nameDisplay": "Little London",
+            "description": "Colorado Springs was founded as a resort in the pristine wilderness. It attracted so many English tourists, many of whom had helped finance the town’s railroad, that it garnered the nickname “Little London”.\r\nIn tribute, we present this classic English Mild. It’s most refreshing brown ale, malt-forward with dried fruit aromas that lead to a light body of roasted coffee and walnut. A true session beer to start your retreat.",
+            "abv": "5.1",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/wmWqlC/upload_kQ24MV-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/wmWqlC/upload_kQ24MV-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/wmWqlC/upload_kQ24MV-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-09-10 04:12:23",
+            "updateDate": "2016-05-18 17:07:03",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "OhuB5I",
+            "name": "Mamoot English Mild",
+            "nameDisplay": "Mamoot English Mild",
+            "description": "Mamoot is the brown ale’s laid back brother, a perfect breakfast beer. Subtle notes of jam, coffee, and chocolate add to the toasty finish. This brew is mahogany colored and full flavored, despite the relatively light ABV.",
+            "abv": "4",
+            "ibu": "10",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OhuB5I/upload_gZTnWF-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OhuB5I/upload_gZTnWF-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OhuB5I/upload_gZTnWF-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Mamoot is great with BBQ, frog legs and beef jerky.  Mamoot and Gouda cheese is a fine afternoon snack.",
+            "createDate": "2015-07-08 20:13:44",
+            "updateDate": "2015-12-18 04:11:58",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "VjkznP",
+            "name": "Meathooks",
+            "nameDisplay": "Meathooks",
+            "description": "Toasty, biscuity and satisfying, lush layers of malt flavor and aroma culminate in a clean dry finish that begs another taste. Meathooks is the perfect companion to great food and excellent conversation. It's like a warm hug from the inside out.",
+            "abv": "4.2",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/VjkznP/upload_4MiFYt-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/VjkznP/upload_4MiFYt-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/VjkznP/upload_4MiFYt-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-09-17 22:46:12",
+            "updateDate": "2015-12-17 17:26:39",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "eEjA64",
+            "name": "Midshipman Mild",
+            "nameDisplay": "Midshipman Mild",
+            "description": "A Dark Mild brewed with mild malt and Kentish Hops leaving a roasted aftertaste on the palate.Mild was originally known as a training beer and this bears relation to the use of the Naval phrase \"Midshipman\". Meaning A non commissioned officer below the rank of Lieutenant. Usually regarded as being in training to some degree. Was also known as a \"Snotty\". The lowest form of rank in the Royal Navy where he has authority over and responsibility for more junior ranks, yet at the same time relying on their experience and learning his trade from them.",
+            "abv": "4",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/eEjA64/upload_HiLLDi-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/eEjA64/upload_HiLLDi-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/eEjA64/upload_HiLLDi-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-06-22 15:03:06",
+            "updateDate": "2015-12-17 03:41:06",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "6RksAk",
+            "name": "Mild At Heart",
+            "nameDisplay": "Mild At Heart",
+            "description": "‘Dark Mild’ English style session beer with the ABV and color of an Irish Stout but a nuttier, softer mouthfeel from crystal and chocolate malts, and a finishing dryness from aroma hops. Brewed for drinkability to extract the maximum complexity and flavor from a relatively ‘light’ beer, warm fermented to accentuate dark fruit and roast malt notes. Conceived for cask and perfect served as a Real Ale. Hopped with Cluster and Perle.",
+            "abv": "4.4",
+            "ibu": "29",
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6RksAk/upload_W3iPZt-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6RksAk/upload_W3iPZt-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6RksAk/upload_W3iPZt-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Dark meat barbecue plates, charcuterie, and any other unctuous dishes.",
+            "createDate": "2015-03-12 19:11:45",
+            "updateDate": "2015-12-17 23:58:03",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "gxt5Wd",
+            "name": "Old Peculier",
+            "nameDisplay": "Old Peculier",
+            "description": "One of the great beers of the world - rich, dark, smooth and mellow tasting, with a character all its own.  Brewed using the traditional Fuggle hop, Old Peculiar is our best known beer and has a large and enthusiastic following across the globe.",
+            "abv": "5.7",
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/gxt5Wd/upload_45wo7O-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/gxt5Wd/upload_45wo7O-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/gxt5Wd/upload_45wo7O-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:51",
+            "updateDate": "2015-12-18 14:47:40",
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "PlWAOh",
+            "name": "Organic India Dark Ale",
+            "nameDisplay": "Organic India Dark Ale",
+            "description": "Organic India Dark Ale is brewed from barley malt and more aromatic hop types, which gives a fresh scent of hops and citrus. \r\nEnglish chocolate malt beer is soft, and the rounds dark coloring comes from toasted wheat-and barley malt. Organic India Dark Ale has a nice and creamy foam, and the large amount of new Zealand hops gives a good, fresh bitterness. A beer with nice fill.",
+            "abv": "6.2",
+            "ibu": "70",
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/PlWAOh/upload_LoBwyW-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/PlWAOh/upload_LoBwyW-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/PlWAOh/upload_LoBwyW-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Organic India Dark Ale is very well suited for the heavy kitchen as oksebov, pig jaws and tasteful sausages, and reflects strong dishes with a pleasant bitterness",
+            "originalGravity": "1.063",
+            "createDate": "2015-02-18 21:32:50",
+            "updateDate": "2015-12-17 22:47:27",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "rcMS5y",
+            "name": "Roses are Red",
+            "nameDisplay": "Roses are Red",
+            "description": "Fruity full body ale. Full body mouth feel with a bright red colour and fruity hedgerow aromas",
+            "abv": "4.7",
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rcMS5y/upload_8cirzB-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rcMS5y/upload_8cirzB-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rcMS5y/upload_8cirzB-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cellar",
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+            "createDate": "2016-03-14 11:54:56",
+            "updateDate": "2016-03-17 19:49:14",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "S5NhOY",
+            "name": "Stir Crazy",
+            "nameDisplay": "Stir Crazy",
+            "description": "A new season means new adventures. We created Stir Crazy Winter Ale to warm you from within during the coldest time of year. Our sturdy winter warmer is brewed with cocoa nibs, vanilla, raisins and brown sugar. Layers of malty goodness create a dark ruby color and satisfying notes of chocolate and rich caramel, while pulverized raisins and brown sugar provide a fruity complexity. Bundle up and enjoy!",
+            "abv": "6.5",
+            "ibu": "22",
+            "availableId": 8,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/S5NhOY/upload_V64y8n-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/S5NhOY/upload_V64y8n-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/S5NhOY/upload_V64y8n-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-02-12 18:38:07",
+            "updateDate": "2015-12-17 09:51:50",
+            "available": {
+                "id": 8,
+                "name": "Winter",
+                "description": "Available during the winter months."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "f3Vd7J",
+            "name": "Supernova",
+            "nameDisplay": "Supernova",
+            "description": "The name for this cask ale was inspired by the legendary Oasis song. It’s perfect for any celebrations and parties that you may have or maybe you just want it for its Manchester spirit. This dark cask ale has undertones of liquorice and chocolate, with a rich, fruity taste.",
+            "abv": "3.5",
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/f3Vd7J/upload_o3mrw2-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/f3Vd7J/upload_o3mrw2-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/f3Vd7J/upload_o3mrw2-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-13 16:49:27",
+            "updateDate": "2015-12-18 00:53:16",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "POtWdo",
+            "name": "The Growler",
+            "nameDisplay": "The Growler",
+            "abv": "5",
+            "glasswareId": 5,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/POtWdo/upload_6Ejuy1-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/POtWdo/upload_6Ejuy1-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/POtWdo/upload_6Ejuy1-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:44:22",
+            "updateDate": "2015-12-16 13:33:10",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "AEy0IC",
+            "name": "Tryst Brockville Dark",
+            "nameDisplay": "Tryst Brockville Dark",
+            "description": "A dark ruby coloured full tasting session ale.",
+            "abv": "3.8",
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AEy0IC/upload_nvX5mz-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AEy0IC/upload_nvX5mz-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AEy0IC/upload_nvX5mz-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-26 16:54:09",
+            "updateDate": "2015-02-26 17:42:46",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        },
+        {
+            "id": "M9410g",
+            "name": "Uncle",
+            "nameDisplay": "Uncle",
+            "description": "Nutty, toasty and malty yet light drinking mild ale.",
+            "abv": "3.8",
+            "ibu": "17",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 11,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/M9410g/upload_6SLLJP-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/M9410g/upload_6SLLJP-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/M9410g/upload_6SLLJP-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-06-22 18:25:19",
+            "updateDate": "2015-12-17 03:43:36",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 11,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Dark Mild Ale",
+                "shortName": "English Dark Mild",
+                "description": "English dark mild ales range from deep copper to dark brown (often with a red tint) in color. Malt flavor and caramel are part of the flavor and aroma profile while, licorice and roast malt tones may sometimes contribute to the flavor and aroma profile. Body should be low-medium to medium. These beers have very little hop flavor or aroma. Very low diacetyl flavors may be appropriate in this low-alcohol beer. Fruity-ester level is very low.",
+                "ibuMin": "10",
+                "ibuMax": "24",
+                "abvMin": "3.2",
+                "abvMax": "4",
+                "srmMin": "17",
+                "srmMax": "34",
+                "ogMin": "1.03",
+                "fgMin": "1.004",
+                "fgMax": "1.008",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:43"
+            }
+        }
+    ],
+    "status": "success"
+}

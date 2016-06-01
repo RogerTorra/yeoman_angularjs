@@ -1,0 +1,2421 @@
+{
+    "currentPage": 1,
+    "numberOfPages": 2,
+    "totalResults": 94,
+    "data": [
+        {
+            "id": "0UUty4",
+            "name": "120 Shilling",
+            "nameDisplay": "120 Shilling",
+            "description": "This strong scotch-style ale has high maltiness, full body, low hop bitterness, flavor & aroma, low-medium fruity esters, very deep copper color,\r\nslight chill haze, clean alcohol flavor balancing the rich and dominant sweet caramel & dark roasted maltiness flavor and aroma with a very low level of peaty/smoky character from the addition of small amounts of peated malt.",
+            "abv": "9.1",
+            "ibu": "30",
+            "glasswareId": 6,
+            "srmId": 26,
+            "availableId": 2,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/0UUty4/upload_2ZhRcN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/0UUty4/upload_2ZhRcN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/0UUty4/upload_2ZhRcN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.09",
+            "createDate": "2014-03-22 13:41:37",
+            "updateDate": "2015-12-17 10:55:57",
+            "glass": {
+                "id": 6,
+                "name": "Snifter",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 26,
+                "name": "26",
+                "hex": "771900"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "FyPsly",
+            "name": "90 Shilling Ale",
+            "nameDisplay": "90 Shilling Ale",
+            "description": "This 90 Shilling Ale, a style that is a refreshingly malty beer.  The dark amber color betrays its slightly sweet, caramel roastedness.  There is very little hop bitterness and it finishes with a gorgeous clean, dry, smoke.",
+            "abv": "6.6",
+            "ibu": "30",
+            "availableId": 1,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FyPsly/upload_ENQVp2-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FyPsly/upload_ENQVp2-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FyPsly/upload_ENQVp2-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.08",
+            "createDate": "2014-09-16 15:02:48",
+            "updateDate": "2015-12-17 18:30:57",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "GwmnAn",
+            "name": "A Few Shillings Too Many",
+            "nameDisplay": "A Few Shillings Too Many",
+            "abv": "12.5",
+            "glasswareId": 8,
+            "availableId": 4,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/GwmnAn/upload_2Q84sV-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/GwmnAn/upload_2Q84sV-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/GwmnAn/upload_2Q84sV-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "createDate": "2013-01-21 22:46:52",
+            "updateDate": "2015-12-16 22:17:15",
+            "glass": {
+                "id": 8,
+                "name": "Tulip",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "nqdFbs",
+            "name": "Aftermath",
+            "nameDisplay": "Aftermath",
+            "abv": "10.5",
+            "ibu": "25",
+            "glasswareId": 6,
+            "availableId": 1,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nqdFbs/upload_4NPCly-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nqdFbs/upload_4NPCly-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nqdFbs/upload_4NPCly-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cellar",
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+            "createDate": "2012-10-25 12:18:30",
+            "updateDate": "2015-12-16 19:01:24",
+            "glass": {
+                "id": 6,
+                "name": "Snifter",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "YlzNY4",
+            "name": "Barrel Aged Full Malted Jacket",
+            "nameDisplay": "Barrel Aged Full Malted Jacket",
+            "abv": "12",
+            "glasswareId": 5,
+            "styleId": 8,
+            "isOrganic": "N",
+            "beerVariationId": "wSGZOd",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/YlzNY4/upload_Ty1rmx-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/YlzNY4/upload_Ty1rmx-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/YlzNY4/upload_Ty1rmx-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-02-22 17:54:32",
+            "updateDate": "2015-12-17 02:04:09",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            },
+            "beerVariation": {
+                "id": "wSGZOd",
+                "name": "Full Malted Jacket",
+                "nameDisplay": "Full Malted Jacket",
+                "abv": "9.2",
+                "glasswareId": 5,
+                "availableId": 3,
+                "styleId": 8,
+                "isOrganic": "N",
+                "labels": {
+                    "icon": "https://s3.amazonaws.com/brewerydbapi/beer/wSGZOd/upload_ZgGhUY-icon.png",
+                    "medium": "https://s3.amazonaws.com/brewerydbapi/beer/wSGZOd/upload_ZgGhUY-medium.png",
+                    "large": "https://s3.amazonaws.com/brewerydbapi/beer/wSGZOd/upload_ZgGhUY-large.png"
+                },
+                "status": "verified",
+                "statusDisplay": "Verified",
+                "createDate": "2013-02-22 17:53:49",
+                "updateDate": "2015-12-16 23:09:12",
+                "glass": {
+                    "id": 5,
+                    "name": "Pint",
+                    "createDate": "2012-01-03 02:41:33"
+                },
+                "available": {
+                    "id": 3,
+                    "name": "Not Available",
+                    "description": "Beer is not available."
+                },
+                "style": {
+                    "id": 8,
+                    "categoryId": 1,
+                    "category": {
+                        "id": 1,
+                        "name": "British Origin Ales",
+                        "createDate": "2012-03-21 20:06:45"
+                    },
+                    "name": "Scottish-Style Heavy Ale",
+                    "shortName": "Scottish Heavy",
+                    "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                    "ibuMin": "12",
+                    "ibuMax": "20",
+                    "abvMin": "3.5",
+                    "abvMax": "4",
+                    "srmMin": "10",
+                    "srmMax": "19",
+                    "ogMin": "1.035",
+                    "fgMin": "1.01",
+                    "fgMax": "1.014",
+                    "createDate": "2012-03-21 20:06:45",
+                    "updateDate": "2015-04-07 15:19:48"
+                }
+            }
+        },
+        {
+            "id": "p7p578",
+            "name": "BBC Scotch Ale",
+            "nameDisplay": "BBC Scotch Ale",
+            "description": "Sweet and malty with a warming alcohol finish, this beer is perfectly suited for cool evenings during the late summer months. A handful of peat kilned malt lends a slight smoky flavor that harkens back to the traditional brewing techniques of Scotland, when kilts and bagpipes were all the rage.",
+            "abv": "7",
+            "ibu": "40",
+            "glasswareId": 5,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/p7p578/upload_DELAlr-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/p7p578/upload_DELAlr-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/p7p578/upload_DELAlr-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-10-15 02:42:02",
+            "updateDate": "2015-12-17 07:03:47",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "sWEtFC",
+            "name": "Big Eddy Wee Heavy Scotch Ale",
+            "nameDisplay": "Big Eddy Wee Heavy Scotch Ale",
+            "description": "With eleven dark-roasted malts and flavors of toffee and chocolate our Russian Imperial Stout complements the rich, decadent flavor of chocolate desserts with dried cranberries and the big, bold taste of beef dishes like a coffee rubbed ribeye.",
+            "abv": "9.5",
+            "ibu": "18",
+            "glasswareId": 6,
+            "availableId": 2,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/sWEtFC/upload_25oPx6-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/sWEtFC/upload_25oPx6-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/sWEtFC/upload_25oPx6-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-06-14 12:14:42",
+            "updateDate": "2015-12-16 16:30:30",
+            "glass": {
+                "id": 6,
+                "name": "Snifter",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "eaCYBi",
+            "name": "Bourbon Barrel Aged Double Scottish Ale",
+            "nameDisplay": "Bourbon Barrel Aged Double Scottish Ale",
+            "description": "Our Bourbon Barrel Aged ales are brewed and carefully cellar-aged for over 100 days in small batches in decanted bourbon barrels at our brewery in Portland, Maine.  Double Scottish Ale is a malty and smooth ale with aromas of black licorice, wood, raisins and clove.",
+            "abv": "11.4",
+            "ibu": "32",
+            "glasswareId": 8,
+            "srmId": 41,
+            "availableId": 2,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/eaCYBi/upload_j9cveD-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/eaCYBi/upload_j9cveD-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/eaCYBi/upload_j9cveD-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cellar",
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+            "createDate": "2012-12-20 21:55:43",
+            "updateDate": "2015-12-16 21:34:44",
+            "glass": {
+                "id": 8,
+                "name": "Tulip",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 41,
+                "name": "Over 40",
+                "hex": "000000"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "vwYYhU",
+            "name": "Caribou Kilt",
+            "nameDisplay": "Caribou Kilt",
+            "description": "Our 2008 World Beer Cup bronze metal winner. ”Make sure your kilt is cinched up tight! This is surprisingly smooth, wonderful malt flavor Strong\r\nScotch Ale coming in at a hefty 8.5%.   Strong Scotch Style is also known as a “wee heavy” with a ABV between  6.5% - 10%.",
+            "abv": "8.5",
+            "glasswareId": 5,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/vwYYhU/upload_xj8WeM-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/vwYYhU/upload_xj8WeM-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/vwYYhU/upload_xj8WeM-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:57",
+            "updateDate": "2015-12-16 10:00:13",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "fmOq03",
+            "name": "Clans Scottish Ale",
+            "nameDisplay": "Clans Scottish Ale",
+            "description": "Deep chestnut in color. Rich malty ale with low hop bitterness and aroma. Smoked peat malt gives this ale a subtle smokey finish.",
+            "abv": "4.75",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fmOq03/upload_us7Obu-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fmOq03/upload_us7Obu-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fmOq03/upload_us7Obu-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.054",
+            "createDate": "2012-04-23 13:48:01",
+            "updateDate": "2015-12-16 17:21:28",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "3ELZzm",
+            "name": "Crimson Wonder",
+            "nameDisplay": "Crimson Wonder",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3ELZzm/upload_8FA6kQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3ELZzm/upload_8FA6kQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3ELZzm/upload_8FA6kQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-12-18 12:45:34",
+            "updateDate": "2015-12-17 08:58:31",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "mrZabu",
+            "name": "Drafty Kilt",
+            "nameDisplay": "Drafty Kilt",
+            "description": "A roasty scotch ale with a hint of smoke. Full-bodied, but not overpowering. Smokey, but not in a creepy bar kind of way. Sweet, but not obnoxiously so. Sound like your ideal mother-in-law? Fair enough, but it also is a pretty dead-on description of our Scotch Ale. In a difficult hop-growing climate, Scottish brewers relied on other ingredients to impart flavor and bitterness – one such ingredient was smoked malt. Drafty Kilt is a dark, malty bombshell of a beer.",
+            "abv": "7.2",
+            "ibu": "26",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/mrZabu/upload_eZZras-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/mrZabu/upload_eZZras-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/mrZabu/upload_eZZras-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-25 00:14:07",
+            "updateDate": "2015-12-16 15:36:16",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "RYtnLo",
+            "name": "Drafty Kilt Nitro",
+            "nameDisplay": "Drafty Kilt Nitro",
+            "abv": "7.2",
+            "ibu": "26",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/RYtnLo/upload_YfXcDc-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/RYtnLo/upload_YfXcDc-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/RYtnLo/upload_YfXcDc-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-02-17 19:51:54",
+            "updateDate": "2016-02-17 19:53:22",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "24nlAe",
+            "name": "Duck-Rabbit Wee Heavy Scotch Style Ale",
+            "nameDisplay": "Duck-Rabbit Wee Heavy Scotch Style Ale",
+            "abv": "8",
+            "glasswareId": 5,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/24nlAe/upload_DvmZDj-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/24nlAe/upload_DvmZDj-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/24nlAe/upload_DvmZDj-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:07",
+            "updateDate": "2015-12-16 14:28:37",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "Uh6ZzQ",
+            "name": "Earth & Flame",
+            "nameDisplay": "Earth & Flame",
+            "description": "Earth & Flame was forged from the friendship of Victory Brewing Company and Earth – Bread + Brewery. With our shared passion for dark flavorful ales, we saw a great opportunity to collaborate on a Scotch-style ale.\r\n\r\nSavor the rich flavors that emerge from the dark depths of this limited edition brew. With hints of sweet winter desserts and dark fruits, peat smoked malts and fine bourbon barrel aging smooth the intensity of this complex ale.",
+            "abv": "11.7",
+            "availableId": 2,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Uh6ZzQ/upload_0FIi6y-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Uh6ZzQ/upload_0FIi6y-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Uh6ZzQ/upload_0FIi6y-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-12-19 21:31:07",
+            "updateDate": "2016-04-12 16:52:34",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "kxy1YB",
+            "name": "Ebulum",
+            "nameDisplay": "Ebulum",
+            "description": "Elderberry ale has formed part of the Celtic tradition since it was introduced by Welsh druids in the 9th century, where the ale was passed around the people of the village during the Autumn festival. Our recipe was taken from a 16th century record of domestic drinking in the Scottish Highlands and is Brewed with roasted barley and chocolate malt, then infused with elderberries to deliver a dark, rich, fruity beer with a strong single hop aroma and satisfying bitter conclusion.",
+            "abv": "6.5",
+            "ibu": "18",
+            "glasswareId": 5,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/kxy1YB/upload_I30rnI-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/kxy1YB/upload_I30rnI-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/kxy1YB/upload_I30rnI-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.062",
+            "createDate": "2012-02-29 02:04:43",
+            "updateDate": "2015-12-16 14:50:10",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "rlUOPS",
+            "name": "Eorna Ceol Ale",
+            "nameDisplay": "Eorna Ceol Ale",
+            "description": "With this release by Justin Umlah, our seventh brewer apprentice, we bring you his take on a Scottish Style Wee Heavy. Eorna Ceol, or barley music in Gaelic, is a rich, full bodied ale with a beautiful mahogany color.",
+            "abv": "8.5",
+            "availableId": 3,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rlUOPS/upload_9AAy6j-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rlUOPS/upload_9AAy6j-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rlUOPS/upload_9AAy6j-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:10",
+            "updateDate": "2015-12-16 12:53:16",
+            "available": {
+                "id": 3,
+                "name": "Not Available",
+                "description": "Beer is not available."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "Ypa8M5",
+            "name": "Fat Scotch Ale",
+            "nameDisplay": "Fat Scotch Ale",
+            "description": "A big, dark, malt accented brew with a touch of peat malt for a scotch-whiskey-like character. \r\n\r\nGold Medal - Great American Beer Festival 2002 & 2003\r\nSilver Medal - World Beer Cup 06\r\nGold - North American Beer Awards - 2009",
+            "abv": "9.2",
+            "ibu": "30",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Ypa8M5/upload_lmBojk-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Ypa8M5/upload_lmBojk-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Ypa8M5/upload_lmBojk-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:12",
+            "updateDate": "2015-12-16 13:12:20",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "cHJsNt",
+            "name": "Fisherman's 70/- Shilling Scottish Ale",
+            "nameDisplay": "Fisherman's 70/- Shilling Scottish Ale",
+            "description": "Shilling categories were based on price charged per hogshead (54 Imperial gallons) during the 19th century in Scotland. Our 70 Shilling has medium malty sweetness, low hop character and mild caramel notes leading to a clean dry finish.",
+            "glasswareId": 3,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cHJsNt/upload_QFcu6V-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cHJsNt/upload_QFcu6V-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cHJsNt/upload_QFcu6V-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-04-13 01:57:15",
+            "updateDate": "2015-12-16 16:37:22",
+            "glass": {
+                "id": 3,
+                "name": "Mug",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "oABUgg",
+            "name": "Forranach 120",
+            "nameDisplay": "Forranach 120",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oABUgg/upload_ntc8ZX-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oABUgg/upload_ntc8ZX-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oABUgg/upload_ntc8ZX-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-11-25 13:56:24",
+            "updateDate": "2015-12-17 08:03:42",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "mVrwzD",
+            "name": "Full Boar",
+            "nameDisplay": "Full Boar",
+            "description": "Full Boar™ Scotch Ale is deeply malted and caramel apparent with overtones of chocolate and a slight hint of a mild, smoky flavor.\r\n\r\nOur Full Boar Scotch Ale’s proprietary malt blend, lightly smoked with peat moss, imparts subtle hints of chocolate, caramel and smoke in a beer that drinks astonishingly smoothly.",
+            "abv": "7.4",
+            "ibu": "12",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/mVrwzD/upload_R3fvpM-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/mVrwzD/upload_R3fvpM-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/mVrwzD/upload_R3fvpM-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "First-Class chefs pair this Wee Heavy style ale with the finest cuts of meat, yet it has been infused into everything from artisanal cheeses to ice cream.",
+            "createDate": "2012-01-03 02:43:15",
+            "updateDate": "2016-05-03 19:42:59",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "wSGZOd",
+            "name": "Full Malted Jacket",
+            "nameDisplay": "Full Malted Jacket",
+            "abv": "9.2",
+            "glasswareId": 5,
+            "availableId": 3,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/wSGZOd/upload_ZgGhUY-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/wSGZOd/upload_ZgGhUY-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/wSGZOd/upload_ZgGhUY-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-02-22 17:53:49",
+            "updateDate": "2015-12-16 23:09:12",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 3,
+                "name": "Not Available",
+                "description": "Beer is not available."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "KmbouE",
+            "name": "Heavy Red Horseman",
+            "nameDisplay": "Heavy Red Horseman",
+            "description": "This Scottish style \"Wee Heavy\" exhibits three words: BIG, SMOOTH, and MALTY! This ale is deep copper in color with a creamy head. While you will not pick up any noticeable hop flavor or aroma, your tongue will be thrilled with malty sweetness and a hint of smokiness. We take pride in brewing this by classic Scottish brewing techniques that include kettle caramelization and fermentation at 50F for 4 weeks.\r\n\r\n2014 World Beer Cup SILVER MEDAL\r\n2014 VA Craft Brewers Festival GOLD MEDAL",
+            "abv": "7.5",
+            "ibu": "20",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KmbouE/upload_bQYeoK-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KmbouE/upload_bQYeoK-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KmbouE/upload_bQYeoK-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-07-04 12:53:42",
+            "updateDate": "2015-12-17 14:36:55",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "EuqSpn",
+            "name": "Highway 78 Scotch Ale",
+            "nameDisplay": "Highway 78 Scotch Ale",
+            "description": "Collaboration: Green Flash, Pizza Port Carlsbad, Stone",
+            "abv": "8.8",
+            "glasswareId": 5,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/EuqSpn/upload_B9Ih88-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/EuqSpn/upload_B9Ih88-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/EuqSpn/upload_B9Ih88-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:23",
+            "updateDate": "2015-12-16 13:13:06",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "sw14Qc",
+            "name": "Jacobite Ale",
+            "nameDisplay": "Jacobite Ale",
+            "description": "Brewed to celebrate the anniversary of the 1745 Jacobite rebellion the ale proved to be so popular it has become a permanent addition to the range. Based on an eighteenth century recipe the ale is spiced with coriander which gives a remarkably fresh aftertaste.",
+            "abv": "8",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/sw14Qc/upload_SeHnyN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/sw14Qc/upload_SeHnyN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/sw14Qc/upload_SeHnyN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:31",
+            "updateDate": "2015-12-15 22:57:12",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "B1O6v7",
+            "name": "Kilt Flasher",
+            "nameDisplay": "Kilt Flasher",
+            "description": "A Scottish-Style Wee Heavy Ale that is deep ruby in color, full in body with flavors of caramel and sweet malts.\r\n\r\n2013 Virginia Craft Brewers Fest Bronze Winner",
+            "abv": "8",
+            "ibu": "20",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/B1O6v7/upload_l6sjXi-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/B1O6v7/upload_l6sjXi-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/B1O6v7/upload_l6sjXi-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-13 17:00:47",
+            "updateDate": "2015-12-18 01:05:14",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "3wRbqJ",
+            "name": "Kilt of Personality Wee Heavy Ale",
+            "nameDisplay": "Kilt of Personality Wee Heavy Ale",
+            "description": "A deep copper color, sweet and full-bodied, our traditional Scotch strong ale is full of roasted malt and caramel flavors and has some sweet tea-like aromas. Pairs well with smoked meat and artisanal cheeses.",
+            "abv": "8.4",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3wRbqJ/upload_37WMxS-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3wRbqJ/upload_37WMxS-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3wRbqJ/upload_37WMxS-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Pairs well with smoked meat and artisanal cheeses.",
+            "createDate": "2015-09-02 18:35:39",
+            "updateDate": "2015-12-18 04:13:13",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "EAYT49",
+            "name": "Last Kiss",
+            "nameDisplay": "Last Kiss",
+            "abv": "9.5",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/EAYT49/upload_Ylfh9F-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/EAYT49/upload_Ylfh9F-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/EAYT49/upload_Ylfh9F-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-10-24 13:51:04",
+            "updateDate": "2015-12-16 20:15:55",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "KTHpMT",
+            "name": "Latigo",
+            "nameDisplay": "Latigo",
+            "abv": "5.8",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KTHpMT/upload_EtBNxL-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KTHpMT/upload_EtBNxL-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KTHpMT/upload_EtBNxL-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-27 13:20:11",
+            "updateDate": "2015-12-17 14:12:56",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "2xPEWx",
+            "name": "Leviathan Great Scott Ale",
+            "nameDisplay": "Leviathan Great Scott Ale",
+            "description": "This beer is a full-flavored, full-bodied dark ale with a complex malt character. The hint of smokiness is a tribute to the peat malts that were historically used in Scottish brewing.",
+            "abv": "10.2",
+            "ibu": "33",
+            "glasswareId": 8,
+            "availableId": 3,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2xPEWx/upload_DEjc9W-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2xPEWx/upload_DEjc9W-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2xPEWx/upload_DEjc9W-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2014-06-16 18:49:59",
+            "updateDate": "2015-12-17 13:55:23",
+            "glass": {
+                "id": 8,
+                "name": "Tulip",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 3,
+                "name": "Not Available",
+                "description": "Beer is not available."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "1o5fEs",
+            "name": "Loch",
+            "nameDisplay": "Loch",
+            "description": "Loch wee heavy brewed with peated malt",
+            "abv": "8.4",
+            "availableId": 4,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/1o5fEs/upload_8hv8jh-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/1o5fEs/upload_8hv8jh-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/1o5fEs/upload_8hv8jh-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-01-24 11:50:31",
+            "updateDate": "2015-12-16 23:14:57",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "7KAfNE",
+            "name": "Loch Leech Monster",
+            "nameDisplay": "Loch Leech Monster",
+            "description": "Golden Promise malt lends significant sweetness to this lightly-hopped beer.",
+            "abv": "6",
+            "glasswareId": 5,
+            "availableId": 7,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/7KAfNE/upload_PJ9PBv-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/7KAfNE/upload_PJ9PBv-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/7KAfNE/upload_PJ9PBv-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-02-18 15:48:20",
+            "updateDate": "2015-12-16 23:06:06",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 7,
+                "name": "Fall",
+                "description": "Available during the fall months."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "JN3wR5",
+            "name": "Long Branch",
+            "nameDisplay": "Long Branch",
+            "description": "The Long Branch Scottish is an Americanized 80 Shilling Scottish Ale. The appearance is a slightly dark shade of brown and the nose is filled with roasted and bready malt. This brew is malt forward with dominate caramel notes backed by a light hop bitterness. A very clean, crisp malt character that leaves hints of roast and smoke that dissipates to a very clean and enjoyable finish.",
+            "abv": "5",
+            "ibu": "12",
+            "glasswareId": 6,
+            "availableId": 1,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JN3wR5/upload_ub2tOA-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JN3wR5/upload_ub2tOA-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JN3wR5/upload_ub2tOA-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "originalGravity": "1.05",
+            "createDate": "2014-05-13 12:15:12",
+            "updateDate": "2015-12-17 13:42:53",
+            "glass": {
+                "id": 6,
+                "name": "Snifter",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "LvEdbA",
+            "name": "Longfellow Winter Ale",
+            "nameDisplay": "Longfellow Winter Ale",
+            "abv": "5.8",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/LvEdbA/upload_zGBWOg-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/LvEdbA/upload_zGBWOg-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/LvEdbA/upload_zGBWOg-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-08-31 17:34:48",
+            "updateDate": "2015-12-16 19:14:24",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "au8MJ4",
+            "name": "Mac Daddy",
+            "nameDisplay": "Mac Daddy",
+            "abv": "9",
+            "ibu": "35",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/au8MJ4/upload_tm7cK3-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/au8MJ4/upload_tm7cK3-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/au8MJ4/upload_tm7cK3-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-07-28 14:18:26",
+            "updateDate": "2015-12-17 15:58:11",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "mn2Xz5",
+            "name": "MacFoochie's Scottish Ale",
+            "nameDisplay": "MacFoochie's Scottish Ale",
+            "abv": "7",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/mn2Xz5/upload_5zIvTz-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/mn2Xz5/upload_5zIvTz-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/mn2Xz5/upload_5zIvTz-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-02-17 17:20:43",
+            "updateDate": "2015-12-16 15:53:03",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "XwSIrq",
+            "name": "MacHayden's",
+            "nameDisplay": "MacHayden's",
+            "abv": "8",
+            "ibu": "20",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/XwSIrq/upload_48QiWU-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/XwSIrq/upload_48QiWU-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/XwSIrq/upload_48QiWU-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.079",
+            "createDate": "2014-01-16 17:52:35",
+            "updateDate": "2015-12-17 08:12:24",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "yN5FBR",
+            "name": "MacPelican's Wee Heavy Ale",
+            "nameDisplay": "MacPelican's Wee Heavy Ale",
+            "description": "Our version of the \"Wee Heavy\" Scotch Ale style is literally a batch of MacPelican's Scottish Ale brewed with half the water and twice the boiling time to create a beer with a massive malty flavor and a deep red color. The aroma hints of rich caramel, cocoa, toffee, and tropical fruit, with a full-bodied mouthfeel and a velvety sweet, slightly dry finish. A robust beer with a dangerous, drinkable smoothness!",
+            "abv": "8.1",
+            "ibu": "16",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/yN5FBR/upload_N1T0lV-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/yN5FBR/upload_N1T0lV-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/yN5FBR/upload_N1T0lV-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:39",
+            "updateDate": "2015-12-16 06:59:34",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "LsaAbx",
+            "name": "Major Oak Wee Heavy Ale",
+            "nameDisplay": "Major Oak Wee Heavy Ale",
+            "description": "Aged for 6 months in American oak bourbon barrels, this full-bodied, Scottish-style ale features pleasant notes of vanilla, caramel, and toasted coconut.",
+            "abv": "8.5",
+            "ibu": "25",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/LsaAbx/upload_t3ycUt-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/LsaAbx/upload_t3ycUt-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/LsaAbx/upload_t3ycUt-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-10 20:03:43",
+            "updateDate": "2015-12-17 21:25:08",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "PDrj06",
+            "name": "Malt Monsters- Wallace, Wee Heavy",
+            "nameDisplay": "Malt Monsters- Wallace, Wee Heavy",
+            "description": "Wallace, Wee Heavy put our system to the test creating this intensely malty brew. This Scottish Ale has a deep rich caramel complexity with a slight toffee note and hints of roast, complimented with a clean, smooth finish that provides balance.",
+            "abv": "9.5",
+            "ibu": "57",
+            "srmId": 21,
+            "availableId": 2,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/PDrj06/upload_C99VTa-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/PDrj06/upload_C99VTa-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/PDrj06/upload_C99VTa-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-09-14 18:40:05",
+            "updateDate": "2015-12-18 05:16:38",
+            "srm": {
+                "id": 21,
+                "name": "21",
+                "hex": "952D00"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "UqRU9L",
+            "name": "McDougals Scotch Ale",
+            "nameDisplay": "McDougals Scotch Ale",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UqRU9L/upload_6OvTJD-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UqRU9L/upload_6OvTJD-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UqRU9L/upload_6OvTJD-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-04 13:01:05",
+            "updateDate": "2015-12-16 14:29:14",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "AhOeSp",
+            "name": "Moon Squaller",
+            "nameDisplay": "Moon Squaller",
+            "description": "On every full moon for thirty years, a party was held on the farm. The party is still going today. This full-bodied Scotch ale is designed to bring out the howler in you. Keep the party alive with this one of a kind brew.",
+            "abv": "9",
+            "glasswareId": 5,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AhOeSp/upload_v6bCTw-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AhOeSp/upload_v6bCTw-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AhOeSp/upload_v6bCTw-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:44",
+            "updateDate": "2015-12-16 10:27:22",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "CkUET4",
+            "name": "Mud Turtle",
+            "nameDisplay": "Mud Turtle",
+            "description": "We first brewed this rich and decadent ale as a birthday present to our friends on Westheimer who live and breathe the entrepreneurial spirit that is the backbone of our great city.\r\n\r\nObviously, Houston is the best city in the world. Inferior parts of Texas disagreed and called us “Mud Turtles.\" Ok, so maybe we didn’t have “paved roads” or “clean water” until the late 1800s. But we had plenty of ale and drank a lot of it because it was sanitary. (Have you seen the bayou water? And no, we don’t brew with it.)",
+            "abv": "9.2",
+            "ibu": "30",
+            "availableId": 2,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/CkUET4/upload_358pdQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/CkUET4/upload_358pdQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/CkUET4/upload_358pdQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-08-21 16:20:05",
+            "updateDate": "2015-12-18 03:10:42",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "zHopP1",
+            "name": "Newcastle Caledonian Scotch Ale",
+            "nameDisplay": "Newcastle Caledonian Scotch Ale",
+            "abv": "6.4",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zHopP1/upload_qxxtB0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zHopP1/upload_qxxtB0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zHopP1/upload_qxxtB0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-12-18 18:22:13",
+            "updateDate": "2015-12-17 20:44:37",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "UtHdIN",
+            "name": "No 25 - Noonan's Wee Heavy",
+            "nameDisplay": "No 25 - Noonan's Wee Heavy",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UtHdIN/upload_Pksdzz-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UtHdIN/upload_Pksdzz-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UtHdIN/upload_Pksdzz-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-03-26 12:13:03",
+            "updateDate": "2015-12-17 11:00:51",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "gvwepB",
+            "name": "Oaked Wee Heavy",
+            "nameDisplay": "Oaked Wee Heavy",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/gvwepB/upload_KNvF43-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/gvwepB/upload_KNvF43-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/gvwepB/upload_KNvF43-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-04-29 17:30:06",
+            "updateDate": "2015-12-17 13:25:25",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "8Yi1tH",
+            "name": "Off-Kilter Wee Heavy",
+            "nameDisplay": "Off-Kilter Wee Heavy",
+            "description": "The strongest of the Scotch ales, this one is all about malt. Wonderful notes of dark fruit, caramel, and the slightest hint of smoke. Sláinte!",
+            "abv": "7.5",
+            "availableId": 4,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8Yi1tH/upload_0U7mKR-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8Yi1tH/upload_0U7mKR-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8Yi1tH/upload_0U7mKR-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-07-09 20:09:25",
+            "updateDate": "2015-12-18 03:42:52",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "JEw90F",
+            "name": "Paradis",
+            "nameDisplay": "Paradis",
+            "description": "Paradis uses Cognac barrel aging to round out the port and toffee characteristics of our Scottish-style Wee Heavy with creamy sweetness and rich flavors of fig.",
+            "abv": "9",
+            "ibu": "30",
+            "availableId": 2,
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JEw90F/upload_3n4jOs-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JEw90F/upload_3n4jOs-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JEw90F/upload_3n4jOs-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-11 15:08:10",
+            "updateDate": "2015-12-17 22:27:20",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "n9fBjy",
+            "name": "PENNYPACKER 120",
+            "nameDisplay": "PENNYPACKER 120",
+            "description": "PENNYPACKER 120 SCOTTISH STYLE WEE HEAVY",
+            "abv": "7.9",
+            "ibu": "28",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/n9fBjy/upload_XhBrq5-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/n9fBjy/upload_XhBrq5-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/n9fBjy/upload_XhBrq5-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-03-15 20:42:32",
+            "updateDate": "2015-12-17 23:42:33",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        },
+        {
+            "id": "1plH23",
+            "name": "Psycho Kilter",
+            "nameDisplay": "Psycho Kilter",
+            "abv": "9.3",
+            "styleId": 8,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/1plH23/upload_a6Al2n-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/1plH23/upload_a6Al2n-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/1plH23/upload_a6Al2n-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-04 12:53:35",
+            "updateDate": "2015-12-16 22:29:13",
+            "style": {
+                "id": 8,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Heavy Ale",
+                "shortName": "Scottish Heavy",
+                "description": "Scottish heavy ale is moderate in strength and dominated by a smooth, sweet maltiness balanced with low, but perceptible, hop bitterness. Hop flavor or aroma should not be perceived. Scottish heavy ale will have a medium degree of malty, caramel-like, soft and chewy character in flavor and mouthfeel. It has medium body, and fruity esters are very low, if evident. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown. Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottish-style heavy ales exhibited peat smoke character, the current marketplace offers many Scottish-style heavy ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low to medium levels (ales with medium-high or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style heavy ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "12",
+                "ibuMax": "20",
+                "abvMin": "3.5",
+                "abvMax": "4",
+                "srmMin": "10",
+                "srmMax": "19",
+                "ogMin": "1.035",
+                "fgMin": "1.01",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:48"
+            }
+        }
+    ],
+    "status": "success"
+}

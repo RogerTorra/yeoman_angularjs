@@ -1,0 +1,2390 @@
+{
+    "currentPage": 1,
+    "numberOfPages": 3,
+    "totalResults": 150,
+    "data": [
+        {
+            "id": "FOQMff",
+            "name": "13 Rebels ESB",
+            "nameDisplay": "13 Rebels ESB",
+            "description": "French Broad Brewery’s interpretation of the classic UK Extra Special Bitter. A bright copper color with a complex malt palate is complemented by traditional British hops, notably East Kent Golding. French Broad has made this traditional public house session beer a cult favorite with its skull and crossbones artwork.",
+            "abv": "5.2",
+            "ibu": "42",
+            "glasswareId": 5,
+            "srmId": 7,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FOQMff/upload_3aTloe-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FOQMff/upload_3aTloe-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FOQMff/upload_3aTloe-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.053",
+            "createDate": "2012-01-04 00:58:00",
+            "updateDate": "2015-12-16 14:10:56",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 7,
+                "name": "7",
+                "hex": "F39C00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "oEUHmS",
+            "name": "1327 Pod's ESB",
+            "nameDisplay": "1327 Pod's ESB",
+            "description": "A well-balanced beer between sweetness from the malt and bitterness from the hops with 5.6% alcohol by volume and 37 IBU. The beer is named after a co-founder of the brewery whose love for the Extra Special Bitter style of beer is why this beer is one of our first releases. The beer is meant to be a little bitter, but not over the top and very drinkable. The hop aroma and flavor do not dominate the beer, but support the malt to create a well balanced beer.",
+            "abv": "5.6",
+            "ibu": "37",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oEUHmS/upload_jKo4TY-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oEUHmS/upload_jKo4TY-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oEUHmS/upload_jKo4TY-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-10-22 11:09:13",
+            "updateDate": "2015-12-16 18:33:15",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "HAcAaJ",
+            "name": "14° ESB",
+            "nameDisplay": "14° ESB",
+            "description": "Our well rounded approach to the classic British Ale. There’s middle of the road, and there’s middle of the river. And if there’s one thing that’s important in the middle of the river – it’s balance.\r\n\r\nOur ESB is incredibly well balanced with a slight toasted malt flavor, traditional British hop accents with just a hint of pine and citrus from the unexpected Amarillo / Ahtanum dry-hop.",
+            "abv": "5.6",
+            "ibu": "32",
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/HAcAaJ/upload_jvGMc5-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/HAcAaJ/upload_jvGMc5-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/HAcAaJ/upload_jvGMc5-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-01-14 23:54:29",
+            "updateDate": "2015-12-17 09:06:46",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "wevPSI",
+            "name": "1814 ESB",
+            "nameDisplay": "1814 ESB",
+            "description": "After the Battle of Bladensburg the British Army burned Washington to the ground....we ain't bitter! We've realized the best revenge is living well. Please enjoy our British-style session bitter's smooth maltiness and finely balanced hops.",
+            "abv": "6.1",
+            "ibu": "17",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/wevPSI/upload_MJsnV6-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/wevPSI/upload_MJsnV6-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/wevPSI/upload_MJsnV6-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.054",
+            "createDate": "2012-01-03 02:42:36",
+            "updateDate": "2015-12-16 11:52:11",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "CMByv0",
+            "name": "25th Anniversary Ale",
+            "nameDisplay": "25th Anniversary Ale",
+            "abv": "6.4",
+            "glasswareId": 5,
+            "availableId": 2,
+            "styleId": 5,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/CMByv0/upload_2z6d1s-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/CMByv0/upload_2z6d1s-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/CMByv0/upload_2z6d1s-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-05-11 16:05:06",
+            "updateDate": "2015-12-17 04:02:38",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "6KeVJA",
+            "name": "2° Below",
+            "nameDisplay": "2° Below",
+            "description": "Pull on your wool socks and crack open a 2° Below Ale. This tasty winter warmer started life as a small batch beer brewed for the Al Johnson Uphill Downhill a telemark ski race in Crested Butte, Colorado. The Uphill Downhill celebrates the exploits of Al Johnson, letter carrier extraordinaire, who delivered mail by ski in the late 1800 s. Dry hopping during fermentation creates a floral nose with a hint of pepper and spicy, subtle undertones. 2° Below provides a bright, hoppy palate and a cheery warm afterglow.",
+            "abv": "6.6",
+            "ibu": "32",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6KeVJA/upload_5ZTgzJ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6KeVJA/upload_5ZTgzJ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6KeVJA/upload_5ZTgzJ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:37",
+            "updateDate": "2015-12-15 21:22:57",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "9J01ev",
+            "name": "Admiral's Ale",
+            "nameDisplay": "Admiral's Ale",
+            "abv": "5",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/9J01ev/upload_jdNZWd-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/9J01ev/upload_jdNZWd-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/9J01ev/upload_jdNZWd-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-22 21:09:32",
+            "updateDate": "2015-12-17 21:46:30",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "zO43CF",
+            "name": "Adnams Broadside",
+            "nameDisplay": "Adnams Broadside",
+            "description": "Brewed with Pale Ale malt and First Gold hops, Broadside is a dark ruby red beer rich in fruitcake aromas, almonds and conserved fruit.\r\n\r\nBrewed to commemorate the fierce Battle of Sole Bay fought against the Dutch Republic in 1672 off the Southwold coast, Broadside has enjoyed a meteoric rise to fame. It’s a fine heart-warming English beer, rich in flavours of malt and hops which enjoys a special place in many people’s hearts.",
+            "abv": "6.3",
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zO43CF/upload_bu9wAR-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zO43CF/upload_bu9wAR-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zO43CF/upload_bu9wAR-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-16 03:14:03",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "f85F7M",
+            "name": "Adnams Extra",
+            "nameDisplay": "Adnams Extra",
+            "description": "This is a 4.3% abv copper-coloured ale with gloriously hoppy, floral and herbal aromas which follow through on the palate, where it’s balanced by the biscuity fullness of the malts and a dry tart bitterness. It is brewed with Pale Ale and Crystal malts and Fuggle hops which are added at several different stages of the brewing process. Serving Suggestion – Great with herb crusted roast lamb\r\n\r\nAdnams Extra Special Bitter was first brewed back in 1990. It was brought back by popular demand in 2011 following its successful relaunch for Cask Ale Week in April 2010.",
+            "abv": "4.3",
+            "availableId": 4,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/f85F7M/upload_jBBibT-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/f85F7M/upload_jBBibT-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/f85F7M/upload_jBBibT-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-12 12:33:47",
+            "updateDate": "2015-12-16 17:49:37",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "oW9xDe",
+            "name": "Alaskan ESB",
+            "nameDisplay": "Alaskan ESB",
+            "description": "Extra Special Bitter Ale. Alaskan ESB is darker and hoppier and is brewed and fermented at different temperatures than our popular Alt-style Amber. It has an exquisite copper color derived from Crystal malt and an aggressive, yet pleasant hop character.\n\nMalty with roasted overtones, Alaskan ESB has a crisp finish resulting from the use of premium Northwest hops.\n\nAlaskan ESB is made from glacier-fed water and a generous blend of the finest quality European and Pacific Northwest hop varieties and premium two-row and specialty malts. Our water originates in the 1,500 square-mile Juneau Ice Field and from the more than 90 inches of rainfall we receive each year.",
+            "abv": "5",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oW9xDe/upload_CI6in9-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oW9xDe/upload_CI6in9-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oW9xDe/upload_CI6in9-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:39",
+            "updateDate": "2015-12-16 03:04:14",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "RVcQpI",
+            "name": "Amberjack ESB",
+            "nameDisplay": "Amberjack ESB",
+            "description": "A traditional English Ale. ESB stands for Extra Special Bitter. The English’s idea of bitter is very different than ours. This beer does not have much upfront bitterness. It focuses more on hop flavor and aroma. East Kent Goldings hops give this beer a nice earthy aroma and flavor. English Crystal malt give this ale a nice red color and a touch of caramel flavor.",
+            "abv": "4.5",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/RVcQpI/upload_3zXlMa-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/RVcQpI/upload_3zXlMa-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/RVcQpI/upload_3zXlMa-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-10 19:04:58",
+            "updateDate": "2015-12-16 14:08:39",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "kgZB1G",
+            "name": "Anvil ESB",
+            "nameDisplay": "Anvil ESB",
+            "description": "Anvil ESB is our interpretation of a traditional British-style pub ale. Deep amber in color, a toasty character from British malts and a touch of kettle caramelization blend seamlessly with a mild English hop profile. Its delicate balance of flavors will keep you coming back pint after pint, making it a complex creation we’re proud to call our flagship beer.",
+            "abv": "5.5",
+            "ibu": "30",
+            "glasswareId": 5,
+            "srmId": 10,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/kgZB1G/upload_eH9zDz-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/kgZB1G/upload_eH9zDz-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/kgZB1G/upload_eH9zDz-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "The nuanced yet bold flavor profile of Anvil ESB will complement a wide variety of foods from simple bar snacks to haute cuisine entrées. Hearty dishes like shepherd’s pie pair particularly well alongside Anvil ESB, as do English farmhouse and mild creamy cheeses.",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "originalGravity": "1.055",
+            "createDate": "2012-01-03 02:42:42",
+            "updateDate": "2015-12-15 21:57:26",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 10,
+                "name": "10",
+                "hex": "DE7C00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "igzD4a",
+            "name": "Autumn Ale",
+            "nameDisplay": "Autumn Ale",
+            "description": "Autumn Ale is a true-to-style London Extra Special Bitter (ESB). It has a medium body, amber color, and full flavor. This beer exhibits a wonderful balance of malty sweetness and floral hop bitterness. The result is an ideal bridge between malty and hoppy beer styles. Autumn Ale is a silver medal winner from the 2006 Great American Beer Festival.",
+            "abv": "6.5",
+            "ibu": "31",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/igzD4a/upload_DOtK1L-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/igzD4a/upload_DOtK1L-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/igzD4a/upload_DOtK1L-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:43",
+            "updateDate": "2015-12-16 12:19:16",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "qPlWHN",
+            "name": "Bachelor ESB",
+            "nameDisplay": "Bachelor ESB",
+            "description": "Bachelor ESB is a well-rounded traditional style English pub bitter that is always on tap at our Bend pub. Its full-flavored perfection comes from crystal malts, providing caramelized and toasted sugar notes, and generous amounts of English and domestic hops.",
+            "abv": "5.3",
+            "ibu": "50",
+            "glasswareId": 5,
+            "availableId": 2,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/qPlWHN/upload_1t9fq4-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/qPlWHN/upload_1t9fq4-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/qPlWHN/upload_1t9fq4-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:44",
+            "updateDate": "2015-12-15 23:11:34",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "KltmcT",
+            "name": "Bad Ass",
+            "nameDisplay": "Bad Ass",
+            "abv": "5.5",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KltmcT/upload_TV13Pr-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KltmcT/upload_TV13Pr-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KltmcT/upload_TV13Pr-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-11-17 00:48:56",
+            "updateDate": "2015-12-17 07:17:15",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "QjPI2o",
+            "name": "Beak's Best Bitter",
+            "nameDisplay": "Beak's Best Bitter",
+            "abv": "4.5",
+            "ibu": "28",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/QjPI2o/upload_jmCv8v-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/QjPI2o/upload_jmCv8v-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/QjPI2o/upload_jmCv8v-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-07-23 17:36:49",
+            "updateDate": "2015-12-17 15:15:32",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "0NNFPs",
+            "name": "Beast Bitter",
+            "nameDisplay": "Beast Bitter",
+            "description": "This special bitter displays the subtle coppery hue of \"Old Gold\". It's depth of lingering hop flavor awakens the palate.",
+            "abv": "5.3",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/0NNFPs/upload_cDt6kM-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/0NNFPs/upload_cDt6kM-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/0NNFPs/upload_cDt6kM-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:46",
+            "updateDate": "2015-12-15 22:20:25",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "2Joxcd",
+            "name": "Bennett",
+            "nameDisplay": "Bennett",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2Joxcd/upload_mcdhDI-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2Joxcd/upload_mcdhDI-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2Joxcd/upload_mcdhDI-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-09-14 18:23:29",
+            "updateDate": "2015-12-16 17:59:16",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "1EXMW3",
+            "name": "Bitter Winter",
+            "nameDisplay": "Bitter Winter",
+            "description": "Pale amber in colour. Light caramel malt aroma with a touch of fruit. Bittersweet with malt character flavours. Medium bodied with more bitterness than malt in the finish.",
+            "abv": "4.8",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/1EXMW3/upload_SjGM8R-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/1EXMW3/upload_SjGM8R-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/1EXMW3/upload_SjGM8R-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-04-09 21:41:57",
+            "updateDate": "2015-12-17 10:56:03",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "rEkx93",
+            "name": "Black Mesa Double ESB",
+            "nameDisplay": "Black Mesa Double ESB",
+            "description": "The Double ESB is about enjoying the adventure in adversity. When a tornado destroyed our brewery, we planned to come back twice as strong. Maybe we were too literal. Weighing in at 9.6% ABV, the Double ESB is a malty, malty, hedonistic beer. Even the aroma is deliciously boozy.  It is all the familiar notes of the ESB amplified.  It's our version of ambrosia and a fitting celebration of our return.",
+            "styleId": 5,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rEkx93/upload_nlmq6x-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rEkx93/upload_nlmq6x-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rEkx93/upload_nlmq6x-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-27 14:15:05",
+            "updateDate": "2015-12-18 03:11:23",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "B5v9Xw",
+            "name": "Blue Heron Extra Special Bitter",
+            "nameDisplay": "Blue Heron Extra Special Bitter",
+            "description": "This award winning ESB, inspired by the blue heron in our tidal Cornwallis River, is a full bodied flavor from its signature smooth malts, to the complex hop flavors, and aromas. Brewed with four different hops varieties, this charismatic brew is dry-hopped inside the serving tank.",
+            "abv": "5.5",
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/B5v9Xw/upload_Gzkrst-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/B5v9Xw/upload_Gzkrst-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/B5v9Xw/upload_Gzkrst-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-09 18:12:54",
+            "updateDate": "2015-12-18 00:45:51",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "FL3rOh",
+            "name": "Boom Over Pow",
+            "nameDisplay": "Boom Over Pow",
+            "description": "An extra sexy bitter. Good for the front porch and the backyard.",
+            "abv": "6.7",
+            "ibu": "52",
+            "availableId": 2,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FL3rOh/upload_kMFB0a-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FL3rOh/upload_kMFB0a-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FL3rOh/upload_kMFB0a-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-08 12:55:53",
+            "updateDate": "2015-12-17 14:17:14",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "oY2WrG",
+            "name": "Brickshot ESB",
+            "nameDisplay": "Brickshot ESB",
+            "description": "A traditional English ESB with a nicely balanced hop and malt flavor. Amber in color with a noticeable hop aroma.",
+            "abv": "5.4",
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oY2WrG/upload_cWxgjc-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oY2WrG/upload_cWxgjc-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oY2WrG/upload_cWxgjc-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-11-15 01:09:16",
+            "updateDate": "2015-12-17 06:49:21",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "fSmjrP",
+            "name": "British Volunteer",
+            "nameDisplay": "British Volunteer",
+            "description": "Our story begins here with our flagship beer. British Volunteer epitomizes perfect balance. A strong malt backbone blends perfectly with traditional English hops to create a very easy drinking and endlessly satisfying ale. With our pints raised, we proudly name our ESB after the pub in Ashford, Kent, once run by Grandpa Pocock’s family.",
+            "abv": "5.8",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fSmjrP/upload_MrgwJs-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fSmjrP/upload_MrgwJs-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fSmjrP/upload_MrgwJs-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-10-23 18:48:07",
+            "updateDate": "2015-12-18 06:01:21",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "Q9bS6K",
+            "name": "Bro Brah Bitter ESB",
+            "nameDisplay": "Bro Brah Bitter ESB",
+            "abv": "5.3",
+            "ibu": "40",
+            "styleId": 5,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Q9bS6K/upload_qwLa42-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Q9bS6K/upload_qwLa42-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Q9bS6K/upload_qwLa42-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-26 18:06:14",
+            "updateDate": "2015-12-18 01:22:18",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "YBj2XU",
+            "name": "Buckerfield's Bitter",
+            "nameDisplay": "Buckerfield's Bitter",
+            "description": "A coppery-coloured “Extra Special” in the British style.Robust in flavour, it is balanced by a pleasingly creamy texture, a clear maltiness & long, hoppy finish.",
+            "abv": "5",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/YBj2XU/upload_YAZQQB-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/YBj2XU/upload_YAZQQB-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/YBj2XU/upload_YAZQQB-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2013-08-12 18:40:00",
+            "updateDate": "2015-12-17 03:58:25",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "TqQFdx",
+            "name": "Bungalow Rye ESB",
+            "nameDisplay": "Bungalow Rye ESB",
+            "description": "Our version of a classic ESB, but with the addtion of rye. Very caramel-y and bittered with American versions of English hop varieties",
+            "abv": "5.5",
+            "glasswareId": 5,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/TqQFdx/upload_bBIOAM-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/TqQFdx/upload_bBIOAM-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/TqQFdx/upload_bBIOAM-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:55",
+            "updateDate": "2015-12-16 12:18:33",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "NCrgTu",
+            "name": "Burton Festival Ale",
+            "nameDisplay": "Burton Festival Ale",
+            "description": "A strong bitter, slightly darker than Bridge Bitter, with a fruity barley wine flavour and a bitter after palate.",
+            "abv": "5.5",
+            "glasswareId": 5,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NCrgTu/upload_ClK1JU-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NCrgTu/upload_ClK1JU-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NCrgTu/upload_ClK1JU-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-09-20 18:18:08",
+            "updateDate": "2015-12-18 05:18:05",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "sFmKX5",
+            "name": "Chainsaw Ale",
+            "nameDisplay": "Chainsaw Ale",
+            "description": "Many times we've heard, more is not always better. Chainsaw is a connoisseur version of our awrd-winning Sawtooth Ale, designed to befuddle silly generalizations about life. This Double ESB pours a brilliant deep ruby amber with a rocky near white head. The nose opens with bright spicy and herbal hops, with hints of dried fruit and port. The flavor starts with a chewy, bready malt and hints of brulee and kola nut that are suddenly swept away by thyme-like and hoppy bitterness. The strong herbal flavors then give way to a dry finish of licorice, gentian, and Italian bitters. We hope you enjoy!",
+            "abv": "9.4",
+            "ibu": "72",
+            "availableId": 2,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/sFmKX5/upload_JB31He-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/sFmKX5/upload_JB31He-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/sFmKX5/upload_JB31He-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-19 17:57:17",
+            "updateDate": "2015-12-16 17:53:26",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "j6GJog",
+            "name": "City of Blokes Bitter",
+            "nameDisplay": "City of Blokes Bitter",
+            "description": "Yes, we’re the city of Oaks, but we’re named for the British courtier/adventurer/writer/poet/all-around overachiever Sir Walter Raleigh. Toast your best bloke with our take on the popular English session ale, designed for ultra-maximum drinkability and flavor. Expect hints of toast, roasted nuts, and caramelized honey with a moderate earthy hop note.",
+            "abv": "4",
+            "ibu": "34",
+            "glasswareId": 5,
+            "srmId": 12,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/j6GJog/upload_fpLBQc-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/j6GJog/upload_fpLBQc-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/j6GJog/upload_fpLBQc-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2012-09-06 21:05:15",
+            "updateDate": "2015-12-16 19:08:45",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 12,
+                "name": "12",
+                "hex": "CF6900"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "8PulXu",
+            "name": "Coal Cracker ESB",
+            "nameDisplay": "Coal Cracker ESB",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8PulXu/upload_UbfuY1-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8PulXu/upload_UbfuY1-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8PulXu/upload_UbfuY1-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-09-02 14:25:51",
+            "updateDate": "2015-12-17 05:12:54",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "1n85jS",
+            "name": "Coo Coo Cachoo",
+            "nameDisplay": "Coo Coo Cachoo",
+            "abv": "6",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/1n85jS/upload_D9afY0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/1n85jS/upload_D9afY0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/1n85jS/upload_D9afY0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-11-29 16:45:11",
+            "updateDate": "2015-12-17 07:57:58",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "nGMubI",
+            "name": "Crystal Bitter Ale",
+            "nameDisplay": "Crystal Bitter Ale",
+            "description": "By combining elements of English, German and American brewing techniques & ingredients we have created a hybrid beer of undeniable satisfying character. This burgundy colored ale has a big herbal hop nose, assertive bitterness & complex malt flavors creating a multi-dimensional taste. It is cold filtered and lager conditioned.",
+            "abv": "5.75",
+            "ibu": "45",
+            "glasswareId": 5,
+            "availableId": 3,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nGMubI/upload_fpa3ay-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nGMubI/upload_fpa3ay-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nGMubI/upload_fpa3ay-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-04-30 23:26:14",
+            "updateDate": "2015-12-17 01:43:43",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 3,
+                "name": "Not Available",
+                "description": "Beer is not available."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "q27RxE",
+            "name": "Curmudgeon ESB",
+            "nameDisplay": "Curmudgeon ESB",
+            "abv": "6.5",
+            "glasswareId": 5,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/q27RxE/upload_OtPJ0h-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/q27RxE/upload_OtPJ0h-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/q27RxE/upload_OtPJ0h-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-01-16 17:43:50",
+            "updateDate": "2015-12-17 08:58:15",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "l2kbOf",
+            "name": "Derailer ESB",
+            "nameDisplay": "Derailer ESB",
+            "abv": "9.4",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/l2kbOf/upload_vUp6RK-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/l2kbOf/upload_vUp6RK-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/l2kbOf/upload_vUp6RK-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:04",
+            "updateDate": "2015-12-15 22:33:04",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "n4BrIL",
+            "name": "Doc's Extra Special Bitter",
+            "nameDisplay": "Doc's Extra Special Bitter",
+            "abv": "10.7",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/n4BrIL/upload_BsI9pe-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/n4BrIL/upload_BsI9pe-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/n4BrIL/upload_BsI9pe-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-09-03 16:38:27",
+            "updateDate": "2015-12-17 15:43:45",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "EiCuSk",
+            "name": "Drake’s Amber Ale",
+            "nameDisplay": "Drake’s Amber Ale",
+            "description": "An English-style Extra Special Bitter, or ESB. This deep copper brew has a pungent hop aroma from East Kent Golding, but delivers a distinctly malty flavor from Crystal and Chocolate specialty malts.",
+            "abv": "5.9",
+            "ibu": "28",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/EiCuSk/upload_egVAIH-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/EiCuSk/upload_egVAIH-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/EiCuSk/upload_egVAIH-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:07",
+            "updateDate": "2015-12-16 07:05:50",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "0DlWLg",
+            "name": "Draught Burton Ale",
+            "nameDisplay": "Draught Burton Ale",
+            "description": "Following the announcement by Carlsberg that they were to stop brewing ’DBA’, interested parties started a campaign on social media to find a brewer to produce this iconic ale. Both Burton Bridge Brewery directors, Geoff Mumford & Bruce Wilkinson were involved with the original beer at Ind Coope and felt it important that the beer returned to it’s Burton home. It has been agreed to run a trial brew to have it’s debut at the Burton CAMRA Beer Festival in March 2015. It would be impossible to brew an exact replica of the original, but we intend to get it as close as possible. Hops used are known only to a few and will not be revealed here.",
+            "abv": "4.8",
+            "glasswareId": 5,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/0DlWLg/upload_vDr6o5-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/0DlWLg/upload_vDr6o5-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/0DlWLg/upload_vDr6o5-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-09-15 16:49:30",
+            "updateDate": "2015-12-18 04:39:14",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "pinSPT",
+            "name": "Driftwood Ale",
+            "nameDisplay": "Driftwood Ale",
+            "description": "Our flagship Ale is brewed with American hops that even out its malty base. This well-balanced Extra Special Bitter is enjoyable all year round.",
+            "abv": "6",
+            "ibu": "49",
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/pinSPT/upload_3mtwIN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/pinSPT/upload_3mtwIN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/pinSPT/upload_3mtwIN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-01-10 15:31:39",
+            "updateDate": "2015-12-17 08:07:48",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "CzY0IH",
+            "name": "E.M.P. ESB",
+            "nameDisplay": "E.M.P. ESB",
+            "availableId": 4,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/CzY0IH/upload_pGmFqc-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/CzY0IH/upload_pGmFqc-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/CzY0IH/upload_pGmFqc-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-03-22 13:20:13",
+            "updateDate": "2015-12-17 11:27:21",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "oL9RGY",
+            "name": "E.S.Bee",
+            "nameDisplay": "E.S.Bee",
+            "description": "Brewed with Lymestone Brewery out of England. Made with honey",
+            "abv": "5.5",
+            "ibu": "35",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oL9RGY/upload_ktTx5b-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oL9RGY/upload_ktTx5b-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oL9RGY/upload_ktTx5b-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-08-05 19:57:31",
+            "updateDate": "2015-12-17 17:12:23",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "AC98pm",
+            "name": "Earth Day EPA",
+            "nameDisplay": "Earth Day EPA",
+            "abv": "5.2",
+            "glasswareId": 5,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AC98pm/upload_wwcpR7-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AC98pm/upload_wwcpR7-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AC98pm/upload_wwcpR7-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:08",
+            "updateDate": "2015-12-16 10:33:48",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "Ev28zc",
+            "name": "Endless Skyway Bitter (ESB)",
+            "nameDisplay": "Endless Skyway Bitter (ESB)",
+            "description": "Endless Skyway Bitter (ESB) is inspired by a traditional English bitter, but we used a blend of hops from the Pacific Northwest to give this beer a subtle grapefruit note and distinctly American character. Like the finest English examples, it is well-balanced with a nutty maltiness and only a slightly bitter finish. “Endless Skyway” is a nod to Oklahoma’s favorite son, Woody Guthrie. The proper toast when sharing this beer is, “May there always be endless skyways above you and golden valleys below you.”",
+            "styleId": 5,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Ev28zc/upload_iJ5uXE-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Ev28zc/upload_iJ5uXE-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Ev28zc/upload_iJ5uXE-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-27 14:12:03",
+            "updateDate": "2015-12-18 03:21:32",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "ENu3ix",
+            "name": "English Special Bitter Ale",
+            "nameDisplay": "English Special Bitter Ale",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ENu3ix/upload_QZOZWK-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ENu3ix/upload_QZOZWK-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ENu3ix/upload_QZOZWK-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-03-03 12:30:59",
+            "updateDate": "2015-12-17 10:40:30",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "Yz6ifp",
+            "name": "ESB",
+            "nameDisplay": "ESB",
+            "description": "An old English style, the ESB was the bitterest beer around during its heyday. It is colored gold, with a moderate maltiness and a medium body. The hop flavor is distinctly British, with a medium hop aroma and medium bitterness, and it interplays nicely with the body and the light, delicate carbonation. With its middle-of-the-road finish and its moderate strength, this is the perfect session beer. The overall impression is of a golden, moderately malty ale with medium hop flavor and bitterness. Expect to see it whenever the QCers’ begging and pleading finally gets to me.",
+            "abv": "4.9",
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Yz6ifp/upload_Kby3jT-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Yz6ifp/upload_Kby3jT-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Yz6ifp/upload_Kby3jT-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-05-09 00:35:45",
+            "updateDate": "2015-12-17 04:13:06",
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "nyUE8R",
+            "name": "ESB",
+            "nameDisplay": "ESB",
+            "description": "Premium floor malted English barley, fresh hops, and Ozark Mountain water create this classic ale. Enjoys a distinct grain flavor surrounded by fruit and supported by relatively robust hop bitterness.",
+            "abv": "6",
+            "ibu": "36",
+            "srmId": 13,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nyUE8R/upload_zmKIpE-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nyUE8R/upload_zmKIpE-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nyUE8R/upload_zmKIpE-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.061",
+            "createDate": "2014-09-10 20:11:30",
+            "updateDate": "2016-05-18 20:55:00",
+            "srm": {
+                "id": 13,
+                "name": "13",
+                "hex": "CB6200"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "WGEtq9",
+            "name": "ESB",
+            "nameDisplay": "ESB",
+            "description": "Redhook ESB is modeled after the premium Extra Special Bitters found in English pubs. Brewed since 1987, this full-bodied amber ale is Redhook's signature brew with its toasted malt flavor and pleasant finishing sweetness. Its eminently drinkable style has established Redhook ESB as a benchmark brew in the amber ale category.\r\n\r\nThe well-rounded finish of Redhook ESB makes it a wonderful companion to grilled meats. It is also great with game and cheeses.",
+            "abv": "5.8",
+            "ibu": "28",
+            "glasswareId": 5,
+            "srmId": 13,
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WGEtq9/upload_kMYH3h-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WGEtq9/upload_kMYH3h-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WGEtq9/upload_kMYH3h-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:10",
+            "updateDate": "2015-12-15 23:14:38",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 13,
+                "name": "13",
+                "hex": "CB6200"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "zwAzew",
+            "name": "ESB",
+            "nameDisplay": "ESB",
+            "description": "Amber in color, medium body with very hoppy aroma and bitter finish. Dry hopped with Oregon Goldings",
+            "abv": "5.35",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zwAzew/upload_PNfLt0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zwAzew/upload_PNfLt0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zwAzew/upload_PNfLt0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:10",
+            "updateDate": "2015-12-16 04:24:17",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "icQsl9",
+            "name": "ESB",
+            "nameDisplay": "ESB",
+            "abv": "5.7",
+            "ibu": "35",
+            "availableId": 1,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/icQsl9/upload_3NX0NQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/icQsl9/upload_3NX0NQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/icQsl9/upload_3NX0NQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-01-17 21:16:22",
+            "updateDate": "2015-12-17 09:32:47",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        },
+        {
+            "id": "VOX8vQ",
+            "name": "ESB - Endless Summer Beer",
+            "nameDisplay": "ESB - Endless Summer Beer",
+            "availableId": 6,
+            "styleId": 5,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/VOX8vQ/upload_NgdQgX-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/VOX8vQ/upload_NgdQgX-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/VOX8vQ/upload_NgdQgX-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-03-25 13:34:10",
+            "updateDate": "2015-12-17 12:30:05",
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 5,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Extra Special Bitter",
+                "shortName": "ESB",
+                "description": "Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "30",
+                "ibuMax": "45",
+                "abvMin": "4.8",
+                "abvMax": "5.8",
+                "srmMin": "8",
+                "srmMax": "14",
+                "ogMin": "1.046",
+                "fgMin": "1.01",
+                "fgMax": "1.016",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:20"
+            }
+        }
+    ],
+    "status": "success"
+}

@@ -1,0 +1,21 @@
+{ 
+  "mockDirectory": "apimocker", 
+  "quiet": false, 
+  "port": "8001", 
+  "latency": 1000, 
+  "allowedHeaders": ["Content-Type"], 
+  "webServices": { 
+        "styles": { 
+              "mockFile": "beers/styles.json", 
+              "httpStatus": 200, 
+              "verbs": ["get","post"] 
+            },
+        "beers":{
+              "mockFile": "beers/beers.json", 
+              "httpStatus": 200, 
+              "verbs": ["get","post"],
+              "switch": "id"
+        }
+  } 
+ 
+} 
