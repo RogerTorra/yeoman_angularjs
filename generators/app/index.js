@@ -18,7 +18,8 @@ module.exports = yeoman.Base.extend({
         "test",
         "app/styles",
         "config",
-        "tasks"
+        "tasks",
+        "apimocker"
     ];
       files.forEach(function (file) { 
           this.fs.copy(
