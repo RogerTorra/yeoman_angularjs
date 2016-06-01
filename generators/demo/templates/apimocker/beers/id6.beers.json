@@ -1,0 +1,1628 @@
+{
+    "currentPage": 1,
+    "numberOfPages": 1,
+    "totalResults": 33,
+    "data": [
+        {
+            "id": "jrS21u",
+            "name": "Almost Summer",
+            "nameDisplay": "Almost Summer",
+            "description": "Sit back during Colorado’s other seasons and enjoy the anticipation of summer days on their way with our American version of an English-style Summer Ale. Bridging the gap between the warm, rich ales of winter and the light and refreshing brews of summer, Almost-Summer Ale is a delicious balance of biscuity-malt flavor and light citrus hop finish, with a slightly bigger body and smoother mouth feel than a traditional summer ale. Note the sunny golden hue, take a moment to enjoy the balanced aromas of both citrusy hops and malts. Perfect for enjoying the Colorado days where chilly mornings turn into sunny afternoons. Cheers!",
+            "abv": "5.6",
+            "glasswareId": 13,
+            "availableId": 4,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/jrS21u/upload_KmMKBN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/jrS21u/upload_KmMKBN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/jrS21u/upload_KmMKBN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2015-08-18 02:13:45",
+            "updateDate": "2015-12-18 05:13:11",
+            "glass": {
+                "id": 13,
+                "name": "Willi",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "zqs3gW",
+            "name": "Almost Summer Pale Ale",
+            "nameDisplay": "Almost Summer Pale Ale",
+            "description": "Rise & shine summer beer aficionados! The “summer” hops in Almost Summer Pale Ale are the stars of this new brew from FSB. Now, if those bright hop notes of apricot, melon, and stone fruit aren’t quite enough for you, we have added Pilsner malt for a crisp clean mouth feel. And to finish brewing Almost Summer, a precisely measured amount of caramel malt was added for some sunny sweetness…so, don’t forget the sunscreen!",
+            "abv": "5.5",
+            "availableId": 4,
+            "styleId": 6,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zqs3gW/upload_PCrMiG-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zqs3gW/upload_PCrMiG-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zqs3gW/upload_PCrMiG-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-22 23:16:40",
+            "updateDate": "2015-12-18 02:24:23",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "cJRzFA",
+            "name": "Alpha Blonde Ale",
+            "nameDisplay": "Alpha Blonde Ale",
+            "description": "A seductively soft, easy drinking blonde ale, with an emphasis on a fragile and complex malt character. Made with Belgian candi sugar, honey malt and select Belgian and American grain. Slightly sweet and creamy; perfect for the session connoisseur and the timid domestic drinker looking for an introductory craft beer. \r\n\r\nThis brew was made to please the novice craft beer drinker. Dubbed the \"domestic with a kick\" it provides a smooth, pleasant flavor throughout. More flavorful than your domestic beers, but light enough that anyone can enjoy.",
+            "abv": "5.1",
+            "ibu": "17",
+            "glasswareId": 5,
+            "srmId": 7,
+            "availableId": 1,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cJRzFA/upload_nGW49W-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cJRzFA/upload_nGW49W-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cJRzFA/upload_nGW49W-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-09-28 04:10:51",
+            "updateDate": "2015-12-17 06:26:54",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 7,
+                "name": "7",
+                "hex": "F39C00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "MCqRyW",
+            "name": "Buzz Light Beer",
+            "nameDisplay": "Buzz Light Beer",
+            "description": "A refreshing pale gold beer, brewed with honey. Ideal for those long summer nights.",
+            "abv": "4",
+            "availableId": 6,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/MCqRyW/upload_OpHEsm-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/MCqRyW/upload_OpHEsm-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/MCqRyW/upload_OpHEsm-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-08-03 14:28:12",
+            "updateDate": "2015-12-18 03:50:11",
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "BfyWi5",
+            "name": "Chemung Canal Towpath Ale",
+            "nameDisplay": "Chemung Canal Towpath Ale",
+            "description": "This style of beer is classified as an \"English-Style Summer Ale\". The focus is on the malts used during the brewing process. Our version of this beer uses malts imported from England. The taste is extremely mild, sweet and refreshing.",
+            "abv": "6.7",
+            "ibu": "22",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BfyWi5/upload_Bb6P1z-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BfyWi5/upload_Bb6P1z-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BfyWi5/upload_Bb6P1z-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-09-24 18:34:04",
+            "updateDate": "2015-12-16 18:06:39",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "BPF95h",
+            "name": "Cruise Night",
+            "nameDisplay": "Cruise Night",
+            "description": "This light refreshing beer is perfect to enjoy on a warm summer night after strolling through Lombard Cruise Nights.",
+            "abv": "6.5",
+            "ibu": "44",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BPF95h/upload_GsqA8A-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BPF95h/upload_GsqA8A-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BPF95h/upload_GsqA8A-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-10 15:19:56",
+            "updateDate": "2015-12-17 23:18:45",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "UGdeCr",
+            "name": "Dead Rise",
+            "nameDisplay": "Dead Rise",
+            "description": "Old Bay Summer Ale",
+            "abv": "5.6",
+            "glasswareId": 5,
+            "availableId": 6,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UGdeCr/upload_8X8Yvn-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UGdeCr/upload_8X8Yvn-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UGdeCr/upload_8X8Yvn-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-03-21 12:38:51",
+            "updateDate": "2015-12-17 11:08:34",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "PBjc8p",
+            "name": "English Summer Ale",
+            "nameDisplay": "English Summer Ale",
+            "description": "A golden straw coloured beer with plenty of fresh fruity hop aroma and flavour from locally grown Golding’s Highwood hops. A full bodied beer with a refreshingly cool taste, ideal for those warm lazy summer days.",
+            "abv": "3.9",
+            "availableId": 6,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/PBjc8p/upload_xZYYfV-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/PBjc8p/upload_xZYYfV-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/PBjc8p/upload_xZYYfV-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-27 21:34:32",
+            "updateDate": "2015-12-17 23:18:38",
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "I1IUvm",
+            "name": "Flip Flop Single Hop Summer Ale",
+            "nameDisplay": "Flip Flop Single Hop Summer Ale",
+            "description": "This single hop summer ale is brewed with Montana-grown two-row pale, caramel, biscuit, and some roast malts with Amarillo hops, that’s all folks.",
+            "abv": "5.5",
+            "ibu": "13",
+            "availableId": 6,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/I1IUvm/upload_yRpcrN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/I1IUvm/upload_yRpcrN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/I1IUvm/upload_yRpcrN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-11-05 00:43:24",
+            "updateDate": "2015-12-18 05:29:25",
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "VolpAw",
+            "name": "Golden Ticket",
+            "nameDisplay": "Golden Ticket",
+            "description": "This English-style summer ale is popular year round. Brewed with imported English malts and North American hops.",
+            "abv": "5.04",
+            "ibu": "26",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/VolpAw/upload_mwVpCE-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/VolpAw/upload_mwVpCE-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/VolpAw/upload_mwVpCE-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2014-07-25 19:03:07",
+            "updateDate": "2015-12-17 15:53:41",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "E39zbg",
+            "name": "Inferno Golden Ale",
+            "nameDisplay": "Inferno Golden Ale",
+            "description": "This light, igniting ale flickers complex fruits across your tongue, leaving a dry, fruity, bitter finish, smothering your thirst.",
+            "abv": "4",
+            "availableId": 1,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/E39zbg/upload_3VcZmm-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/E39zbg/upload_3VcZmm-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/E39zbg/upload_3VcZmm-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-10-22 11:32:30",
+            "updateDate": "2015-12-16 18:43:36",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "2MPZY0",
+            "name": "Kai",
+            "nameDisplay": "Kai",
+            "description": "Brewed with Grapefruit and Ginger this refreshing summer ale is sure to please and pair at any summer party be it Bar-B-Que or a fine gathering of friends.",
+            "abv": "6.5",
+            "ibu": "26",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2MPZY0/upload_JMFyIM-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2MPZY0/upload_JMFyIM-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2MPZY0/upload_JMFyIM-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-10 15:29:28",
+            "updateDate": "2015-12-18 01:20:30",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "UdIrKy",
+            "name": "Kite Tail",
+            "nameDisplay": "Kite Tail",
+            "description": "Light-bodied and refreshing, this beer is based on the Cream Ale style… an original American beer modeled after the light lagers of its time. A subtle tartness adds to the crisp finish of the beer and makes for a great summer quencher.",
+            "abv": "4.5",
+            "ibu": "10.4",
+            "srmId": 2,
+            "availableId": 6,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UdIrKy/upload_8CoAzY-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UdIrKy/upload_8CoAzY-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UdIrKy/upload_8CoAzY-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-11-17 01:28:37",
+            "updateDate": "2015-12-17 07:29:28",
+            "srm": {
+                "id": 2,
+                "name": "2",
+                "hex": "FFD878"
+            },
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "ftGxKa",
+            "name": "Lemon Shandy",
+            "nameDisplay": "Lemon Shandy",
+            "description": "Life’s A Beach! Words to live by for sure. Introducing Lucky Girl Lemon Shandy. Refreshment in a bottle. Lucky Girl Lemon Shandy brings a harmonious blend of quality beer and lemon brewed in the traditional, dry English style. A perfect brew for that hot summer day in the yard or on the beach. Life’s A Beach Lemon Shandy!",
+            "abv": "4.7",
+            "ibu": "9",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ftGxKa/upload_Oueu21-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ftGxKa/upload_Oueu21-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ftGxKa/upload_Oueu21-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-12 18:10:52",
+            "updateDate": "2015-12-18 02:05:04",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "LzkOXN",
+            "name": "Lil' Sunshine",
+            "nameDisplay": "Lil' Sunshine",
+            "description": "The perfect introduction to craft beer, this brilliant Golden colored ale tastes crisp and clean, with a well-balanced malt profile blended with a subtle floral hopping. Premium 2-row and Munich malts with a hint of flaked corn provide the clean malt flavor. Willamette and cascade hops add the perfect balance of subtle spiciness and floral notes.",
+            "abv": "4.8",
+            "ibu": "30",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/LzkOXN/upload_86g1cg-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/LzkOXN/upload_86g1cg-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/LzkOXN/upload_86g1cg-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-09-19 13:57:02",
+            "updateDate": "2015-12-17 18:56:28",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "Q9sH0b",
+            "name": "Mad Goose",
+            "nameDisplay": "Mad Goose",
+            "description": "A zesty pale ale with a smooth and citrusy finish. Brewed with English Maris Otter, Caragold and Wheat malts, with Hallertau Northern Brewer bittering hops and Cascade and Willamette aroma hops.",
+            "abv": "4.2",
+            "glasswareId": 2,
+            "availableId": 1,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Q9sH0b/upload_iwuaq1-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Q9sH0b/upload_iwuaq1-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Q9sH0b/upload_iwuaq1-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Mad Goose is best served with white meats and poultry, such as pork, lamb or chicken.",
+            "createDate": "2013-03-22 22:44:59",
+            "updateDate": "2016-02-11 19:16:28",
+            "glass": {
+                "id": 2,
+                "name": "Goblet",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "vJPVAe",
+            "name": "Montauk Summer Ale",
+            "nameDisplay": "Montauk Summer Ale",
+            "description": "Our Summer Ale blends just the right amount of ingredients to combat that summer heat. The citrus finish will keep you coming back for more.",
+            "abv": "5.6",
+            "ibu": "27.8",
+            "availableId": 4,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/vJPVAe/upload_eBOmFu-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/vJPVAe/upload_eBOmFu-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/vJPVAe/upload_eBOmFu-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-01-10 15:33:26",
+            "updateDate": "2015-12-17 09:17:01",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "ElWqMU",
+            "name": "Moonshine",
+            "nameDisplay": "Moonshine",
+            "abv": "4.3",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ElWqMU/upload_oiN3pi-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ElWqMU/upload_oiN3pi-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ElWqMU/upload_oiN3pi-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-19 21:53:05",
+            "updateDate": "2015-12-16 20:59:54",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "3kYf8F",
+            "name": "Mysterieuse Lady",
+            "nameDisplay": "Mysterieuse Lady",
+            "description": "Our summer wheat beer. A fresh new taste of Normandy, delicately elaborated with elderflowers and aromatic hops from our garden.",
+            "abv": "3.8",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3kYf8F/upload_PbbVEH-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3kYf8F/upload_PbbVEH-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3kYf8F/upload_PbbVEH-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "originalGravity": "1.039",
+            "createDate": "2013-02-03 14:49:15",
+            "updateDate": "2015-12-17 00:19:20",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "aIx1AI",
+            "name": "Newcastle Summer Ale",
+            "nameDisplay": "Newcastle Summer Ale",
+            "description": "\"The Hoppings\" - reputedly the largest traveling fair in Europe, takes place on Newcastle Town Moor every June. Several origins has been suggested for the name. It may derive from the word \"Hoppen\" an Old English word for dancing or funfair. It has even been suggested that people \"hopped\" about itching due to fleas caught from animals that travelled with the fair. However, we’d like to think it may relate to the quality hops used in the brewing of our famous beer. Enjoy Newcastle Summer Ale at the fair or wherever you are this summer.",
+            "abv": "4.4",
+            "availableId": 4,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/aIx1AI/upload_qG1wVw-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/aIx1AI/upload_qG1wVw-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/aIx1AI/upload_qG1wVw-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:45",
+            "updateDate": "2015-12-16 08:03:38",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "dG9Hqo",
+            "name": "Sea Nymph Summer Ale",
+            "nameDisplay": "Sea Nymph Summer Ale",
+            "description": "This light-colored ale goes down smooth and quenches thirst, like summer beer should. Supremely drinkable, Sea Nymph is dry and light, clean and crisp, with a hint of fruit in its nose. Our main goal with this beer is refreshment, so it’s low in bitterness and very effervescent. Enjoy it on the beach, by the bay, or in an air-conditioned sunroom.",
+            "abv": "4.5",
+            "ibu": "15",
+            "glasswareId": 4,
+            "availableId": 3,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/dG9Hqo/upload_KJZdVw-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/dG9Hqo/upload_KJZdVw-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/dG9Hqo/upload_KJZdVw-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Summer fruits, nachos, salads",
+            "createDate": "2012-05-23 22:19:14",
+            "updateDate": "2015-12-16 16:43:50",
+            "glass": {
+                "id": 4,
+                "name": "Pilsner",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 3,
+                "name": "Not Available",
+                "description": "Beer is not available."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "aurgHR",
+            "name": "Solstice Summer Ale",
+            "nameDisplay": "Solstice Summer Ale",
+            "description": "Munich and Caramalt give this beer a sweet malty base and a deep golden colour. German hops give a pleasant bitterness and Cascade and Chinnock provide the powerful citrus aromas. Available Jun-Aug",
+            "abv": "3.8",
+            "availableId": 4,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/aurgHR/upload_xXndeO-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/aurgHR/upload_xXndeO-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/aurgHR/upload_xXndeO-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-10-21 20:47:58",
+            "updateDate": "2015-12-16 19:23:56",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "4jb2Rb",
+            "name": "Sonorous",
+            "nameDisplay": "Sonorous",
+            "abv": "9.5",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/4jb2Rb/upload_UBYY5t-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/4jb2Rb/upload_UBYY5t-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/4jb2Rb/upload_UBYY5t-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-14 17:22:28",
+            "updateDate": "2015-12-17 23:40:28",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "9C7uKO",
+            "name": "Sum'r",
+            "nameDisplay": "Sum'r",
+            "description": "Citrusy and thirst-quenching, this refreshing golden ale is highlighted by the use of unique hops.",
+            "abv": "4",
+            "ibu": "17",
+            "glasswareId": 6,
+            "srmId": 3,
+            "availableId": 1,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/9C7uKO/upload_WT0YG1-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/9C7uKO/upload_WT0YG1-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/9C7uKO/upload_WT0YG1-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:44:19",
+            "updateDate": "2015-12-16 06:20:10",
+            "glass": {
+                "id": 6,
+                "name": "Snifter",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 3,
+                "name": "3",
+                "hex": "FFCA5A"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "WdqOn4",
+            "name": "Summer Ale",
+            "nameDisplay": "Summer Ale",
+            "abv": "4.4",
+            "availableId": 6,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WdqOn4/upload_1CAQQv-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WdqOn4/upload_1CAQQv-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WdqOn4/upload_1CAQQv-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-03-05 14:15:01",
+            "updateDate": "2015-12-16 15:57:38",
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "X5WRIi",
+            "name": "Summer Ale",
+            "nameDisplay": "Summer Ale",
+            "description": "There is a cure for Summertime Blues and the prescription is simple: 1 six-pack of Blue Point Brewing Company’s Summer Ale. Adult dosage: 12-oz servings as needed until mood improves. The delicious golden taste of Summer Ale comes from a substantial portion of wheat malt added to a traditional barley malt mix which gives this delicious brew a unique tartness not found in many beers today. No surprise – this light, thirst-quenching brew is best enjoyed on hot Summer days.",
+            "abv": "4.39",
+            "ibu": "16",
+            "glasswareId": 5,
+            "availableId": 6,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/X5WRIi/upload_YgS9zm-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/X5WRIi/upload_YgS9zm-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/X5WRIi/upload_YgS9zm-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Salad; quiches; fish; Mexican",
+            "originalGravity": "1.044",
+            "createDate": "2012-01-03 02:44:19",
+            "updateDate": "2015-12-16 08:13:29",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "2vz9xR",
+            "name": "Summer Ale",
+            "nameDisplay": "Summer Ale",
+            "description": "This year, we’re brewing a summer seasonal for the first time! Our Summer Ale is an easy-drinking, session Pale Ale that pays homage to ‘Gansett’s original Pale Ale. Available on tap and in 16oz cans from May – August, the Summer Ale is too good to miss! \r\n\r\nQuality Supreme: Narragansett Summer is a light session ale made with two row pale malt and citra hops. The citra hops are a very popular, newer variety that deliver aromas of citrus and passion fruit without overpowering the taste buds. The beer is blonde in color and the mild kiss of the hops complement the pale malt perfectly, making it extremely drinkable. The draft is brewed in small batches at Trinity Brew House in Providence and Cottrell Brewery in Pawcatuck, CT, and the tall boy cans are brewed at High Falls Brewery in Rochester, NY. Quality Supreme: Narragansett Summer is a light session ale made with two row pale malt and citra hops. The citra hops are a very popular, newer variety that deliver aromas of citrus and passion fruit without overpowering the taste buds. The beer is blonde in color and the mild kiss of the hops complement the pale malt perfectly, making it extremely drinkable. The draft is brewed in small batches at Trinity Brew House in Providence and Cottrell Brewery in Pawcatuck, CT, and the tall boy cans are brewed at High Falls Brewery in Rochester, NY.",
+            "abv": "4.2",
+            "glasswareId": 5,
+            "availableId": 6,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2vz9xR/upload_rd1jJ4-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2vz9xR/upload_rd1jJ4-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2vz9xR/upload_rd1jJ4-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-02-02 13:07:05",
+            "updateDate": "2015-12-17 00:49:25",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "NXAXDh",
+            "name": "Sunshine Ale",
+            "nameDisplay": "Sunshine Ale",
+            "description": "A Light Blonde Ale with light taste of honey, orange and rye. Great for a nice sunny day with a light body mouth feel. Brewed with a grain out of the UK that is harvested in the spring to keep more sugar in the grain. Hopped with German tettnang for that spicy taste and citrus hops added to bring out the orange taste.",
+            "abv": "5",
+            "ibu": "20",
+            "glasswareId": 3,
+            "srmId": 5,
+            "availableId": 1,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NXAXDh/upload_uYphgY-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NXAXDh/upload_uYphgY-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NXAXDh/upload_uYphgY-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.057",
+            "createDate": "2014-09-10 17:34:44",
+            "updateDate": "2015-12-17 16:32:16",
+            "glass": {
+                "id": 3,
+                "name": "Mug",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 5,
+                "name": "5",
+                "hex": "FBB123"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "PVZxoW",
+            "name": "Surfer's Summer Ale",
+            "nameDisplay": "Surfer's Summer Ale",
+            "description": "The Summer Ales of England inspire our well-loved seasonal beer, Surfer's Summer Ale. With a brilliant gold color, and a fruity, floral, and herbal aroma from Glacier hops, Surfer's Summer Ale is a refreshing, tasty treat. A sweet, toasted malt flavor comes from the Golden Promise malt, and combines with bread-like wheat character to give this beer a full-bodied, rounded malt aspect. Finishing smooth and clean, Surfer's Summer Ale exhibits a wonderful balance and character.",
+            "abv": "5.3",
+            "ibu": "25",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/PVZxoW/upload_U0Bt5M-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/PVZxoW/upload_U0Bt5M-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/PVZxoW/upload_U0Bt5M-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.049",
+            "createDate": "2012-01-03 02:44:20",
+            "updateDate": "2015-12-16 06:51:46",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "O6F3Bo",
+            "name": "Swill Beer",
+            "nameDisplay": "Swill Beer",
+            "abv": "4.5",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/O6F3Bo/upload_jH86PM-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/O6F3Bo/upload_jH86PM-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/O6F3Bo/upload_jH86PM-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-04-09 10:59:44",
+            "updateDate": "2015-12-17 12:19:22",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "YBFFmm",
+            "name": "Thirsty Crow 26-Fifty Summer Ale",
+            "nameDisplay": "Thirsty Crow 26-Fifty Summer Ale",
+            "description": "Taking its name from Wagga’s postcode, this is a highly aromatic take on the summer ale style. Awash with tropical aromas from its New World hops and esters from the yeast, it was first introduced for summer but proved popular enough to stick around all year.",
+            "abv": "4.5",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/YBFFmm/upload_gjDDdM-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/YBFFmm/upload_gjDDdM-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/YBFFmm/upload_gjDDdM-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-02-10 21:12:44",
+            "updateDate": "2015-12-17 10:30:15",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "7AcnMs",
+            "name": "Thrills & Spills Summer Ale",
+            "nameDisplay": "Thrills & Spills Summer Ale",
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/7AcnMs/upload_UI6mZn-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/7AcnMs/upload_UI6mZn-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/7AcnMs/upload_UI6mZn-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-08-14 17:45:59",
+            "updateDate": "2015-12-17 05:39:26",
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        },
+        {
+            "id": "NvVM8z",
+            "name": "Vineyard Summer Ale",
+            "nameDisplay": "Vineyard Summer Ale",
+            "description": "Wild Vineyard grape leaves, premium Pilsner malt and Saaz hops give our Vineyard Summer Ale a bright golden glow, a clean pilsner malt flavor and subtle Bartlett pear aromatics. Its refreshing, light body makes it the perfect ale for a lazy day on the sand. And maybe a night, too.",
+            "glasswareId": 5,
+            "styleId": 6,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NvVM8z/upload_ePKfRN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NvVM8z/upload_ePKfRN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NvVM8z/upload_ePKfRN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-27 12:50:37",
+            "updateDate": "2015-12-17 14:50:53",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 6,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Summer Ale",
+                "shortName": "English Summer Ale",
+                "description": "English Summer Ale is light straw to golden colored with medium-low to medium bitterness, light to medium-light body, and low to medium residual malt sweetness. Torrefied and/or malted wheat are often used in quantities of 25% or less. Malt flavor may be biscuit-like. English, American or Noble-type hop, character, flavor and aroma are evident and may or may not be assertive yet always well balanced with malt character. Mild carbonation traditionally characterizes draft-cask versions. In bottled versions, normal or lively carbon dioxide content is appropriate. The overall impression is refreshing and thirst quenching. Fruity-ester characters are acceptable at low to moderate levels. No butterscotch-like diacetyl or sweet corn-like dimethylsulfide (DMS) should be apparent in aroma or flavor. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "20",
+                "ibuMax": "30",
+                "abvMin": "3.6",
+                "abvMax": "5",
+                "srmMin": "4",
+                "srmMax": "7",
+                "ogMin": "1.036",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:26"
+            }
+        }
+    ],
+    "status": "success"
+}

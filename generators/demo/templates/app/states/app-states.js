@@ -7,7 +7,7 @@
 
 'use strict';
 
-angular.module('<%= name %>')
+angular.module('<%= name %>App')
     .config(
     ['$stateProvider', '$urlRouterProvider',
       function ($stateProvider, $urlRouterProvider) {
@@ -45,5 +45,25 @@ angular.module('<%= name %>')
                   templateUrl: 'components/home/home.html'
                 })
                 
+                 //DEMO
+                .state('grunt', {
+                  // Use a url of '/' to set a states as the 'index'.
+                  url: '/grunt',
+                  templateUrl: 'components/grunt/grunt.html'
+                })
+                .state('beers', {
+                  // Use a url of '/' to set a states as the 'index'.
+                  url: '/beers',
+                  controller: 'beersController',
+                  controllerAs: 'vm',
+                  templateUrl: 'components/beers/beers.html',
+                  resolve:{/* @ngInject */
+                      styles: function(Restangular){
+                          return Restangular.all("api").customGET("styles").then(function(response){
+                              return response;
+                           });
+                      }
+                  }
+                })
                 ;
             }]);

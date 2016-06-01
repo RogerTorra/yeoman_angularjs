@@ -1,0 +1,2401 @@
+{
+    "currentPage": 1,
+    "numberOfPages": 2,
+    "totalResults": 96,
+    "data": [
+        {
+            "id": "8zCFMS",
+            "name": "1687 Brown Ale",
+            "nameDisplay": "1687 Brown Ale",
+            "description": "Charter Oak's 1687 Brown Ale (this was the year the legend of the Charter Oak took place, and Wadsworth hid the document in the majestic Oak Tree - later to become know as The Charter Oak) is an American style which is slightly more robust than the traditional English Brown Ale. This beer is brewed to a dark copper shade and and well balanced malt and hop with distinctive toasted flavors from both our premium specialty roasted and chocolate malted barley, also allowing for a faint undertone of caramel. This style is lightly hopped for balance and this ale will prove to be a wonderful selection for a sessionable beer. Our medium-bodied, limited bitterness and hop aroma will make this an excellent choice. Look for our 1687 Brown Ale at your favorite watering hole in June.",
+            "abv": "5.5",
+            "ibu": "30",
+            "srmId": 25,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8zCFMS/upload_mpD3aH-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8zCFMS/upload_mpD3aH-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8zCFMS/upload_mpD3aH-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "createDate": "2015-03-29 15:25:32",
+            "updateDate": "2015-12-17 22:53:53",
+            "srm": {
+                "id": 25,
+                "name": "25",
+                "hex": "7B1A00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "e6bMfE",
+            "name": "3 Beagles Brown",
+            "nameDisplay": "3 Beagles Brown",
+            "description": "It's no secret we love our Beagles, so why not name a beer after them? English style brown ale, no north or south, just English brown. A dry ale with layers of darker malt, chocolate, hints of dry roast, toffee and some coffee.",
+            "abv": "5.6",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/e6bMfE/upload_H1NSZm-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/e6bMfE/upload_H1NSZm-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/e6bMfE/upload_H1NSZm-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-10-20 15:36:48",
+            "updateDate": "2016-05-19 13:54:20",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "zWd40Z",
+            "name": "525",
+            "nameDisplay": "525",
+            "abv": "5.7",
+            "ibu": "32",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zWd40Z/upload_jOiRF5-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zWd40Z/upload_jOiRF5-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zWd40Z/upload_jOiRF5-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.056",
+            "createDate": "2013-03-08 13:14:49",
+            "updateDate": "2015-12-17 02:15:45",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "fbPbjZ",
+            "name": "Alfred Brown",
+            "nameDisplay": "Alfred Brown",
+            "description": "In 1859, Alfred Brown Peticolas opened the first Peticolas law firm in the State of Texas. After briefly leaving his practice to fight in the Civil War, A.B. returned to the practice of law in 1866. Since that time, A.B., his son (Warner Marion), grandson (William Craig), great grandson (Edward Kent), and/or great-great grandson ( Michael) have continuously practiced law in the State of Texas. \r\n\r\n Named after Alfred Brown Peticolas, our English brown ale is a dialed back version of the American interpretation. It’s copper in color with a pleasantly light hop aroma, which is balanced with a delicate roasty maltiness. Notes of nut and chocolate are subdued, but clearly present in flavor. This beer’s body is medium-light and possesses a smooth texture with a hint of residual sweetness. \r\n\r\n The roasted characteristics of this beer make it the perfect match for any meats or vegetables prepared on the grill.\r\n\r\n A little more on A.B. Peticolas? He was born in Richmond, Virginia, on May 27, 1838. As a young man, he studied law and taught school. He began his practice in Virginia, but ultimately moved west to Victoria, Texas. In 1859, he opened up a law practice with Samuel A. White. A.B. Peticolas may be best remembered today for his published Civil War journals and detailed pencil sketches, having served during the Sibley Campaign in New Mexico with Co. C., 4th Regiment, Texas Mounted Volunteers. After his discharge in 1865, he returned to Victoria to practice law. In 1894, A.B. Peticolas authored an index-digest to all civil cases contained in the Texas Report. This catalog became standard text of the Texas Bar Association for years. In his later years, A.B. Peticolas was known simply as the “Judge.”",
+            "abv": "5.5",
+            "ibu": "25",
+            "availableId": 2,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fbPbjZ/upload_yPKYxR-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fbPbjZ/upload_yPKYxR-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fbPbjZ/upload_yPKYxR-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-08-10 20:16:14",
+            "updateDate": "2015-12-17 05:08:47",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "JYHQEc",
+            "name": "Appleton Brown Ale",
+            "nameDisplay": "Appleton Brown Ale",
+            "description": "A London style brown ale.Dark & Mild. It has been said to rival the best of England's brown ales, & has certainly become a local favourite.",
+            "abv": "5",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JYHQEc/upload_UNltHL-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JYHQEc/upload_UNltHL-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JYHQEc/upload_UNltHL-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2013-08-12 18:31:00",
+            "updateDate": "2015-12-17 05:30:26",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "tT7s0f",
+            "name": "AstroNut Brown Ale",
+            "nameDisplay": "AstroNut Brown Ale",
+            "description": "Astronut Brown Ale- For those of us who gravitate toward the nuttier side, this English Style Brown Ale is for us. A hint of malty richness and warm, nutty undertones are sure to send us lunatics straight to the moon and back!",
+            "abv": "5.8",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/tT7s0f/upload_tyqbPi-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/tT7s0f/upload_tyqbPi-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/tT7s0f/upload_tyqbPi-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-26 16:04:28",
+            "updateDate": "2015-12-17 21:27:40",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "BtYMtw",
+            "name": "Attack of the 50 Foot Brunette",
+            "nameDisplay": "Attack of the 50 Foot Brunette",
+            "description": "Run, don’t hide from Nebraska Brewing Company’s imperial nut brown ale aged in spirit barrels from New Holland Brewing Company.",
+            "abv": "11.7",
+            "ibu": "28",
+            "glasswareId": 2,
+            "availableId": 2,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/BtYMtw/upload_eKgQNd-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/BtYMtw/upload_eKgQNd-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/BtYMtw/upload_eKgQNd-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Chocolates",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "createDate": "2014-09-12 17:54:44",
+            "updateDate": "2016-05-19 22:24:11",
+            "glass": {
+                "id": 2,
+                "name": "Goblet",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "PDel9f",
+            "name": "Bayou City Brown",
+            "nameDisplay": "Bayou City Brown",
+            "description": "A luscious, malt-oriented brown ale, with a caramel, dark fruit complexity of malt flavor. We took a southern English Brown recipe and made it our own. Drinkers will enjoy a sweet finish with a smooth, malty aftertaste.",
+            "abv": "3.8",
+            "ibu": "15",
+            "srmId": 27,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/PDel9f/upload_HBKcwL-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/PDel9f/upload_HBKcwL-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/PDel9f/upload_HBKcwL-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-07-29 04:04:58",
+            "updateDate": "2015-12-17 16:58:10",
+            "srm": {
+                "id": 27,
+                "name": "27",
+                "hex": "701400"
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "VzVWDl",
+            "name": "Beach Road Nut Brown Ale",
+            "nameDisplay": "Beach Road Nut Brown Ale",
+            "abv": "4.8",
+            "glasswareId": 5,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/VzVWDl/upload_b8XQwQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/VzVWDl/upload_b8XQwQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/VzVWDl/upload_b8XQwQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-05-27 15:59:21",
+            "updateDate": "2015-12-17 13:13:30",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "DSteb6",
+            "name": "Beale St. Brown Ale",
+            "nameDisplay": "Beale St. Brown Ale",
+            "abv": "4.9",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/DSteb6/upload_ND8x2Z-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/DSteb6/upload_ND8x2Z-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/DSteb6/upload_ND8x2Z-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-04-08 13:38:42",
+            "updateDate": "2015-12-17 00:18:53",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "OGxSY1",
+            "name": "Belly Itch'N Brown",
+            "nameDisplay": "Belly Itch'N Brown",
+            "description": "English style brown ale that finishes a bit dryer than the guidelines suggest. The malt is certainly the standout, nuts and chocolate flavors from specialty malts envelop your senses and the English yeast rounds out the mouth feel.",
+            "abv": "6.8",
+            "ibu": "34",
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OGxSY1/upload_YTHZ33-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OGxSY1/upload_YTHZ33-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OGxSY1/upload_YTHZ33-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-03-18 19:31:30",
+            "updateDate": "2015-12-17 22:22:41",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "o0uRab",
+            "name": "Best Brown Ale",
+            "nameDisplay": "Best Brown Ale",
+            "description": "Rich brown ale perfect for the fall and winter. Plenty of malt character and smooth sweet finish give this brown ale its distinct character.",
+            "abv": "5.8",
+            "availableId": 7,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/o0uRab/upload_23Dkxp-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/o0uRab/upload_23Dkxp-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/o0uRab/upload_23Dkxp-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:47",
+            "updateDate": "2015-12-16 03:30:46",
+            "available": {
+                "id": 7,
+                "name": "Fall",
+                "description": "Available during the fall months."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "sv3UvC",
+            "name": "Big Al's Nut Brown Ale",
+            "nameDisplay": "Big Al's Nut Brown Ale",
+            "glasswareId": 5,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/sv3UvC/upload_1Re12O-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/sv3UvC/upload_1Re12O-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/sv3UvC/upload_1Re12O-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:48",
+            "updateDate": "2015-12-16 10:40:14",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "Ehunrr",
+            "name": "Bill Brewer",
+            "nameDisplay": "Bill Brewer",
+            "description": "Bill Brewer is a low-alcohol version Sussex Old Ale (1%), retaining the essential character of this brew. As with John Hop, the beer is produced identically to the parent product and the alcohol is only removed prior to bottling.\r\n \r\nTasting notes: A low alcohol Brown Ale with a full malty palate and slightly burnt aftertaste.",
+            "abv": "1",
+            "styleId": 12,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Ehunrr/upload_k40vOt-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Ehunrr/upload_k40vOt-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Ehunrr/upload_k40vOt-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-05 18:03:51",
+            "updateDate": "2015-12-18 01:59:29",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "r1dc1I",
+            "name": "Bloomsbury Brown",
+            "nameDisplay": "Bloomsbury Brown",
+            "description": "Bloomsbury Brown was brewed to commemorate the company’s long association with Charleston, where the ‘Bloomsbury Group’ used as a meeting place during the first half of the twentieth century. Harveys delivered beer to Duncan Grant over many years and a bottle is still occasionally featured in his still life compositions.\r\n\r\nTasting note: A traditional Brown Ale. Sweet and dark with a nutty palate and discreet bitterness. A refreshing drink which may be served with a wide variety of foods or enjoyed in its own right. Formally known at Nut Brown Ale.",
+            "abv": "2.8",
+            "styleId": 12,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/r1dc1I/upload_SMHjfV-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/r1dc1I/upload_SMHjfV-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/r1dc1I/upload_SMHjfV-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-05 18:05:32",
+            "updateDate": "2015-12-18 03:22:39",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "KK0mGO",
+            "name": "Bolita",
+            "nameDisplay": "Bolita",
+            "description": "This Double Nut Brown Ale is brewed in honor of the popular Bolita games played in Ybor City, FL. Bolita means little ball, but the profits from the often rigged games were anything but little. A player would pick a number and hope that his bolita came up, while the game operator would employ a variety of tricks to ensure it didn't. There are no tricks in this brew though, just a high gravity brown ale redolent with caramel and toffee like malts and a long nutty finish. Pars well with Baklava, wild game and medium body cigars.",
+            "abv": "9",
+            "ibu": "50",
+            "glasswareId": 5,
+            "srmId": 28,
+            "availableId": 4,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KK0mGO/upload_pbAJwq-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KK0mGO/upload_pbAJwq-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KK0mGO/upload_pbAJwq-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.092",
+            "createDate": "2012-01-03 02:42:52",
+            "updateDate": "2015-12-16 08:22:46",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 28,
+                "name": "28",
+                "hex": "6A0E00"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "k1UyTa",
+            "name": "Bottoms Up Brown Ale",
+            "nameDisplay": "Bottoms Up Brown Ale",
+            "abv": "5.4",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/k1UyTa/upload_w7NSYQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/k1UyTa/upload_w7NSYQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/k1UyTa/upload_w7NSYQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-07-17 17:42:02",
+            "updateDate": "2015-12-17 14:45:51",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "OhDQU9",
+            "name": "Brains SA",
+            "nameDisplay": "Brains SA",
+            "description": "Wales' most famous beer, and the official ale of Welsh rugby, is available in can and bottle for you to enjoy at home.\r\n\r\nA nutty richness derived from a blend of malts is balanced with a satisfying dryness from the unique blend of three hops to create the renowned Brains SA. The aroma has a hint of spirit which adds to the legendary mystique of this premium beer.\r\n\r\nA fantastic accompaniment to chicken dishes and fruity desserts.",
+            "abv": "4.2",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OhDQU9/upload_2bGwbl-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OhDQU9/upload_2bGwbl-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OhDQU9/upload_2bGwbl-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-10 13:00:36",
+            "updateDate": "2015-12-17 13:38:59",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "7QbZKH",
+            "name": "Branding Iron Brown",
+            "nameDisplay": "Branding Iron Brown",
+            "description": "This brown ale is brown in color with a very rich malty, refreshing and smooth finish.  The Brown Ale is an English-style Brown with a northwest twist.  It is made with Pale malt, a hint of caramel and chocolate malts, bittered with Cascade hops and finished with Willamette, and aroma from Mt. Hood hops.",
+            "abv": "5.6",
+            "ibu": "41.2",
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/7QbZKH/upload_BxwP8b-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/7QbZKH/upload_BxwP8b-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/7QbZKH/upload_BxwP8b-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-01-23 18:31:16",
+            "updateDate": "2015-12-17 09:46:14",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "4h0QWE",
+            "name": "Bridge of Lions Brown Ale",
+            "nameDisplay": "Bridge of Lions Brown Ale",
+            "description": "British Crystal and Chocolate malts give this ale a medium body and rich, sweet aroma. Mount Hood hops add a spicy and floral nose. This smooth, malty brew is a Gold Medal winner.",
+            "abv": "5.2",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/4h0QWE/upload_8Biprh-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/4h0QWE/upload_8Biprh-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/4h0QWE/upload_8Biprh-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.05",
+            "createDate": "2012-10-21 16:40:51",
+            "updateDate": "2015-12-16 19:41:18",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "NbTKJT",
+            "name": "Bronze",
+            "nameDisplay": "Bronze",
+            "abv": "4.5",
+            "glasswareId": 5,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NbTKJT/upload_lTFCuc-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NbTKJT/upload_lTFCuc-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NbTKJT/upload_lTFCuc-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-11-12 12:49:31",
+            "updateDate": "2015-12-17 06:59:04",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "RG69vz",
+            "name": "Brown",
+            "nameDisplay": "Brown",
+            "description": "A very traditional British brown ale. It has a distinctive brown color and has moderate maltiness and a medium body. At 4.3% ABV, and its unassuming flavor, this is a definite session beer. The overall impression is of a sweet, moderately malty mild ale.",
+            "abv": "4.3",
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/RG69vz/upload_84bjND-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/RG69vz/upload_84bjND-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/RG69vz/upload_84bjND-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-05-09 00:26:16",
+            "updateDate": "2015-12-17 04:10:19",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "DRw55g",
+            "name": "Brown Bess",
+            "nameDisplay": "Brown Bess",
+            "abv": "9.8",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/DRw55g/upload_IV57IF-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/DRw55g/upload_IV57IF-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/DRw55g/upload_IV57IF-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-02-12 16:36:40",
+            "updateDate": "2015-12-17 09:27:50",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "KXNebo",
+            "name": "Brunette Nut Brown Ale",
+            "nameDisplay": "Brunette Nut Brown Ale",
+            "description": "Our version of the classic English-style Brown Ale has a blend of six different malts and a hop schedule that results in a low hop character.  The unique malt character brings to mind the taste of a blend of various nuts. Coffee, toffee, caramel tend to come to mind in this excellent session Ale. ",
+            "abv": "4.7",
+            "ibu": "13",
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KXNebo/upload_BXIB9F-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KXNebo/upload_BXIB9F-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KXNebo/upload_BXIB9F-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": " BBQ, Smoked Gouda Cheese, grilled/roasted/braised meats.",
+            "createDate": "2012-01-03 02:42:55",
+            "updateDate": "2015-12-15 20:20:42",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "GPNszr",
+            "name": "Bulldog Brown",
+            "nameDisplay": "Bulldog Brown",
+            "description": "A Northern English Brown Ale with crystal and kiln malt and Northern Brewer Hops.",
+            "abv": "6.5",
+            "ibu": "28",
+            "glasswareId": 5,
+            "srmId": 30,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/GPNszr/upload_gZjNw1-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/GPNszr/upload_gZjNw1-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/GPNszr/upload_gZjNw1-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-08-13 11:37:48",
+            "updateDate": "2015-12-17 04:04:23",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 30,
+                "name": "30",
+                "hex": "600903"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "UfgVPu",
+            "name": "Bunyan Badger",
+            "nameDisplay": "Bunyan Badger",
+            "abv": "5.8",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UfgVPu/upload_O7BOsB-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UfgVPu/upload_O7BOsB-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UfgVPu/upload_O7BOsB-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-05-28 12:00:49",
+            "updateDate": "2015-12-17 13:47:37",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "daA1zi",
+            "name": "Buster Nut Brown Ale",
+            "nameDisplay": "Buster Nut Brown Ale",
+            "description": "We combined a high school murder-movie sense of logic with a whole bunch of hand-selected hops and malts and the result was mind-blowing. This English-style Brown Ale has a touch of nuttiness provided by our good friends Mr. and Mrs. Victory and Munich malt. The addition of Northern Brewer, Cascade and Willamette hops smooth this beer out to create an incredibly drinkable brown ale.",
+            "abv": "5.4",
+            "ibu": "18",
+            "srmId": 35,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/daA1zi/upload_wdIRIp-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/daA1zi/upload_wdIRIp-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/daA1zi/upload_wdIRIp-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Great with cured meats, barbecue, red meat, game and cheese. Venison and\r\nbeef. Wild mushrooms.\r\nAll the contributing flavors of roast, toast, chocolate, Spice and earthy hops come together into one sessionable brown ale. A touch of bitterness balances the sweet malts.",
+            "createDate": "2014-09-19 21:24:40",
+            "updateDate": "2016-05-28 10:01:01",
+            "srm": {
+                "id": 35,
+                "name": "35",
+                "hex": "470606"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "D9YNMj",
+            "name": "Charlie Brown Peanut Butter Brown Ale",
+            "nameDisplay": "Charlie Brown Peanut Butter Brown Ale",
+            "description": "A refreshing Peanut Butter Brown Ale brewed with Organic Peanut Butter and real peanuts",
+            "abv": "6.2",
+            "availableId": 2,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/D9YNMj/upload_5KYiXP-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/D9YNMj/upload_5KYiXP-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/D9YNMj/upload_5KYiXP-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-01-10 09:43:14",
+            "updateDate": "2015-12-17 20:05:28",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "8pShCH",
+            "name": "Chestnut Hill",
+            "nameDisplay": "Chestnut Hill",
+            "description": "A wonderfully big nut brown ale crafted with roasty toasty malts balanced with Yakima hops and just enough alcohol to keep you warm on a fall afternoon. Formerly released in draught only, is is available in draught and 6-pack beginning the week of October 4th, 2010.",
+            "abv": "6.5",
+            "glasswareId": 5,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8pShCH/upload_8bg6Ci-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8pShCH/upload_8bg6Ci-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8pShCH/upload_8bg6Ci-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:59",
+            "updateDate": "2015-12-16 08:12:16",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "9inUWx",
+            "name": "Chorister",
+            "nameDisplay": "Chorister",
+            "description": "A well balanced 4.5 % abv brown malty ale brewed with local Wiltshire Maris Otter malt and finished with Fuggles hops.",
+            "abv": "4.5",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/9inUWx/upload_bR4J6y-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/9inUWx/upload_bR4J6y-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/9inUWx/upload_bR4J6y-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-12 12:16:04",
+            "updateDate": "2015-04-17 17:04:04",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "aTfQWV",
+            "name": "Conquerant",
+            "nameDisplay": "Conquerant",
+            "description": "An intense malty, single hopped nut brown ale with an explosion of toffee and liquorice flavours and a sweet, malty aroma.",
+            "abv": "5.5",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/aTfQWV/upload_m082Ex-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/aTfQWV/upload_m082Ex-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/aTfQWV/upload_m082Ex-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "originalGravity": "1.051",
+            "createDate": "2013-02-03 14:46:27",
+            "updateDate": "2015-12-17 00:49:51",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "nnkX5c",
+            "name": "Crafty Jack",
+            "nameDisplay": "Crafty Jack",
+            "description": "Rich, roasty, and bold, yet surprisingly light on the palate this English Brown Ale will surprise you. Mellow carbonation and traditional English ingredients give this London style ale authenticity. Some call it a taste of London. We call it delicious.",
+            "abv": "4.2",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nnkX5c/upload_ODIDEb-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nnkX5c/upload_ODIDEb-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nnkX5c/upload_ODIDEb-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-10-14 18:49:14",
+            "updateDate": "2015-12-17 18:07:58",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "AP0wjs",
+            "name": "Dog Day Brown English Brown Ale",
+            "nameDisplay": "Dog Day Brown English Brown Ale",
+            "description": "A smooth, toasty brown ale with hints of caramel and cocoa, the malt body has the depth to stand up to cool weather, but does not come across as heavy. This balancing act is aided by the generous use of American hops. A lighter brown beer brewed with Williamette and East Kent Goldings hops.",
+            "abv": "4.8",
+            "ibu": "20",
+            "glasswareId": 5,
+            "srmId": 24,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AP0wjs/upload_pXL9Iv-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AP0wjs/upload_pXL9Iv-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AP0wjs/upload_pXL9Iv-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-10-23 13:15:41",
+            "updateDate": "2015-12-16 20:00:01",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 24,
+                "name": "24",
+                "hex": "821E00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "rrsizH",
+            "name": "DORORTHY GOODBODY’S PRIDEWOOD BEST",
+            "nameDisplay": "DORORTHY GOODBODY’S PRIDEWOOD BEST",
+            "description": "This deliciously maltly traditional brown ale showcases the spicy, blackcurrant and citrus aromas of Bramling Cross hops from nearby Pridewood Farm.",
+            "abv": "4.2",
+            "availableId": 8,
+            "styleId": 12,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rrsizH/upload_fEPHYG-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rrsizH/upload_fEPHYG-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rrsizH/upload_fEPHYG-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-15 21:53:43",
+            "updateDate": "2015-12-18 02:31:07",
+            "available": {
+                "id": 8,
+                "name": "Winter",
+                "description": "Available during the winter months."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "FY9upq",
+            "name": "DORORTHY GOODBODY’S RUBY ALE",
+            "nameDisplay": "DORORTHY GOODBODY’S RUBY ALE",
+            "description": "A radiant ruby-brown beer blessed with the rich, full-bodied flavour of roasted malt, balanced by a little sweetness and boasts a long hoppy finish.",
+            "abv": "4.7",
+            "availableId": 8,
+            "styleId": 12,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FY9upq/upload_xRN67u-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FY9upq/upload_xRN67u-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FY9upq/upload_xRN67u-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-15 21:52:10",
+            "updateDate": "2015-12-18 01:41:47",
+            "available": {
+                "id": 8,
+                "name": "Winter",
+                "description": "Available during the winter months."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "fMpcf4",
+            "name": "DORORTHY GOODBODY’S SANTA SPECIAL",
+            "nameDisplay": "DORORTHY GOODBODY’S SANTA SPECIAL",
+            "description": "A full-bodied, deep-brown-coloured beer with a rich chocolaty aroma and fruity flavour that are enhanced by toasted cereal notes and a long hoppy finish.",
+            "abv": "4.2",
+            "availableId": 8,
+            "styleId": 12,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fMpcf4/upload_jeS6so-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fMpcf4/upload_jeS6so-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fMpcf4/upload_jeS6so-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-15 22:15:36",
+            "updateDate": "2015-12-18 01:50:45",
+            "available": {
+                "id": 8,
+                "name": "Winter",
+                "description": "Available during the winter months."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "yVfXgN",
+            "name": "Dundee Nut Brown Ale",
+            "nameDisplay": "Dundee Nut Brown Ale",
+            "glasswareId": 5,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/yVfXgN/upload_DbuQNV-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/yVfXgN/upload_DbuQNV-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/yVfXgN/upload_DbuQNV-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:07",
+            "updateDate": "2015-12-16 10:33:58",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "2G1EyB",
+            "name": "English Northern Ale",
+            "nameDisplay": "English Northern Ale",
+            "description": "Traditional English ale with earthly colors, a soft nutty flavor and gentle hint of fruit.",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2G1EyB/upload_TFxJe0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2G1EyB/upload_TFxJe0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2G1EyB/upload_TFxJe0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:10",
+            "updateDate": "2015-12-16 07:57:04",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "rHuUZa",
+            "name": "English Nut Brown",
+            "nameDisplay": "English Nut Brown",
+            "description": "St. George Nut Brown Ale is a classic English-style Brown Ale with flavors reminiscent of biscuit and caramel that is well balanced by a mild hop character. This beer was traditionally served in taverns as their house beer. Our Nut Brown Ale is light brown in color with a thick creamy head.",
+            "abv": "5",
+            "ibu": "28",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/rHuUZa/upload_sD0njg-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/rHuUZa/upload_sD0njg-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/rHuUZa/upload_sD0njg-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:10",
+            "updateDate": "2015-12-16 10:32:13",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "aBlVYG",
+            "name": "Englishman",
+            "nameDisplay": "Englishman",
+            "description": "The Englishman is coming! and it will change your view on the traditional Southern English Brown.\r\n\r\nThis classic pub ale has been enjoyed in the south of England for over 200 years. An eminently sessionable choice with amazing toffee and wondrous chocolate aromas. You can't miss the dark fruity notes of figs and plums while enjoying this ale. Wish you could enjoy a London-like drinking experience? Now you can. Cheers!",
+            "abv": "4.2",
+            "ibu": "25",
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/aBlVYG/upload_f7WTsW-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/aBlVYG/upload_f7WTsW-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/aBlVYG/upload_f7WTsW-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-16 14:16:38",
+            "updateDate": "2015-12-17 14:26:04",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "o4ENUL",
+            "name": "Euforia Toffee Nut",
+            "nameDisplay": "Euforia Toffee Nut",
+            "description": "A true DuClaw Brewing Company original, this style-bending, English Brown Ale variant is dark brown, medium-bodied, creamy, and incredibly flavorful! EuForia combines roasted malt with gourmet coffee to create a jubilant swirl of caramel, almond, and toffee flavors that will leave your palate in a state of ecstasy. First brewed in 2006, this smooth, highly drinkable bottle/pint of 5% abv liquid bliss is available year round, so what are you waiting for? Come on get happy!",
+            "abv": "5",
+            "ibu": "22",
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/o4ENUL/upload_NtQqji-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/o4ENUL/upload_NtQqji-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/o4ENUL/upload_NtQqji-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-08-26 23:39:16",
+            "updateDate": "2015-12-16 19:10:47",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "DknZZL",
+            "name": "Exit 8",
+            "nameDisplay": "Exit 8",
+            "description": "The long-delayed eighth stop on our multi- year trip brings us to, coincidentally, Exit 8 and celebrates what puts the “Garden” in Garden State.\r\n\r\nTo celebrate Exit 8, one of our big farming areas, we’ve brewed a beer that uses a lost local ingredient: chestnuts–and a popular current one: local honey. This full-bodied hybrid Belgian-style brown ale brings forward a nutty character from the chestnuts, accented by the flavors of honey, roasted barley and oat flakes. There’s a nice spiciness from the Mt. Rainier hops while Chinooks add a touch of pine. Fuggles and Columbus round out the hop profile.\r\n\r\nChestnut Brown Ale",
+            "abv": "8.3",
+            "glasswareId": 5,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/DknZZL/upload_Aw3nt8-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/DknZZL/upload_Aw3nt8-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/DknZZL/upload_Aw3nt8-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Exit 8 pairs perfectly with hearty foods like roast pork, sausages or a nice aged gouda.",
+            "createDate": "2012-06-08 12:17:19",
+            "updateDate": "2015-12-16 17:26:06",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "ZKa6lT",
+            "name": "Gentleman's Relish",
+            "nameDisplay": "Gentleman's Relish",
+            "description": "Our Northern English Brown Ale; strikes a nice balance between caramelly roastiness and clean hoppiness.",
+            "abv": "4.9",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ZKa6lT/upload_wF4G7C-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ZKa6lT/upload_wF4G7C-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ZKa6lT/upload_wF4G7C-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-11-02 12:15:44",
+            "updateDate": "2015-12-16 19:14:18",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "V6dDxB",
+            "name": "Grandma's Pecan",
+            "nameDisplay": "Grandma's Pecan",
+            "description": "Grandma knows best. This English Style Brown ales is poised to be our flagship beer and we couldn't be more excited. We are the only Los Angeles brewery going to the Oregon Brewers Festival this year, and we're taking Grandma with us. We know she'll do us proud. One sip of Grandma's Pecan, and we think you'll agree.",
+            "abv": "6.9",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/V6dDxB/upload_yqczi7-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/V6dDxB/upload_yqczi7-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/V6dDxB/upload_yqczi7-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-11-08 17:41:49",
+            "updateDate": "2016-05-17 22:27:14",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "HuC84C",
+            "name": "He'Brew Messiah Nut Brown Ale",
+            "nameDisplay": "He'Brew Messiah Nut Brown Ale",
+            "description": "A deep, bold nut brown ale beautifully balanced with rich dark malts and a complex hop character converging to reveal a simply enchanting elixir.\r\n\r\nCertified Kosher by KSA.",
+            "abv": "5.2",
+            "ibu": "21",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/HuC84C/upload_Q7GlVH-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/HuC84C/upload_Q7GlVH-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/HuC84C/upload_Q7GlVH-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Hearty foods such as burgers, brisket, salmon and smoked cheeses like aged Gouda and crumbly Cheshire.",
+            "createDate": "2012-04-23 23:55:20",
+            "updateDate": "2015-12-16 16:58:22",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "6ubS2F",
+            "name": "Heritage Coffee Brown Ale",
+            "nameDisplay": "Heritage Coffee Brown Ale",
+            "description": "English Ales are typically malty-sweet, often with a rich, caramel or toffee-like character. Hints of coffee are often present in this style, so this was a perfect beer upon which to base this unique coffee creation.\r\n\r\nFlavor\r\nThis rich brown ale has a big cocoa aroma with light earthy roasted and gourmet coffee notes. The flavor has a light sweetness, with fruity hazelnut and medium coffee flavors. There is a deep coffee base, without an overwhelming coffee flavor that allows the great brown ale with a hint of Cascade and Calypso hops to shine through.",
+            "abv": "7",
+            "ibu": "19",
+            "glasswareId": 5,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6ubS2F/upload_9vujw1-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6ubS2F/upload_9vujw1-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6ubS2F/upload_9vujw1-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.078",
+            "createDate": "2015-10-26 14:35:56",
+            "updateDate": "2015-12-18 05:31:47",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "MCQWHe",
+            "name": "Hop Karma Brown IPA",
+            "nameDisplay": "Hop Karma Brown IPA",
+            "description": "The Terrapin Hop Karma IPA (formerly known as the India Style Brown Ale) is a head on collision between a hoppy, west coast IPA and a complex, malty brown ale. Brewed with 5 varieties of hops and 7 different malts, this hybrid style represents the best of both worlds.\r\n\r\nThis beer was last brewed in 2012",
+            "abv": "6",
+            "ibu": "65",
+            "glasswareId": 5,
+            "srmId": 9,
+            "availableId": 3,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/MCQWHe/upload_GLHwZW-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/MCQWHe/upload_GLHwZW-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/MCQWHe/upload_GLHwZW-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Slow roasted meats, sausages on the grill, or wrap sea scallops in a nicely peppered bacon and serve over lentils with a chipotle butter sauce.",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "originalGravity": "1.062",
+            "createDate": "2012-01-03 02:43:25",
+            "updateDate": "2015-12-16 06:10:13",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 9,
+                "name": "9",
+                "hex": "E58500"
+            },
+            "available": {
+                "id": 3,
+                "name": "Not Available",
+                "description": "Beer is not available."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "KLPZ9I",
+            "name": "Julie's Downtown Brown",
+            "nameDisplay": "Julie's Downtown Brown",
+            "description": "Mild brown ale with a moderate malt sweetness, a nutty, biscuity, toffee-caramel character and a medium-dry finish. Medium-low bitterness with an even malt-hop balance and a very subtle hop flavor.\r\n\r\nThis beer was brewed for and named after our beloved manager Julie Brown who left us to go to Boston to pursue a career in interior design. Just like JB, it’s really nice with a bit of sass.",
+            "abv": "4.2",
+            "ibu": "33",
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KLPZ9I/upload_BmA6jH-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KLPZ9I/upload_BmA6jH-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KLPZ9I/upload_BmA6jH-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "You can enjoy this mild malt-forward beer with just about anything but we especially enjoy it with earthy/nutty cheeses, french-onion soup, feta bread, and smoked ham.",
+            "originalGravity": "1.052",
+            "createDate": "2014-09-08 16:25:55",
+            "updateDate": "2015-12-17 16:38:23",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "fAh8jL",
+            "name": "Lefty's Nut - Brown Ale",
+            "nameDisplay": "Lefty's Nut - Brown Ale",
+            "abv": "7.5",
+            "ibu": "35",
+            "srmId": 30,
+            "availableId": 7,
+            "styleId": 12,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fAh8jL/upload_pU2p6E-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fAh8jL/upload_pU2p6E-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fAh8jL/upload_pU2p6E-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-07-29 19:43:56",
+            "updateDate": "2015-12-17 04:21:26",
+            "srm": {
+                "id": 30,
+                "name": "30",
+                "hex": "600903"
+            },
+            "available": {
+                "id": 7,
+                "name": "Fall",
+                "description": "Available during the fall months."
+            },
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        },
+        {
+            "id": "2CrhXe",
+            "name": "Lewes Castle",
+            "nameDisplay": "Lewes Castle",
+            "description": "Lewes Castle is a traditional brown ale. The label depicts the brewery and Cliffe Bridge, lying beneath the castle, in the Ouse Valley.\r\n\r\nTasting notes: Full malty 'Brown Ale' with a creamy head. Mild hop notes with a lingering biscuity sweet palate give coffee and liquorice notes. A bitter sweet finish.",
+            "abv": "4.8",
+            "styleId": 12,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2CrhXe/upload_VPShAa-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2CrhXe/upload_VPShAa-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2CrhXe/upload_VPShAa-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-05 18:30:15",
+            "updateDate": "2015-12-18 01:59:30",
+            "style": {
+                "id": 12,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style Brown Ale",
+                "shortName": "English Brown",
+                "description": "English brown ales range from copper to brown in color. They have medium body and range from dry to sweet maltiness with very little hop flavor or aroma. Roast malt tones may sometimes contribute to the flavor and aroma profile. Low to medium-low levels of fruity-ester flavors are appropriate. Diacetyl should be very low, if evident. Chill haze is allowable at cold temperatures.",
+                "ibuMin": "15",
+                "ibuMax": "25",
+                "abvMin": "4",
+                "abvMax": "5.5",
+                "srmMin": "13",
+                "srmMax": "25",
+                "ogMin": "1.04",
+                "fgMin": "1.008",
+                "fgMax": "1.014",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:20:51"
+            }
+        }
+    ],
+    "status": "success"
+}

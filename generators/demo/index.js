@@ -10,41 +10,23 @@ var findup = require('findup-sync');
 
 
 module.exports = yeoman.Base.extend({
-    moveFiles: function moveFiles() {
-    var files =  [
-        ".yo-rc.json",
-        ".bowerrc",
-        "Gruntfile.js",
-        "test",
-        "app/styles",
-        "config",
-        "tasks"
-    ];
-      files.forEach(function (file) { 
-          this.fs.copy(
-            //path.join(base, file),
-            this.templatePath(file), 
-            this.destinationPath(file)
-        );
-      }.bind(this));
-    },
+
 
     moveTemplates: function moveTemplates() {
        var templates = [
         "app/index.html",
         "package.json",
         "bower.json",
-        ".jshintrc",
-        ".jscsrc",
-        ".jshintignore",
-        ".jsbeautifyrc",
-        "README.md",
-        "app/components/home/home.html",
-        "app/components/home/home-controller.js",
+        "app/components/grunt/grunt.html",
+        "app/components/grunt/grunt-controller.js",
+        "app/components/beers/beers.html",
+        "app/components/beers/beers-controller.js",
         "app/states/app-states.js",
         "app/app.js",
-        "test/e2e/homeSpec.js"
+
     ];
+    this.props = {};
+    this.props.name = this.options.appName || this.appname;
     this.props.css = '<%= css %>';
     this.props.scripts = '<%= scripts %>';
         
@@ -56,24 +38,9 @@ module.exports = yeoman.Base.extend({
         );
     }.bind(this));
   },   
-  initializing: function(){
-      
-    // determine the app root
-      var rootPath = findup('.yo-rc.json');
-      this.log("1 "+this.sourceRoot());
-      rootPath = rootPath ? path.dirname(rootPath) : process.cwd();
-      this.log("2 "+this.templatePath('Gruntfile.js'));
-      if (rootPath !== process.cwd()) {
-        this.log(
-          '\n' +
-          'Just found a `.yo-rc.json` in a parent directory.\n' +
-          'Setting the project root at: ' + rootPath + '\n'
-        );
-        //process.chdir(rootPath);
-      }
-  },
+
   prompting: function () {
-        var done = this.async();
+       /* var done = this.async();
         // Have Yeoman greet the user.
         this.log(chalk.bgBlack.cyan('\n\n\n+-----------------------------------------------------------+\n'+
                                  'XXXXXXXXXXXXX                                               |\n'+
@@ -95,38 +62,20 @@ module.exports = yeoman.Base.extend({
             message: 'Whats your project name',
             //Defaults to the project's folder name if the input is skipped
             default: this.appname
-            },{
-              type    : 'confirm',
-              name    : 'demo',
-              message : 'Would you like to enable the demo content?'
-            }];
+        }];
       
         this.prompt(prompts, function (props) {
             this.log(props);
             this.props = props;
           // To access props later use this.props.someOption;
           done();
-        }.bind(this));
+        }.bind(this));*/
   },
-  configuring: function () {
-    if (this.props.demo) {
-        this.composeWith("tower-angular:demo", { 
-            options: { 
-              nested: true, 
-              appName: this.props.name
-                    } 
-         },{local: require.resolve("./../demo")});
-     }
-  },
+
   writing: function () {     
-       //FILES
-      this.moveFiles();
+      this.log(chalk.red('\nWriting DEMO content...\n'));
       //TEMPLATES
       this.moveTemplates();
 
-  },
-
-  install: function () {
-    this.installDependencies();
   }
 });

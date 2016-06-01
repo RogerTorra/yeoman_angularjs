@@ -1,0 +1,2395 @@
+{
+    "currentPage": 1,
+    "numberOfPages": 3,
+    "totalResults": 138,
+    "data": [
+        {
+            "id": "FcH1ln",
+            "name": "5 Barrel Pale Ale",
+            "nameDisplay": "5 Barrel Pale Ale",
+            "description": "The distinctive hop character of our 5 Barrel Pale Ale is due to the extraction of essential oils from select hops. We treat 5 Barrel Pale Ale to an infusion of fresh whole hop flowers in the Hop Back and the Fermentor, as well as four hop additions during the kettle boil. We like how this gives the beer a fresh, lively flavor and aroma.",
+            "abv": "5.2",
+            "ibu": "36",
+            "glasswareId": 5,
+            "srmId": 25,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FcH1ln/upload_nmDv2p-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FcH1ln/upload_nmDv2p-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FcH1ln/upload_nmDv2p-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:37",
+            "updateDate": "2015-12-15 21:08:16",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 25,
+                "name": "25",
+                "hex": "7B1A00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "Fryyov",
+            "name": "A Good Stuffing",
+            "nameDisplay": "A Good Stuffing",
+            "abv": "4.5",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Fryyov/upload_N7LYSg-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Fryyov/upload_N7LYSg-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Fryyov/upload_N7LYSg-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-04-09 21:47:56",
+            "updateDate": "2015-12-17 12:11:27",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "bhmrLg",
+            "name": "Adnams Explorer",
+            "nameDisplay": "Adnams Explorer",
+            "description": "Explorer is light and refreshing, suffused with the aromas of a grapefruit grove. The citrus attack will burst on your palate as the hops deliver their fruity bitterness.\r\n\r\nPale Ale malt is used to provide the biscuity backbone of this blonde beer but it’s the hops that give it its personality. We use two American hops, grown in the Yakima Valley in Washington. These hops, called Columbus and Chinook, add wonderful grapefruit flavours to the beer.",
+            "abv": "4.3",
+            "glasswareId": 5,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/bhmrLg/upload_UAaIgb-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/bhmrLg/upload_UAaIgb-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/bhmrLg/upload_UAaIgb-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:39",
+            "updateDate": "2015-12-15 23:34:53",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "QUdcoU",
+            "name": "Adnams Sole Star",
+            "nameDisplay": "Adnams Sole Star",
+            "description": "A full-flavoured and great tasting pale amber beer, with a light floral/citrus aroma, gentle caramel notes and a good level of bitterness. Brewed with Pale Ale, Crystal, Black and Munich malts which are toasted to add more flavour. We use Chinook and Cascade hops to add bitterness to balance out the sweetness.\r\n\r\nSole Star is named after the brightest star in the sky (the Sun) which rises first over the East Coast and the Adnams Sole Bay Brewery each morning",
+            "abv": "2.7",
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/QUdcoU/upload_nMi1tz-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/QUdcoU/upload_nMi1tz-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/QUdcoU/upload_nMi1tz-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-12 12:31:06",
+            "updateDate": "2015-12-16 16:50:22",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "1UXQA4",
+            "name": "Adnams William Godell",
+            "nameDisplay": "Adnams William Godell",
+            "description": "Amber in colour, it has a distinctive aroma of tropical fruits and gooseberries. We have used a recipe of barley, oats and wheat, with a small amount of modern Nelson Sauvign hops giving the beer a smooth, creamy texture.\r\n\r\nBrewed to celebrate 500 years since William Godell’s land was bequeathed to the town of Southwold. Described as ‘the father of Southwold’, Godell was a rich businessman and landowner who left Southwold Common to local people upon his death. Each year, people from the Town commemorate the bequest by beating the boundaries on the anniversary of his death.",
+            "abv": "4.5",
+            "availableId": 2,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/1UXQA4/upload_JDF6p3-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/1UXQA4/upload_JDF6p3-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/1UXQA4/upload_JDF6p3-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-12 12:45:00",
+            "updateDate": "2015-12-16 17:50:56",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "QWGfER",
+            "name": "Ale",
+            "nameDisplay": "Ale",
+            "abv": "6.5",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/QWGfER/upload_QH5sxr-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/QWGfER/upload_QH5sxr-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/QWGfER/upload_QH5sxr-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Beef and spicy dishes.",
+            "createDate": "2015-04-20 16:17:49",
+            "updateDate": "2015-12-18 01:25:18",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "d4S1IZ",
+            "name": "Alfred's Draught",
+            "nameDisplay": "Alfred's Draught",
+            "description": "Three strains of Goldings hops are used in the brewing process, giving a pleasant bitter/sweet flavour, with a prominent hop aroma.",
+            "abv": "4.6",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/d4S1IZ/upload_uME0aG-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/d4S1IZ/upload_uME0aG-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/d4S1IZ/upload_uME0aG-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-21 22:09:19",
+            "updateDate": "2015-12-16 23:17:07",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "gqTKNY",
+            "name": "Alton's Pride",
+            "nameDisplay": "Alton's Pride",
+            "description": "After years of fine tuning, our vision for Alton’s Pride is complete. A traditional amber bitter brewed using water from the Hampshire chalk hills. Full and clean tasting, initially malty then citrus fruit and resinous hop build to a quenching bitter finish.",
+            "abv": "3.8",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/gqTKNY/upload_bafiAL-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/gqTKNY/upload_bafiAL-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/gqTKNY/upload_bafiAL-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-08-23 12:35:28",
+            "updateDate": "2015-12-16 17:48:37",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "3xDVBu",
+            "name": "American Bitter Ale",
+            "nameDisplay": "American Bitter Ale",
+            "description": "This special release beer is an Americanized (i.e. hopped up) version of a traditional English bitter. Bitters are low alcohol (3 to 4.5% abv) pale ales that are often dry hopped and served on cask. Our take on the style is suitably sessionable at a modest 4% abv, but we wanted to turn it up a notch in the hop department – so instead of using the mellower English hop varieties we blasted it with a blend of Centennial and Chinook in the kettle, followed by a hefty dry hop with more Centennial. The result? A great beer to get your hop fix with and still be able to drive home!",
+            "abv": "4",
+            "ibu": "30",
+            "glasswareId": 5,
+            "availableId": 2,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3xDVBu/upload_kT53WO-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3xDVBu/upload_kT53WO-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3xDVBu/upload_kT53WO-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:41",
+            "updateDate": "2015-12-16 12:02:51",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "sGVeVS",
+            "name": "Anchor Small Beer",
+            "nameDisplay": "Anchor Small Beer",
+            "description": "A unique brew reminiscent of an English bitter, with a light amber color and lots of hop character, Anchor Small® Beer is certainly not small on flavor.\r\n\r\nMade from the second runnings of our Old Foghorn® mash, Anchor Small® revives the ancient brewing tradition of creating two distinct beers from one mash – a sweeter, stronger and more expensive barleywine made for sipping, and a more plentiful drinking beer. We sprinkle warm water over the Old Foghorn mash after the first “wort” has run off, creating a second, lighter brew. Technically, both beers are \"ales\" because they are made with top-fermenting yeast. Like its forebears, the result is an easy-drinking “session” beer.\r\n\r\nFor hundreds of years, the term \"small beer\" was used in English to describe the lighter, less expensive counterpart to barleywine. In our revival of this ancient tradition, Anchor Small® Beer is resourcefulness at its best – beer begets beer.",
+            "abv": "3.3",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/sGVeVS/upload_kVQBvn-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/sGVeVS/upload_kVQBvn-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/sGVeVS/upload_kVQBvn-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:44:14",
+            "updateDate": "2015-12-15 22:43:09",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "cBZj1z",
+            "name": "Audition - English-Style Bitter",
+            "nameDisplay": "Audition - English-Style Bitter",
+            "abv": "5.6",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cBZj1z/upload_mgNh5l-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cBZj1z/upload_mgNh5l-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cBZj1z/upload_mgNh5l-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-03-13 12:11:45",
+            "updateDate": "2015-12-17 10:31:28",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "LNr16q",
+            "name": "Autumn Ale",
+            "nameDisplay": "Autumn Ale",
+            "description": "Our Autumn Ale 2010 is an Imperial English Ale.  We decided to take our Back Road Ale recipe and double all the ingredients literally.  In a word, it is a double Back Road Ale.  You can expect this beer to be a big malty monster.  To give it a little something extra, we aged the entire batch on oak spirals.",
+            "abv": "8.8",
+            "glasswareId": 5,
+            "availableId": 7,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/LNr16q/upload_o6DsnW-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/LNr16q/upload_o6DsnW-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/LNr16q/upload_o6DsnW-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:43",
+            "updateDate": "2015-12-16 05:20:19",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 7,
+                "name": "Fall",
+                "description": "Available during the fall months."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "Fq57Uh",
+            "name": "Baby Reida",
+            "nameDisplay": "Baby Reida",
+            "description": "Georgetown brewers decided to divert Lovely Reida sparged wort once it reached a certain concentration to the 15bbl system for a whole new beer and try their hand at an English Style Bitter. The result is a sweet and malty beer with a floral, herbal hop flavor. The bitterness comes through strong like an IPA without the citrus character.",
+            "abv": "5",
+            "ibu": "50",
+            "availableId": 2,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Fq57Uh/upload_c4EoL9-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Fq57Uh/upload_c4EoL9-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Fq57Uh/upload_c4EoL9-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-05-03 21:19:05",
+            "updateDate": "2015-04-28 13:31:29",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "wI1wn8",
+            "name": "Bachelor Bitter",
+            "nameDisplay": "Bachelor Bitter",
+            "description": "One of the original three packaged beers but only at our pub.  Coppery in color and robust in flavor Bachelor Bitter will leave your taste buds humming. Galena Willamette and Kent Golding hops create fantastic hop bitterness aroma and flavor.",
+            "abv": "5.4",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/wI1wn8/upload_YDwgfJ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/wI1wn8/upload_YDwgfJ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/wI1wn8/upload_YDwgfJ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:44",
+            "updateDate": "2016-01-22 21:25:53",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "acjVm9",
+            "name": "Barnsley Bitter",
+            "nameDisplay": "Barnsley Bitter",
+            "description": "Our award winning Barnsley Bitter is brewed using the finest quality Maris Otter malt and English hops. Chestnut in colour, having a well rounded, rich flavour, it retains a lasting bitter finish. Brewed using yeast strains used in the 1850's to brew 'Barnsley Bitter'.  Acorn Brewery Barnsley Bitter won a Silver Award in it's class at the Great British Beer Festival 2006 and was also a finalist in 2007, 2008 and 2012.",
+            "abv": "3.8",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/acjVm9/upload_nqRGeE-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/acjVm9/upload_nqRGeE-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/acjVm9/upload_nqRGeE-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-21 17:33:56",
+            "updateDate": "2015-12-16 22:29:59",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "EjOjVD",
+            "name": "Bartlett's Ordinary",
+            "nameDisplay": "Bartlett's Ordinary",
+            "glasswareId": 5,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/EjOjVD/upload_NT4npt-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/EjOjVD/upload_NT4npt-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/EjOjVD/upload_NT4npt-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:45",
+            "updateDate": "2015-12-16 09:18:34",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "r5GwCX",
+            "name": "Bass Pale Ale",
+            "nameDisplay": "Bass Pale Ale",
+            "abv": "5",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/r5GwCX/upload_9TI8qF-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/r5GwCX/upload_9TI8qF-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/r5GwCX/upload_9TI8qF-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:45",
+            "updateDate": "2015-12-16 03:37:34",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "m2WIgO",
+            "name": "Bath Star",
+            "nameDisplay": "Bath Star",
+            "description": "Bath Star is a 4.5% abv golden brown bitter brewed from the finest Maris Otter malt and finished with cascade hops and is named after the breweries only pub The Star Inn, which has twice been Baths Campaign for Real Ale Pub of the Year.",
+            "abv": "4.5",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/m2WIgO/upload_4mVoTz-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/m2WIgO/upload_4mVoTz-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/m2WIgO/upload_4mVoTz-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-12 12:16:17",
+            "updateDate": "2012-12-16 14:39:48",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "3F2Kav",
+            "name": "Best Bitter",
+            "nameDisplay": "Best Bitter",
+            "description": "A golden bitter with a good balance of malty and refreshing citrus notes leading to a mellow tangy finish.",
+            "abv": "3.8",
+            "availableId": 4,
+            "styleId": 3,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/3F2Kav/upload_KN5opy-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/3F2Kav/upload_KN5opy-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/3F2Kav/upload_KN5opy-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-12 20:27:37",
+            "updateDate": "2015-12-18 02:16:03",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "AuzmLI",
+            "name": "Bid Eddy",
+            "nameDisplay": "Bid Eddy",
+            "description": "Due to popular demand we brew this thirst-quenching ale several times each year.",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AuzmLI/upload_D7aOpE-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AuzmLI/upload_D7aOpE-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AuzmLI/upload_D7aOpE-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:48",
+            "updateDate": "2015-12-16 07:59:33",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "xJ0knw",
+            "name": "Big Butt Doppelbock",
+            "nameDisplay": "Big Butt Doppelbock",
+            "description": "Leinenkugel's is pleased to bring back Leinenkugel's Big Butt Doppelbock into its limited-release portfolio. The name \"Big Butt\" comes from the image of two goats butting heads that you see on the label. Bock means billy goat in German and Leinenkugel's Big Butt Doppelbock's name and label pokes fun at the goat's springtime mating ritual. The result is a malty, rich, full-bodied bock beer brewed with two-and six-row pale and specialty malts and two specialty hops. Like all Leinie's beers, Big Butt Doppelbock is handcrafted one batch at a time in our historic Chippewa Falls brewery.",
+            "abv": "5.8",
+            "glasswareId": 5,
+            "availableId": 8,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/xJ0knw/upload_ttcckR-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/xJ0knw/upload_ttcckR-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/xJ0knw/upload_ttcckR-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:48",
+            "updateDate": "2015-12-15 22:17:22",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 8,
+                "name": "Winter",
+                "description": "Available during the winter months."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "sAVxvt",
+            "name": "Big Fish",
+            "nameDisplay": "Big Fish",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/sAVxvt/upload_NVpkRB-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/sAVxvt/upload_NVpkRB-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/sAVxvt/upload_NVpkRB-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-01-16 18:01:02",
+            "updateDate": "2015-12-17 08:21:09",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "vAnuz6",
+            "name": "Bitter",
+            "nameDisplay": "Bitter",
+            "abv": "5",
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/vAnuz6/upload_mX07m2-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/vAnuz6/upload_mX07m2-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/vAnuz6/upload_mX07m2-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-19 17:13:35",
+            "updateDate": "2015-12-17 22:51:47",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "Ih3S4b",
+            "name": "Bitter",
+            "nameDisplay": "Bitter",
+            "abv": "3.7",
+            "styleId": 3,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Ih3S4b/upload_F27yys-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Ih3S4b/upload_F27yys-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Ih3S4b/upload_F27yys-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-13 14:58:12",
+            "updateDate": "2015-12-18 02:40:49",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "lxwggL",
+            "name": "Bitter",
+            "nameDisplay": "Bitter",
+            "description": "Our most popular and famous beer. JW Lees Bitter is an all-malt brew and sets the standard for all ales. This is an amber beer with a malty and citrus fruit aftertaste, made from ale and crystal malt, and Goldings hops. First brewed in 1828.",
+            "abv": "4",
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/lxwggL/upload_CBhSXe-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/lxwggL/upload_CBhSXe-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/lxwggL/upload_CBhSXe-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-13 16:12:45",
+            "updateDate": "2015-12-18 01:34:49",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "p6snIK",
+            "name": "Bitter Brewer",
+            "nameDisplay": "Bitter Brewer",
+            "description": "First one in, last one out, sweltering in the summer, freezing in the winter. Years of toiling and boiling have turned our brewer Todd into a cynical, surly, bitter brewer...You too can get bitter without all the fuss. Simply crack open a can and fill a glass with our latest - Bitter Brewer. Pale orange in color, this ale gets intense toast and marmalade character from British malt and American hops. Dry-hopping brings the floral citrus aromas. So go ahead, get bitter!",
+            "abv": "4.1",
+            "ibu": "37",
+            "srmId": 3,
+            "availableId": 4,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/p6snIK/upload_pjFUl6-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/p6snIK/upload_pjFUl6-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/p6snIK/upload_pjFUl6-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-30 22:20:59",
+            "updateDate": "2015-12-16 18:27:57",
+            "srm": {
+                "id": 3,
+                "name": "3",
+                "hex": "FFCA5A"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "Twr9b0",
+            "name": "Black Friar",
+            "nameDisplay": "Black Friar",
+            "description": "Produced from the finest English malt available Maris Otter, plus a mixture of roasted Chocolate malts and finished with Northdown and Bramley Cross hops. Very dark and extremely satisfying.",
+            "abv": "5.3",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Twr9b0/upload_Fnhddt-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Twr9b0/upload_Fnhddt-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Twr9b0/upload_Fnhddt-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-12 12:18:30",
+            "updateDate": "2012-12-16 14:41:27",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "C41F2U",
+            "name": "Black Sheep Blitzen",
+            "nameDisplay": "Black Sheep Blitzen",
+            "description": "Cask and filtered bottle: Seasonal - Winter.\r\nRuby Christmas Ale\r\nThis cheeky little festive number is made with cascade and goldings hops, orange and mixed peels. A real winter warmer, it’s all you need to survive the holiday season.",
+            "abv": "4",
+            "availableId": 8,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/C41F2U/upload_y8TQi2-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/C41F2U/upload_y8TQi2-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/C41F2U/upload_y8TQi2-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-01-15 16:53:56",
+            "updateDate": "2016-01-15 17:14:47",
+            "available": {
+                "id": 8,
+                "name": "Winter",
+                "description": "Available during the winter months."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "jxhFp8",
+            "name": "Blizzard",
+            "nameDisplay": "Blizzard",
+            "description": "Strong festive bitter with caramel flavours and a smooth dry bitterness. Available Dec-Jan",
+            "abv": "5",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/jxhFp8/upload_HrkCqU-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/jxhFp8/upload_HrkCqU-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/jxhFp8/upload_HrkCqU-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-10-21 20:46:40",
+            "updateDate": "2015-12-16 19:12:38",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "0R8Oh6",
+            "name": "Bloomin' Marvellous",
+            "nameDisplay": "Bloomin' Marvellous",
+            "description": "Pale straw colored Blonde beer with distinctive aromas of citrus, grapefruit and a background hint of honey. Two additions of Cascade hops are married to an all lager malt grist to give a bloomin’ marvellous pint!",
+            "abv": "4",
+            "availableId": 4,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/0R8Oh6/upload_aWHDNS-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/0R8Oh6/upload_aWHDNS-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/0R8Oh6/upload_aWHDNS-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-04-27 14:03:57",
+            "updateDate": "2015-12-18 00:07:46",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "TLMQAj",
+            "name": "Blue Label",
+            "nameDisplay": "Blue Label",
+            "description": "A 'Blue Label' traditionally denotes a well hopped beer. An award winning ale in its own right, this beer is derived from our Sussex Best Bitter.\r\n\r\nTasting notes: A blend of four different 'aroma' hop varieties imparts a delicate bitterness which is balanced by the residual sweetness of malt sugars.",
+            "abv": "3.6",
+            "styleId": 3,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/TLMQAj/upload_0AcqzN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/TLMQAj/upload_0AcqzN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/TLMQAj/upload_0AcqzN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-05 18:07:06",
+            "updateDate": "2015-12-18 01:13:03",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "1Z3B6H",
+            "name": "Boar Bitter",
+            "nameDisplay": "Boar Bitter",
+            "abv": "3.8",
+            "ibu": "19",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/1Z3B6H/upload_va60Bq-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/1Z3B6H/upload_va60Bq-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/1Z3B6H/upload_va60Bq-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-25 13:48:16",
+            "updateDate": "2015-12-17 14:12:22",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "T0ddk4",
+            "name": "Boltmaker",
+            "nameDisplay": "Boltmaker",
+            "description": "A well-balanced, genuine Yorkshire Bitter, with a full measure of maltiness and hoppy aroma - Boltmaker is first choice for the discerning drinker - on both sides of the Pennines.",
+            "abv": "4.2",
+            "glasswareId": 5,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/T0ddk4/upload_PM7Xbs-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/T0ddk4/upload_PM7Xbs-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/T0ddk4/upload_PM7Xbs-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-05-10 12:50:04",
+            "updateDate": "2015-12-17 03:02:11",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "jBEZoz",
+            "name": "Brakspear Bitter",
+            "nameDisplay": "Brakspear Bitter",
+            "description": "A superb session beer. Amber in colour with a good fruit, hop and malt nose. The initial taste of malt and the well hopped bitterness quickly dissolves into a predominantly bittersweet and fruity finish.",
+            "abv": "3.4",
+            "styleId": 3,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/jBEZoz/upload_J57fnz-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/jBEZoz/upload_J57fnz-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/jBEZoz/upload_J57fnz-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-28 17:37:31",
+            "updateDate": "2015-12-18 02:24:25",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "WQUo8G",
+            "name": "Breakup Bock",
+            "nameDisplay": "Breakup Bock",
+            "abv": "7",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WQUo8G/upload_Xk7FvJ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WQUo8G/upload_Xk7FvJ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WQUo8G/upload_Xk7FvJ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-16 03:07:48",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "s8dOIH",
+            "name": "Breath of the Dragon English Bitter",
+            "nameDisplay": "Breath of the Dragon English Bitter",
+            "description": "This fine English style Best Bitter is made with Imported English Pale Ale, Aromatic and Caramel malts. Galena and Willamette Hops add a moderate bittering level to make this a refreshing example of an English Bitter.",
+            "abv": "4.5",
+            "ibu": "35.8",
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/s8dOIH/upload_vGvNyI-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/s8dOIH/upload_vGvNyI-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/s8dOIH/upload_vGvNyI-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.044",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-16 04:17:15",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "evhDxy",
+            "name": "Brilliant Barstool",
+            "nameDisplay": "Brilliant Barstool",
+            "description": "A true English session ale brewed in the pale ale style using ye olde techniques of yesteryear. Specially crafted to inspire you and your thirstiest mates barstool conversations. Light copper in colour. This pint is quite malty with just enough East Kent hops for a nice, earthy hoppiness. Naturally cask conditioned, this may be served a little cold for a true Brit but is a \ncomplimentary double nod to one of the 1st beer styles. Cheers mate!",
+            "abv": "5.5",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/evhDxy/upload_c9oD1g-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/evhDxy/upload_c9oD1g-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/evhDxy/upload_c9oD1g-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-15 21:29:35",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "WLTykj",
+            "name": "British Pale Ale",
+            "nameDisplay": "British Pale Ale",
+            "description": "A very approachable, versatile Pale Ale, our 7 Sea’s version draws inspiration from the venerable traditions of proper British brewing. Brewed with generous amounts of imported Golden Promise malt, noble hop varieties, and a slightly warm fermentation, this ale displays aromas of fresh fruit, earthy hop notes, and a clean, snappy finish. Ah, nothing like a proper pint!",
+            "abv": "5.4",
+            "ibu": "30",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WLTykj/upload_JLVKO3-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WLTykj/upload_JLVKO3-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WLTykj/upload_JLVKO3-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-16 08:29:22",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "AvTZ60",
+            "name": "Broken Top Bock",
+            "nameDisplay": "Broken Top Bock",
+            "description": "Broken Top Bock is a malt forward, high gravity lager with a subtle aroma and warming sweetness.  Czech Saaz hops balance a diverse malt composition that creates the flavor, color and mouth feel.  The lager yeast chosen for this beer plays an important role in the flavor contribution, adding sweet fruit overtones.  This bock boasts a clever 7% alcohol by volume so don't let it kick you off of your stool.",
+            "abv": "6",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AvTZ60/upload_9XnqMC-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AvTZ60/upload_9XnqMC-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AvTZ60/upload_9XnqMC-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-16 03:57:52",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "xhZpGH",
+            "name": "Brooklyn Pennant Ale",
+            "nameDisplay": "Brooklyn Pennant Ale",
+            "description": "As Brooklynites, we revere the memory of the 1955 World Champion Dodgers baseball team, so we had to name a beer in their honor. Brooklyn Pennant Ale is a honey-colored pale ale with a brisk malt palate and finely balanced hop character. Pennant is a traditional English-style pale ale. The pale ale style developed in the early 19th century, and was called “pale” because it appeared so in comparison to the darker ale styles of the day (East India Pale Ale was a stronger, paler, more bitter version of the style). Brooklyn Pennant Ale is brewed from Scottish Maris Otter malt, which is justly prized for its toasty, biscuity flavor and the round smoothness it imparts to beer. Our house ale yeast brings out an appetizing fruitiness and ferments to a dry finish. During 2005, Brooklyn Brewery will donate one dollar from every case of Pennant sold to the funding of the statue of Brooklyn Dodgers greats Jackie Robinson and Pee-Wee Reese planned for the Cyclones ballpark in Coney Island.",
+            "abv": "5",
+            "ibu": "24",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/xhZpGH/upload_AxFYpN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/xhZpGH/upload_AxFYpN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/xhZpGH/upload_AxFYpN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Brooklyn Pennant Ale is great with pizza, roasted and grilled meats, burgers, barbecue, robust fish, shellfish, falafel, crab cakes, and spicy food. Caramel malts lend it the ability to work nicely with steaks, but just as well with grilled vegetables. For cheese, pair up with Stilton and Gorgonzola Dolce.",
+            "originalGravity": "1.05",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-16 05:55:36",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "fKuTeE",
+            "name": "Castle Rock Red Riding Hood",
+            "nameDisplay": "Castle Rock Red Riding Hood",
+            "description": "Launched at the Robin Hood Beer & Cider Festival 2014, Red Riding Hood is the newest beer in Castle Rock’s core range of beers. A reddish-brown colour, Red Riding Hood bridges the gap between the most traditional of best bitters, and the fruity red ales from the US and beyond. Red Riding Hood is brewed with El Dorado (USA) and Kohatu (NZ), imparting flavours of soft stone fruit.\r\n\r\nSee: Reddish Brown\r\nSmell: Fresh Hop, Soft Stone Fruit\r\nTaste: Fruity, Subtle Bitterness, Toasted Malt",
+            "abv": "4.3",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/fKuTeE/upload_2FdW2M-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/fKuTeE/upload_2FdW2M-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/fKuTeE/upload_2FdW2M-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-01-15 17:00:51",
+            "updateDate": "2016-01-15 17:15:31",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "wdjaPp",
+            "name": "Catoctin Ale",
+            "nameDisplay": "Catoctin Ale",
+            "description": "More amber and less “hoppy” than its American counterpart, plenty of crystal malts create a well balanced finish for our variation on this English style.",
+            "abv": "5.5",
+            "ibu": "38",
+            "glasswareId": 5,
+            "srmId": 14,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/wdjaPp/upload_sqEnF0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/wdjaPp/upload_sqEnF0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/wdjaPp/upload_sqEnF0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:57",
+            "updateDate": "2015-12-16 09:21:42",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 14,
+                "name": "14",
+                "hex": "C35900"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "OCiWW5",
+            "name": "Coniston Bluebird Bitter",
+            "nameDisplay": "Coniston Bluebird Bitter",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OCiWW5/upload_oMz3jn-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OCiWW5/upload_oMz3jn-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OCiWW5/upload_oMz3jn-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:01",
+            "updateDate": "2015-12-15 22:02:01",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "uH1uGw",
+            "name": "Coopers Sparkling Ale",
+            "nameDisplay": "Coopers Sparkling Ale",
+            "description": "The ale by which all others should be measured. With its famous cloudy sediment and its distinctive balance of malt, hops and fruity characters, the old 'Red Label' is a tasty slice of Coopers history. \r\n\r\nLittle has changed since Thomas Cooper produced his first batch of Coopers Sparkling Ale in 1862. It's still brewed naturally using the century old top fermentation method and it still tastes great! \r\n\r\nSparkling Ale contains no additives or preservatives.",
+            "abv": "5.8",
+            "glasswareId": 5,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/uH1uGw/upload_u9h1qG-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/uH1uGw/upload_u9h1qG-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/uH1uGw/upload_u9h1qG-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:01",
+            "updateDate": "2015-12-16 03:53:30",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "ZSgcVh",
+            "name": "Cutlass",
+            "nameDisplay": "Cutlass",
+            "description": "A tawny coloured ale with a mixture of Kentish hops that gives a balanced aroma and aftertaste.",
+            "abv": "4",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ZSgcVh/upload_Q2oP7F-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ZSgcVh/upload_Q2oP7F-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ZSgcVh/upload_Q2oP7F-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-06-23 23:15:03",
+            "updateDate": "2015-12-17 04:17:29",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "aKccxT",
+            "name": "Cutthroat Pale Ale",
+            "nameDisplay": "Cutthroat Pale Ale",
+            "description": "This traditional style pale ale has a rich amber color, full malt body and a clean hop finish.",
+            "abv": "4",
+            "ibu": "34",
+            "glasswareId": 13,
+            "srmId": 16,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/aKccxT/upload_t4XSiZ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/aKccxT/upload_t4XSiZ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/aKccxT/upload_t4XSiZ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Spicy foods\r\nBBQ \r\nburgers\r\nwings\r\nMexican foods",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2012-01-03 02:43:02",
+            "updateDate": "2016-05-20 10:01:34",
+            "glass": {
+                "id": 13,
+                "name": "Willi",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 16,
+                "name": "16",
+                "hex": "B54C00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "72WHce",
+            "name": "Daily Bread",
+            "nameDisplay": "Daily Bread",
+            "abv": "3.8",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/72WHce/upload_IBDN5z-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/72WHce/upload_IBDN5z-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/72WHce/upload_IBDN5z-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-19 21:52:46",
+            "updateDate": "2015-12-21 19:59:09",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "oaDD5l",
+            "name": "Dan's Best Bitter",
+            "nameDisplay": "Dan's Best Bitter",
+            "description": "An English pint shared with good friends was the inspiration for our cask conditioned Best Bitter. Dan flew in yeast from England and chose premium British Maris Otter Pale Malt to be balance the classic English Golding Hops from East Kent. \r\n\r\nYou can expect to pour a lightly carbonated glass of rich amber ale, slightly cloudy and soft on the pallet with a pronounced dry hopped finish. \r\n\r\nSummer's end is fleeting here in Wisconsin so enjoy it while you may, before long both summer and our ale will be gone. So slow down, relax and savor the season.",
+            "glasswareId": 5,
+            "availableId": 3,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oaDD5l/upload_uyqIz7-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oaDD5l/upload_uyqIz7-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oaDD5l/upload_uyqIz7-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:03",
+            "updateDate": "2015-12-16 06:01:08",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 3,
+                "name": "Not Available",
+                "description": "Beer is not available."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "IB5u9n",
+            "name": "Darkwood Ale",
+            "nameDisplay": "Darkwood Ale",
+            "description": "Our flagship ale based on a traditional English Bitter style but with a local twist.\r\n\r\nBrewed with Maris Otter malted barley and a variety of crystal malts with generous additions of Northdown, Goldings and Cascade hops.",
+            "abv": "4.5",
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IB5u9n/upload_NnSnCY-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IB5u9n/upload_NnSnCY-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IB5u9n/upload_NnSnCY-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-03-19 17:27:09",
+            "updateDate": "2015-12-18 00:20:26",
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        },
+        {
+            "id": "KnZOPe",
+            "name": "Doombar",
+            "nameDisplay": "Doombar",
+            "description": "Doom Bar bitter (4.0% abv), the brewery's flagship ale, accounts for nearly 90% of sales. Over 24,000,000 imperial pints (14,000 kl) of Doom Bar was produced in 2010. In 2011, sales increased by 22 per cent, making it the UK's fastest growing ale for three years in a row. The beer is named after the notoriously dangerous Doom Bar sandbank at the mouth of the Camel Estuary in North Cornwall.",
+            "abv": "4",
+            "ibu": "20",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 3,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/KnZOPe/upload_4l8Ti6-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/KnZOPe/upload_4l8Ti6-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/KnZOPe/upload_4l8Ti6-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-08-20 16:22:28",
+            "updateDate": "2015-12-17 05:15:14",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 3,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Ordinary Bitter",
+                "shortName": "Bitter",
+                "description": "Ordinary bitter is gold to copper colored with medium bitterness, light to medium body, and low to medium residual malt sweetness. Hop flavor and aroma character may be evident at the brewer's discretion. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character and very low diacetyl (butterscotch) character are acceptable in aroma and flavor, but should be minimized in this form of bitter. Chill haze is allowable at cold temperatures. (English and American hop character may be specified in subcategories.)",
+                "ibuMin": "20",
+                "ibuMax": "35",
+                "abvMin": "3",
+                "abvMax": "4.1",
+                "srmMin": "5",
+                "srmMax": "12",
+                "ogMin": "1.033",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:39"
+            }
+        }
+    ],
+    "status": "success"
+}

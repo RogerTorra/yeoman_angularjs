@@ -1,0 +1,2412 @@
+{
+    "currentPage": 1,
+    "numberOfPages": 3,
+    "totalResults": 109,
+    "data": [
+        {
+            "id": "Y3bF6e",
+            "name": "10 Point IPA",
+            "nameDisplay": "10 Point IPA",
+            "description": "Originally developed as a celebratory ale for owner Darren Smith’s wedding, our ambition was to create the most full-flavoured and balanced IPA on the market. Into the lab we went, coming out with a modern-day British-style India pale ale that stands proud of its hoppy heritage.",
+            "abv": "6",
+            "ibu": "50",
+            "availableId": 7,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Y3bF6e/upload_nRb0wF-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Y3bF6e/upload_nRb0wF-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Y3bF6e/upload_nRb0wF-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-11-10 16:49:38",
+            "updateDate": "2015-12-17 19:38:29",
+            "available": {
+                "id": 7,
+                "name": "Fall",
+                "description": "Available during the fall months."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "ZaJLVD",
+            "name": "10/6 English IPA",
+            "nameDisplay": "10/6 English IPA",
+            "description": "Hatter is crazy about time, and about finely crafted beer. The Rabbit Hole Brewing 10/6 English IPA features a prominent English hop character supported by a smooth, bready malt backbone. This Rabbit Hole Ale is crafted with the finest floor-malted Maris Otter winter barley and flavored with three different varieties of English hops. It is bold and flavorful without driving your palate completely insane. So whatever the time may be, it is always time for another 10/6, the IPA with refinement.",
+            "abv": "6.4",
+            "ibu": "69",
+            "glasswareId": 5,
+            "srmId": 10,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ZaJLVD/upload_dglAfU-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ZaJLVD/upload_dglAfU-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ZaJLVD/upload_dglAfU-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cellar",
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+            "originalGravity": "1.064",
+            "createDate": "2014-07-28 20:58:48",
+            "updateDate": "2015-12-17 15:55:15",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 10,
+                "name": "10",
+                "hex": "DE7C00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "wTPp3s",
+            "name": "3 Needles IPA",
+            "nameDisplay": "3 Needles IPA",
+            "abv": "6.2",
+            "ibu": "50",
+            "srmId": 8,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/wTPp3s/upload_U1mVbx-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/wTPp3s/upload_U1mVbx-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/wTPp3s/upload_U1mVbx-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-11-05 04:01:19",
+            "updateDate": "2015-12-18 06:12:24",
+            "srm": {
+                "id": 8,
+                "name": "8",
+                "hex": "EA8F00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "grCeLv",
+            "name": "400 Pound Monkey",
+            "nameDisplay": "400 Pound Monkey",
+            "description": "Because this one ain't like them others.\r\nWe use hops of a different color, earthy and herbal, well-balanced by bready malt. The result? An English-style IPA that separates itself from the ubiquitous bunch. Cartloads of bitter monkeys flinging wasteful amounts of bananas into the jungle . . .we're so done with that.",
+            "abv": "6.8",
+            "glasswareId": 5,
+            "srmId": 10,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/grCeLv/upload_HxKgL3-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/grCeLv/upload_HxKgL3-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/grCeLv/upload_HxKgL3-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:37",
+            "updateDate": "2015-12-16 06:51:09",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 10,
+                "name": "10",
+                "hex": "DE7C00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "GN0Euv",
+            "name": "47° North",
+            "nameDisplay": "47° North",
+            "abv": "7",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/GN0Euv/upload_B1ZekB-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/GN0Euv/upload_B1ZekB-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/GN0Euv/upload_B1ZekB-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-02-18 15:48:18",
+            "updateDate": "2015-12-17 00:04:27",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "Hq518F",
+            "name": "606",
+            "nameDisplay": "606",
+            "description": "Our most popular beer, English style IPA with American hop finish.",
+            "abv": "5.4",
+            "ibu": "50",
+            "srmId": 10,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Hq518F/upload_f16qBp-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Hq518F/upload_f16qBp-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Hq518F/upload_f16qBp-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-05-05 15:55:45",
+            "updateDate": "2016-05-05 16:31:12",
+            "srm": {
+                "id": 10,
+                "name": "10",
+                "hex": "DE7C00"
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "JcltUD",
+            "name": "Aber Dabba Doo",
+            "nameDisplay": "Aber Dabba Doo",
+            "description": "A nice session beer that you could contently drink all evening.\r\nMade with British hops, Challenger and Progress.\r\nThere are soft hoppy aromas to fill your nose and a caramel flavour carrying an edge of gentle spice to tickle your tongue.",
+            "abv": "4.2",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/JcltUD/upload_xVXzsQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/JcltUD/upload_xVXzsQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/JcltUD/upload_xVXzsQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cellar",
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+            "createDate": "2015-12-08 11:30:22",
+            "updateDate": "2015-12-18 04:39:11",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "nHYjdl",
+            "name": "Admiral IPA",
+            "nameDisplay": "Admiral IPA",
+            "description": "A traditional IPA Beer brewed with Kentish Cascade Hops that leaves Citrus Hop flavours on the palate.As an ongoing legacy to the memory of one of Britain?s leading Admirals, we at Nelson Brewery chose to name our premier ale Admiral IPA. Nelsons death at the Battle of Trafalgar secured his position as one of Britain?s most heroic figures. Numerous monuments have been created in his memory and his legacy remains influential.",
+            "abv": "4",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nHYjdl/upload_wu5ksl-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nHYjdl/upload_wu5ksl-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nHYjdl/upload_wu5ksl-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-06-21 18:25:02",
+            "updateDate": "2015-12-17 03:40:58",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "FWElp0",
+            "name": "Adnams Jack Brand Crystal Rye IPA",
+            "nameDisplay": "Adnams Jack Brand Crystal Rye IPA",
+            "description": "Tasting notes and ingredients We’ve used lots of hops from North America – Columbus, Centennial, Cascade, Amarillo and Citra – because we just love the delicious, big, bold, citrus and pine flavours and aromas they bring to the beer. To balance out all this hoppy goodness we’ve added Rye, plus some Pale Ale and Cara Malt, to imbue sweetness, body and balance as well as some lovely subtle toffee flavours. Want to know more? The recipe for our Rye IPA was created by Adnams brewer (and certified hop freak) Belinda, who was excited to be able to let her passion for American craft beers shine through in this flavoursome brew. Jack Brand Rye IPA is available for a limited time in 30L kegs in selected outlets. Food Matches Pair our Rye IPA with spicy Mexican dishes or hot Caribbean flavours.",
+            "abv": "5",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FWElp0/upload_Qs2LMY-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FWElp0/upload_Qs2LMY-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FWElp0/upload_Qs2LMY-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-01-15 16:08:28",
+            "updateDate": "2016-04-06 19:05:47",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "V6OyQ8",
+            "name": "Anchor IPA",
+            "nameDisplay": "Anchor IPA",
+            "description": "The California Gold Rush lured thousands west to \"see the elephant,\" a 19th-century metaphor for the hopeful but risky pursuit of happiness, adventure, and fortune. As early as 1849, India Pale Ale - prepared by British brewers for export to India by adding dry hops to barrels of hoppy ale - was also heading west, from England around the Horn to San Francisco. Thirsty ‘49ers savored the best imported IPAs, but it wasn’t until 1975 that Anchor, Americas' original craft brewery, pioneered the revival of dry-hopped handmade ales. Now, that tradition fast-forwards to an adventurous new brew: Anchor IPA™.\r\n\r\nAnchor IPA™ is made with 2-row barley malt and fresh whole-cone hops, its bright amber color, distinctively complex aroma, spiky bitterness, malty depth, and clean finish unite to create a uniquely flavorful, memorable, and timeless craft IPA.\r\n\r\nThe elephant you see on Anchor IPA™ was hand-drawn by our label artist, James Stitt. To \"see the elephant\" was a popular 19th-century expression that originated with a tale that predates the California Gold Rush.\r\n\r\nThere once lived a farmer who had heard of elephants but had never seen one. He longed for the day when he might catch a glimpse of this rare, exotic creature. When the circus came to town, he loaded his wagon with fresh produce and headed to market. On the way, just as he'd hoped, he came across the circus parade, nobly led by an enormous elephant. The farmer was ecstatic, but his horses were terrified. They reared and bucked, overturning his wagon and scattering its precious contents in the road. \"I don’t give a hoot,\" exclaimed the farmer. \"I have seen the elephant!\"\r\n\r\nThe elephant became the universal symbol of the Gold Rush, as evidenced by the journals, letters, and sketchbooks of the forty-niners. Whether or not they struck it rich in the diggings, those plucky pioneers would forever treasure their California adventure as the defining moment of their lives. Have you seen the elephant?",
+            "abv": "6.5",
+            "glasswareId": 5,
+            "availableId": 3,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/V6OyQ8/upload_TKLj7X-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/V6OyQ8/upload_TKLj7X-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/V6OyQ8/upload_TKLj7X-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-13 18:13:53",
+            "updateDate": "2016-02-22 20:03:39",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 3,
+                "name": "Not Available",
+                "description": "Beer is not available."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "HqpcnE",
+            "name": "Another IPA",
+            "nameDisplay": "Another IPA",
+            "abv": "5.6",
+            "availableId": 2,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/HqpcnE/upload_jHlxH0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/HqpcnE/upload_jHlxH0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/HqpcnE/upload_jHlxH0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-08-28 17:44:43",
+            "updateDate": "2015-12-17 17:05:45",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "6txGoK",
+            "name": "Black Cat",
+            "nameDisplay": "Black Cat",
+            "abv": "3.4",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6txGoK/upload_9NkgA6-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6txGoK/upload_9NkgA6-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6txGoK/upload_9NkgA6-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:50",
+            "updateDate": "2015-12-15 22:37:12",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "NNcfDL",
+            "name": "Black Tongue",
+            "nameDisplay": "Black Tongue",
+            "description": "Black Tongue is a Double Black IPA, brewed in collaboration with metal legends - Mastodon. Rumbling smoky notes are offset by the elixir of misbehaving punchy hops. Citra and Magnum hops to the front, with Carafa Special 3 Malt and Pale on the baseline, this is our biggest and most powerful creation to date. The band wanted to create a 'palate crusher' and that's certainly what has been delivered. A beer for enjoying slowly, letting the bombardment of flavour and intensity hit your tongue and explode with every sip.",
+            "abv": "8.3",
+            "ibu": "50",
+            "srmId": 41,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NNcfDL/upload_AFm6HB-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NNcfDL/upload_AFm6HB-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NNcfDL/upload_AFm6HB-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.08",
+            "createDate": "2014-11-07 21:36:53",
+            "updateDate": "2015-12-17 19:27:59",
+            "srm": {
+                "id": 41,
+                "name": "Over 40",
+                "hex": "000000"
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "2aX3YP",
+            "name": "Blackheart",
+            "nameDisplay": "Blackheart",
+            "description": "A throwback, historical ale brewed when English IPAs were hopped up to last the long voyage from England to Colonial troops in India, using English malts, English hops, and English yeast, and aged slightly on toasted oak for a 19th-century taste.",
+            "abv": "8.5",
+            "ibu": "78",
+            "glasswareId": 8,
+            "availableId": 4,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2aX3YP/upload_gcRvzk-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2aX3YP/upload_gcRvzk-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2aX3YP/upload_gcRvzk-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:51",
+            "updateDate": "2015-12-16 11:20:51",
+            "glass": {
+                "id": 8,
+                "name": "Tulip",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "FnEyLf",
+            "name": "Blueberry Ale",
+            "nameDisplay": "Blueberry Ale",
+            "description": "No, this is not a juice and it`s not blue!  It`s a great tasting BEER that put Back Road Brewery on the beer map.  Inspired by a trip to Bar Harbor, Maine, this became our second orginal recipe in 1997.  The nose picks up the aroma of fresh blueberries, but the mouth tastes an English-style pale ale.  Blueberries dance around in your mouth at the finish.  Give it a try; you won`t be singing the blues!",
+            "abv": "5",
+            "glasswareId": 5,
+            "availableId": 6,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/FnEyLf/upload_zRzqZe-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/FnEyLf/upload_zRzqZe-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/FnEyLf/upload_zRzqZe-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:52",
+            "updateDate": "2015-12-16 05:53:44",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 6,
+                "name": "Summer",
+                "description": "Available during the summer months."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "IhHhbe",
+            "name": "Brewhouse Rarities Indian Pale Lager",
+            "nameDisplay": "Brewhouse Rarities Indian Pale Lager",
+            "description": "Brewed with Citra and Galaxy hops and fermented with a lager yeast strain, this hybrid style combines huge tropical fruit hop bitterness (typical in our favorite IPAs) with a crisp and clean lager finish.",
+            "abv": "6.3",
+            "ibu": "60",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IhHhbe/upload_mnfC0Z-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IhHhbe/upload_mnfC0Z-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IhHhbe/upload_mnfC0Z-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-09-07 20:03:26",
+            "updateDate": "2015-12-18 04:22:18",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "ahW5cd",
+            "name": "British IPA",
+            "nameDisplay": "British IPA",
+            "description": "Light amber, complex, dry, hop bitterness & aroma",
+            "abv": "5.5",
+            "ibu": "45",
+            "glasswareId": 5,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ahW5cd/upload_n7FuRU-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ahW5cd/upload_n7FuRU-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ahW5cd/upload_n7FuRU-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:54",
+            "updateDate": "2015-12-16 13:57:49",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "L76Lnq",
+            "name": "Burton India Pale Ale",
+            "nameDisplay": "Burton India Pale Ale",
+            "description": "This English Pale Ale is modeled after a style of ale that comes from the famous English brewing city of Burton-on-Trent. We add minerals to the Southampton water to make it identical to the water in Burton-on-Trent, notably a fair amount of calcium. The high mineral content has the effect of adding a dryness of flavor to the brew as well as a fullness of body. It has a light/medium malt flavor and a refreshing fruitiness (notes of “peach” and “apricot”), the hop character is also restrained compared to other traditional English styles such as IPA.",
+            "abv": "4.6",
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/L76Lnq/upload_9MGzWj-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/L76Lnq/upload_9MGzWj-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/L76Lnq/upload_9MGzWj-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-06 17:14:14",
+            "updateDate": "2015-12-18 02:29:48",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "oHqn3Q",
+            "name": "Caramel Apple Ale",
+            "nameDisplay": "Caramel Apple Ale",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oHqn3Q/upload_yu9mML-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oHqn3Q/upload_yu9mML-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oHqn3Q/upload_yu9mML-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:57",
+            "updateDate": "2015-12-15 21:31:14",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "nCVKt0",
+            "name": "Charlie Wells Triple Hopped IPA",
+            "nameDisplay": "Charlie Wells Triple Hopped IPA",
+            "description": "Dive into flavours both old and new and take your taste buds on an adventure through time. Your journey begins in 1800s England where IPAs were pale in colour and brewed with Goldings – the original IPA hop. Then fast-forward to the New World and revel in the tropical aromatics of Australian Galaxy and American Simcoe. This moreish brew has a gentle malt character and minerality, with a pronounced hoppy fruitiness.",
+            "abv": "5.2",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nCVKt0/upload_OJsa94-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nCVKt0/upload_OJsa94-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nCVKt0/upload_OJsa94-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-04-22 13:24:05",
+            "updateDate": "2016-04-22 13:25:51",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "YfZlHd",
+            "name": "Cold Hop",
+            "nameDisplay": "Cold Hop",
+            "description": "Introducing Cold Hop British-style ale, a unique ale with a rich golden hue, and the 7th release in our Looking Glass Series of specialty beers. Cold Hop's pleasantly fruity, floral hop aroma and earthy flavor perfectly balance the mild sweetness of the English grains, resulting in a refreshing yet high-gravity British-Style ale.\r\n\r\nMalts: Maris Otter Pale Malt. Honey Malt, 10-15 Crystal Malt.\r\nHops: Willamette, Czech Saaz, Hallertau, Herciules, Nelson Sauvin (New Zealand)",
+            "abv": "6.3",
+            "ibu": "46",
+            "glasswareId": 5,
+            "availableId": 2,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/YfZlHd/upload_bKuFYr-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/YfZlHd/upload_bKuFYr-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/YfZlHd/upload_bKuFYr-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:00",
+            "updateDate": "2015-12-15 20:28:33",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "XwgYOt",
+            "name": "DeVine IPA",
+            "nameDisplay": "DeVine IPA",
+            "description": "Our DeVine IPA is generously hopped, giving a firm bitterness and right off the vine resinous hop flavor that is so desirable in an India Pale Ale.  DeVine IPA pays tribute to the long standing traditions that are as rich as its flavor.  The perfect beer for a football Saturday and live music enjoyment.",
+            "abv": "5.8",
+            "ibu": "68",
+            "glasswareId": 7,
+            "srmId": 14,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/XwgYOt/upload_tfQX0f-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/XwgYOt/upload_tfQX0f-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/XwgYOt/upload_tfQX0f-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "The most versatile beer with food.  Pasta Salad, Pickled Vegetables, Pizza, Hamburgers, Mexican & Asian Food, Kimchi, Maytag Blue Cheese, Gorgonzola, Apple Pie, Carrot Cake",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "createDate": "2014-09-11 23:43:45",
+            "updateDate": "2015-12-17 16:54:39",
+            "glass": {
+                "id": 7,
+                "name": "Stange",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 14,
+                "name": "14",
+                "hex": "C35900"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "UBbX8i",
+            "name": "DORORTHY GOODBODY’S GLORIOUS IPA",
+            "nameDisplay": "DORORTHY GOODBODY’S GLORIOUS IPA",
+            "description": "With a formidable mix of five hop varieties, this is a bold, hoppy brew simply bursting with fresh, zesty-citrus and tropical fruit flavours.",
+            "abv": "6",
+            "availableId": 8,
+            "styleId": 2,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/UBbX8i/upload_5R9DZO-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/UBbX8i/upload_5R9DZO-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/UBbX8i/upload_5R9DZO-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-05-15 21:56:25",
+            "updateDate": "2015-12-18 00:27:57",
+            "available": {
+                "id": 8,
+                "name": "Winter",
+                "description": "Available during the winter months."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "62jIeJ",
+            "name": "Double Pale Ale",
+            "nameDisplay": "Double Pale Ale",
+            "description": "Double Pale means “Extra Strength India Pale Ale (IPA)”.  Our recipe is based on an old-world IPA, and is made from 100% organic ingredients.  It boasts the fine wallop of hops that craft beer lovers have come to expect, and maintains a fine balance between bitterness, malt, and alcohol.  We think you will find its floral aroma, its hoppy bite, and its high gravity to be a warmly satisfying experience.  \r\n\r\nDouble Pale is manufactured from 100% organic ingredient; including hops from both the Pacific Northwest and New Zealand.  After a protracted kettle, this fine ale is allowed to ferment to full attenuation.  A final dry-hopping before packaging reinforces its floral character.",
+            "abv": "7.2",
+            "ibu": "64",
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/62jIeJ/upload_3xvD4U-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/62jIeJ/upload_3xvD4U-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/62jIeJ/upload_3xvD4U-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Our Double Pale Ale's bitterness gets the gastric juices flowing and inspires a hearty appetite. This makes it a great aperitif, and helps it pair admirable with robust foods of any kind",
+            "originalGravity": "1.073",
+            "createDate": "2013-08-13 17:24:36",
+            "updateDate": "2015-12-17 05:24:53",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "IqOMEW",
+            "name": "East",
+            "nameDisplay": "East",
+            "description": "A unique blend of pale malts and exotically fruity New Zealand hops.\r\n\r\nThis smooth yet bitter East India pale ale was originally from an 1860's London brewery brought back to life with a new twist.",
+            "abv": "6.6",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IqOMEW/upload_KY1YsC-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IqOMEW/upload_KY1YsC-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IqOMEW/upload_KY1YsC-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-21 21:58:56",
+            "updateDate": "2015-12-16 21:52:30",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "nvbVcB",
+            "name": "ED PA",
+            "nameDisplay": "ED PA",
+            "description": "Prepare for a close encounter of the beer kind.  This extra-dimensional English IPA takes inspiration from our terrestrial neighbors across the pond. With a pleasant earthiness and a hop characteristic that is out of this world, we suggest you let Ed PA invade your taste buds.",
+            "abv": "5.6",
+            "styleId": 2,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nvbVcB/upload_Ovplzu-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nvbVcB/upload_Ovplzu-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nvbVcB/upload_Ovplzu-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-16 13:37:19",
+            "updateDate": "2015-12-18 03:41:43",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "Mo34nu",
+            "name": "Empire Strikes Back",
+            "nameDisplay": "Empire Strikes Back",
+            "description": "Single hop ale. Brewed with Jester hops, a new strain developed in 2012 by Charles Faram.",
+            "abv": "5.7",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Mo34nu/upload_2EHNDk-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Mo34nu/upload_2EHNDk-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Mo34nu/upload_2EHNDk-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-05-03 17:17:08",
+            "updateDate": "2016-05-03 17:18:03",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "mpBwWy",
+            "name": "English IPA",
+            "nameDisplay": "English IPA",
+            "abv": "7.6",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/mpBwWy/upload_Piurw0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/mpBwWy/upload_Piurw0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/mpBwWy/upload_Piurw0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:10",
+            "updateDate": "2015-12-16 09:53:22",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "IcKjHx",
+            "name": "English Style India Pale Ale",
+            "nameDisplay": "English Style India Pale Ale",
+            "glasswareId": 5,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/IcKjHx/upload_OFD96X-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/IcKjHx/upload_OFD96X-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/IcKjHx/upload_OFD96X-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:10",
+            "updateDate": "2015-12-16 10:02:32",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "6zB42I",
+            "name": "Eugene Collaboration English-Style IPA",
+            "nameDisplay": "Eugene Collaboration English-Style IPA (2013)",
+            "description": "This is a Ninkasi take on an English IPA. English IPAs are hoppy, moderately strong pale ales with more malt character than their American IPA cousins. They generally show hop aromas and flavors that are floral, earthy, and slightly grassy, backed by malt that is bready, biscuit-like, toasty, toffee-like, or caramelly. We brewed ours with Maris Otter & 2-Row Pale Malt and East Kent & Styrian Golding hops. Enjoy!",
+            "abv": "6",
+            "ibu": "60",
+            "styleId": 2,
+            "isOrganic": "N",
+            "year": 2013,
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/6zB42I/upload_tIxnbd-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/6zB42I/upload_tIxnbd-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/6zB42I/upload_tIxnbd-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Spicy curries; Milder blue cheeses and nutty cheeses such as Asiago and Parmesan; Shellfish; Bold, sweet desserts with caramel",
+            "originalGravity": "1.06",
+            "createDate": "2013-05-02 18:23:33",
+            "updateDate": "2015-12-17 03:16:13",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "NuZ4KB",
+            "name": "Export IPA",
+            "nameDisplay": "Export IPA",
+            "description": "Our English Style Export IPA features 100% English hops and a big malt backbone built upon pale and caramel malted barley. The hop varietals, Pilgrim and East Kent Goldings, lend a quality of lemon and spice, which play off of the fruity flavors contributed by the London ale yeast.",
+            "abv": "7.2",
+            "glasswareId": 5,
+            "availableId": 2,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/NuZ4KB/upload_89rVRL-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/NuZ4KB/upload_89rVRL-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/NuZ4KB/upload_89rVRL-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-10-22 12:36:04",
+            "updateDate": "2015-12-16 20:18:12",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "AVRqgv",
+            "name": "Extra I.P.A",
+            "nameDisplay": "Extra I.P.A",
+            "description": "A strong hoppy ale. Brewed specifically for the hop lover. A blend of hops, prized for their aroma, gives this beer it’s great hop bouquet and lasting hop flavour.",
+            "abv": "6.8",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/AVRqgv/upload_cGw4qk-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/AVRqgv/upload_cGw4qk-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/AVRqgv/upload_cGw4qk-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-08-12 18:44:50",
+            "updateDate": "2015-12-17 05:21:04",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "07Lu5F",
+            "name": "Fuggles & Golding",
+            "nameDisplay": "Fuggles & Golding",
+            "description": "An English IPA brewed with all English specialty malts, hops and yeast.  This is a crisp, clean IPA featuring the woodsy, spicy, and fruity flavors of Fuggles and East Kent Golding hops.\r\n\r\nBefore opening Arbor Brewing Company in 1995, founders Matt & Rene Greff went on a “fact finding” trip to England and Ireland and fell under the spell of English ales.  Like old world wines that value terroir over the bigger flashier palates of their American counterparts, English ales tend toward a subtle sophistication and shine a soft spotlight on earthy old-world hop varietals.  The Fuggles and Goldings is sort of a tribute beer paying homage to this tradition.",
+            "abv": "6",
+            "ibu": "50",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/07Lu5F/upload_bWue7W-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/07Lu5F/upload_bWue7W-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/07Lu5F/upload_bWue7W-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "As you might imagine, this is the perfect choice for pub fare like fish&chips, a good roast beef sandwich, or a mild cheese board.",
+            "createDate": "2014-09-08 16:10:10",
+            "updateDate": "2015-12-17 16:38:01",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "PNdqXV",
+            "name": "G2 Otava",
+            "nameDisplay": "G2 Otava",
+            "description": "Otava is our IPA. An amber coloured, well hopped, fragrant beer with great malty overtones, Otava is a great all round beer for any beer aficionado, easy to drink and great for all social occasions",
+            "abv": "4.4",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/PNdqXV/upload_l2CFlJ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/PNdqXV/upload_l2CFlJ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/PNdqXV/upload_l2CFlJ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-01-15 17:58:34",
+            "updateDate": "2016-01-15 21:17:33",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "tqxcUd",
+            "name": "Garnet IPA",
+            "nameDisplay": "Garnet IPA",
+            "description": "A true English style India Pale Ale with a  classic bitterness, our Garnet IPA is balanced with British and North American malts to create a rich ale with a distinctive hop aroma and flavor.",
+            "abv": "6.5",
+            "ibu": "50",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/tqxcUd/upload_f9vB5U-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/tqxcUd/upload_f9vB5U-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/tqxcUd/upload_f9vB5U-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-01-05 22:40:37",
+            "updateDate": "2016-01-06 14:57:01",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "f19Giz",
+            "name": "Gatecrasher",
+            "nameDisplay": "Gatecrasher",
+            "description": "You get into the sold-out show without a ticket. You don’t have to shout for people to listen. Our IPA may be late to the party, but it will be closing the place down. You’ll remember Gatecrasher for its flavor, not bitterness.",
+            "abv": "6.6",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/f19Giz/upload_3h9HAr-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/f19Giz/upload_3h9HAr-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/f19Giz/upload_3h9HAr-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-03-03 21:56:55",
+            "updateDate": "2015-12-17 10:14:30",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "cR4iEg",
+            "name": "Gobsmacked batch 3000 IPA",
+            "nameDisplay": "Gobsmacked batch 3000 IPA",
+            "description": "19 years and 3000 batches later, we brewed an India Pale Ale inspired by those classic IPAs brewed in the Burton-upon-Trent region in England, some 150 years ago. Crafted from all British ingredients. Notes of soft pear and faint honey precede the delicate, bready malt body that sets the stage for classic U.K. hops. Floral, earthy, and grassy. A retrospective on a style that continues to inspire a hop revolution today.",
+            "abv": "8",
+            "ibu": "82",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/cR4iEg/upload_OHULPr-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/cR4iEg/upload_OHULPr-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/cR4iEg/upload_OHULPr-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-09-08 16:12:29",
+            "updateDate": "2015-12-17 16:58:45",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "RVqgML",
+            "name": "Golden IPA",
+            "nameDisplay": "Golden IPA",
+            "description": "In the image of an English IPA, Legend Golden is a big, full-bodied brew with the perfect balance between malty sweetness and hop bitterness. Years ago, as an experimental brew, this underdog of a beer found its way into the hearts of Legend patrons and became a cult classic in Richmond. This strong ale sports a rich gold color, an aroma of sweet malt and clean hops, and an earthy, fruity flavor.",
+            "abv": "7.6",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/RVqgML/upload_ehTq9Z-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/RVqgML/upload_ehTq9Z-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/RVqgML/upload_ehTq9Z-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-09-01 23:17:24",
+            "updateDate": "2015-12-16 18:01:02",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "umEqWl",
+            "name": "H.M.S.",
+            "nameDisplay": "H.M.S.",
+            "abv": "6.3",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/umEqWl/upload_TSHqLP-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/umEqWl/upload_TSHqLP-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/umEqWl/upload_TSHqLP-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-11-22 03:45:23",
+            "updateDate": "2015-12-17 19:28:39",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "549QP3",
+            "name": "Halcyon",
+            "nameDisplay": "Halcyon",
+            "description": "Halcyon 2009 Green Hop Harvest - Golden blonde beer with an exquisite passionfruit, gooseberry and mango aroma. An initial sweetness and full body are balanced by a lasting grapefruit-like bitter finish.",
+            "abv": "7.7",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/549QP3/upload_4erky5-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/549QP3/upload_4erky5-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/549QP3/upload_4erky5-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-29 21:18:03",
+            "updateDate": "2015-12-16 17:16:52",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "Lu0FBT",
+            "name": "Hat in The Ring",
+            "nameDisplay": "Hat in The Ring",
+            "description": "This American IPA is different from the English IPA style. Its color is a light bronze. We use the perfect amount of American and English malts, to create a big herbal and citrus character.",
+            "abv": "8.1",
+            "ibu": "70.8",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Lu0FBT/upload_JmS5Ly-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Lu0FBT/upload_JmS5Ly-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Lu0FBT/upload_JmS5Ly-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-06-22 17:27:00",
+            "updateDate": "2015-12-18 03:49:49",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "qSnLaE",
+            "name": "Helles",
+            "nameDisplay": "Helles",
+            "description": "An unfiltered and dry hopped craft beer. Brewed of best organic hop and barley malt from Hallertau. Elegantly dry, tasty and with citrus notes. A bottle of clear water from the spring of the Isar is added to every brew batch.",
+            "abv": "4.7",
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "Y",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/qSnLaE/upload_4OR9xw-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/qSnLaE/upload_4OR9xw-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/qSnLaE/upload_4OR9xw-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "originalGravity": "1.045",
+            "createDate": "2016-04-28 16:21:48",
+            "updateDate": "2016-04-29 15:27:13",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "vfMg10",
+            "name": "Herkules IPA",
+            "nameDisplay": "Herkules IPA",
+            "description": "First in our second series of European IPAs. Rich, golden coloured ale with hints of orange marmalade and a fruity, spicy aroma.",
+            "abv": "5",
+            "glasswareId": 5,
+            "availableId": 2,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/vfMg10/upload_T04s2k-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/vfMg10/upload_T04s2k-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/vfMg10/upload_T04s2k-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-12-21 17:42:45",
+            "updateDate": "2015-12-16 20:49:37",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "pnbJwZ",
+            "name": "Hitachino Nest Japanese Classic Ale",
+            "nameDisplay": "Hitachino Nest Japanese Classic Ale",
+            "description": "Bottle-conditioned fine creamy head on top. Medium bodied feel with sweet bitter taste. It has a unique note of cedar and complex spicy yet mild aroma of British traditional hops such as Kent Goldings and Challenger.",
+            "abv": "7",
+            "ibu": "41",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/pnbJwZ/upload_PqOiC3-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/pnbJwZ/upload_PqOiC3-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/pnbJwZ/upload_PqOiC3-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cellar",
+            "servingTemperatureDisplay": "Cellar - (12-14C/54-57F)",
+            "originalGravity": "1.07",
+            "createDate": "2012-01-03 02:43:23",
+            "updateDate": "2015-12-15 21:15:32",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "w6kbvl",
+            "name": "Hogs Back Hopping Hog IPA",
+            "nameDisplay": "Hogs Back Hopping Hog IPA",
+            "description": "In the tradition of a true English IPA, Hopping Hog really packs a punch with its full on hop aroma and distinctive ruby colour.",
+            "abv": "5.4",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/w6kbvl/upload_dFoX9A-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/w6kbvl/upload_dFoX9A-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/w6kbvl/upload_dFoX9A-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-01-15 17:37:53",
+            "updateDate": "2016-01-15 17:41:13",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "YOMauX",
+            "name": "Homework Series Batch #3",
+            "nameDisplay": "Homework Series Batch #3",
+            "availableId": 2,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/YOMauX/upload_11MH99-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/YOMauX/upload_11MH99-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/YOMauX/upload_11MH99-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-04-29 10:03:04",
+            "updateDate": "2015-12-17 12:12:52",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "2mRHx5",
+            "name": "Honey Wheat IPA",
+            "nameDisplay": "Honey Wheat IPA",
+            "description": "Hops hit the nose hard up front, then balance out with backing from a smooth malt body and the natural sweetness of fresh honey from French Hill Apiaries, St. Alban's, Vermont. This unique India Pale Ale, inspired by a tasty triumvirate of styles, is truly a triple threat and the perfect beer for buzzing through summer nights.",
+            "abv": "6.6",
+            "ibu": "75",
+            "srmId": 8,
+            "availableId": 2,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2mRHx5/upload_wQgfdO-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2mRHx5/upload_wQgfdO-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2mRHx5/upload_wQgfdO-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.063",
+            "createDate": "2013-08-12 16:20:21",
+            "updateDate": "2015-12-17 04:44:30",
+            "srm": {
+                "id": 8,
+                "name": "8",
+                "hex": "EA8F00"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "Ums11w",
+            "name": "Hop Dog Double Wheat IPA",
+            "nameDisplay": "Hop Dog Double Wheat IPA",
+            "description": "If you’re looking for an ordinary wheat beer, you’re barking up the wrong tree. Designed to take the edge off the hot dog days of summer, Hop Dog Double Wheat IPA offers both quenching wheat character and a big hop bite.\r\n\r\nAfter a long winter, it’s time to take the party outside. Hop Dog Double Wheat IPA compliments quintessential summer fare: grilled fish, chicken, pork, shrimp and veggies. And try pairing it with desserts that feature citrus--like, key lime pie or lemon curd cheesecake. This beer works with all that is summer.\r\n\r\nHop Dog Double Wheat IPA packs a punch that won’t stray, which means you need to find a sweet spot and stay. Sure…you may feel like chasing tail and howling at the moon but keep your cool. Find some shade, dog. And just relax.\r\n\r\nUnleash Summer.",
+            "abv": "8",
+            "ibu": "100",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Ums11w/upload_IG3GyR-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Ums11w/upload_IG3GyR-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Ums11w/upload_IG3GyR-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:25",
+            "updateDate": "2015-12-16 07:26:58",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "dho2fq",
+            "name": "Hop't Scot Ale",
+            "nameDisplay": "Hop't Scot Ale",
+            "description": "A traditional English IPA.  All English hops and malt.",
+            "abv": "6",
+            "ibu": "60",
+            "glasswareId": 5,
+            "srmId": 10,
+            "availableId": 1,
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/dho2fq/upload_5mYr5a-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/dho2fq/upload_5mYr5a-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/dho2fq/upload_5mYr5a-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "originalGravity": "1.06",
+            "createDate": "2013-08-21 21:56:46",
+            "updateDate": "2015-12-17 05:24:48",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 10,
+                "name": "10",
+                "hex": "DE7C00"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        },
+        {
+            "id": "5hxwqQ",
+            "name": "HXL IPA",
+            "nameDisplay": "HXL IPA",
+            "description": "Great hop flavors without being excessively bitter. Centennial flavor and aroma hops smack of citrusy grapefruit and tangerine with hints of pine. Malt is subdued but provides enough heft to balance the hops. Long crisp clean dry finish.\r\n\r\nFirst brewed to commemorate our 1600th batch, the HXL is a full-flavored, high gravity version of our Huxell. We used twice as much malted barley to hike the ABV to 7.5% and added boatloads of Centennial hops for a lasting tangy bitterness.",
+            "abv": "8",
+            "ibu": "76",
+            "styleId": 2,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/5hxwqQ/upload_ZKjWVE-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/5hxwqQ/upload_ZKjWVE-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/5hxwqQ/upload_ZKjWVE-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Remember that bitterness intensifies heat so beware if pairing with anything spicy. Bold flavors will stand up to red meat and bitterness will cut through creamy sauces.",
+            "originalGravity": "1.076",
+            "createDate": "2014-09-08 16:21:55",
+            "updateDate": "2015-12-17 17:36:36",
+            "style": {
+                "id": 2,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "English-Style India Pale Ale",
+                "shortName": "English IPA",
+                "description": "Most traditional interpretations of English-style India pale ales are characterized by medium-high hop bitterness with a medium to medium-high alcohol content. Hops from a variety of origins may be used to contribute to a high hopping rate. Earthy and herbal English-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer, sometimes with subtle and balanced character of sulfur compounds. This pale gold to deep copper-colored ale has a medium to high, flowery hop aroma and may have a medium to strong hop flavor (in addition to the hop bitterness). English-style India pale ales possess medium maltiness and body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill haze is allowable at cold temperatures. Hops of other origins may be used for bitterness or approximating traditional English character.",
+                "ibuMin": "35",
+                "ibuMax": "63",
+                "abvMin": "5",
+                "abvMax": "7",
+                "srmMin": "6",
+                "srmMax": "14",
+                "ogMin": "1.05",
+                "fgMin": "1.012",
+                "fgMax": "1.018",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:18:33"
+            }
+        }
+    ],
+    "status": "success"
+}

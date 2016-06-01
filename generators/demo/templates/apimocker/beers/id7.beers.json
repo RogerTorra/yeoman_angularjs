@@ -1,0 +1,1731 @@
+{
+    "currentPage": 1,
+    "numberOfPages": 1,
+    "totalResults": 36,
+    "data": [
+        {
+            "id": "8vtb9K",
+            "name": "12 Penny Scottish Ale",
+            "nameDisplay": "12 Penny Scottish Ale",
+            "description": "A Scottish export ale collaboration with Great Fermentations. This cold-conditioned ale puts a light hop on to balance the malt. Add in a nice, crisp finish and you've got a sessionable beer perfect to celebrate Spring, the end of the workday, good friends (consulting 1001 Things to be Happy About)*, peanut butter and jelly sandwiches, puppies, sand dollars...",
+            "glasswareId": 5,
+            "availableId": 2,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8vtb9K/upload_IQqJQv-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8vtb9K/upload_IQqJQv-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8vtb9K/upload_IQqJQv-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-04-18 23:58:22",
+            "updateDate": "2015-12-16 15:56:26",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "zoIjRl",
+            "name": "Ale of Fergus",
+            "nameDisplay": "Ale of Fergus",
+            "description": "Scottish Session Ale. Six types of malts go into this medal-winning Scottish Session Ale. Ruby brown in color, light to medium bodied with subtle flavors of caramel and toast. Bronze medal winner at the 2010 Great American Beer Festival -English Style MIld Ale Category.",
+            "abv": "4.1",
+            "ibu": "18",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/zoIjRl/upload_2guJDE-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/zoIjRl/upload_2guJDE-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/zoIjRl/upload_2guJDE-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:39",
+            "updateDate": "2015-12-16 07:36:13",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "vs0EO3",
+            "name": "Arctic Ale",
+            "nameDisplay": "Arctic Ale",
+            "description": "For the beer drinkers who enjoy a mild-tasting, Canadian-style beer. This light ale is refreshing with a crisp, slightly hoppy start and a smooth dry finish.",
+            "abv": "4.5",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/vs0EO3/upload_2NvZTC-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/vs0EO3/upload_2NvZTC-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/vs0EO3/upload_2NvZTC-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2013-08-12 18:38:30",
+            "updateDate": "2015-12-17 04:21:02",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "Mccd9w",
+            "name": "Astro Amber Ale",
+            "nameDisplay": "Astro Amber Ale",
+            "abv": "5.3",
+            "ibu": "21",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Mccd9w/upload_ptCnwL-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Mccd9w/upload_ptCnwL-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Mccd9w/upload_ptCnwL-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-23 13:33:13",
+            "updateDate": "2015-12-17 23:00:22",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "8FCMBh",
+            "name": "Auld Alliance",
+            "nameDisplay": "Auld Alliance",
+            "abv": "9",
+            "glasswareId": 5,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8FCMBh/upload_3EjyH6-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8FCMBh/upload_3EjyH6-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8FCMBh/upload_3EjyH6-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:42:43",
+            "updateDate": "2015-12-16 13:52:24",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "ODQYnq",
+            "name": "Brooklyn Winter Ale",
+            "nameDisplay": "Brooklyn Winter Ale",
+            "description": "When the days grow short and the beach recedes into our dreams, we need a very nice beer to get us through the long winter. Based on the satisfying malty ales of blustery Scotland, Brooklyn Winter Ale will have you looking on the bright side of things. Rich Scottish malts bring deep bready flavors to a beer with a full copper color, a round, smooth palate, and brisk hopping that pulls the sweet malts into balance. See - things are looking up already!",
+            "abv": "6.1",
+            "ibu": "25",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ODQYnq/upload_IC3ON5-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ODQYnq/upload_IC3ON5-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ODQYnq/upload_IC3ON5-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Brooklyn Winter Ale is great with robust winter foods such as stews, steaks, lamb, game, duck, pork, barbecue, and it's a very nice match for a wide variety of fine cheeses, particularly farmhouse cheddar and sheep’s milk cheese. And should you decide to enjoy a cigar in your favorite armchair in front of the fireplace, this beer will play along very nicely.",
+            "originalGravity": "1.068",
+            "createDate": "2012-01-03 02:44:31",
+            "updateDate": "2015-12-16 05:20:18",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "7nI490",
+            "name": "CB's MacBubba",
+            "nameDisplay": "CB's MacBubba",
+            "description": "Meet “MacBubba”. This BIG, good ol’ boy is Scottish to the core. He is bold, but absolutely loveable. Once you get to know MacBubba, you won’t know how you went anywhere without him. This Scotch Ale has a subtle smoky undertone not found in many other beers. Starting with a beautiful dark-amber color it has a nice rich aroma that follows with a full bodied caramel flavor. You will note a\r\nslight “peaty” character in the finish, derived from the addition of some of the finest Peated Malt from Scotland. We think you will find this Scotch Ale very easy to enjoy while still bold enough to stand up to a harsh winter chill.",
+            "abv": "6.5",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/7nI490/upload_Qf4Ohy-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/7nI490/upload_Qf4Ohy-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/7nI490/upload_Qf4Ohy-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "A perfect match with smoked meats, strong cheeses, and desserts. Also quite effective as a braising ale or in used in soups.",
+            "createDate": "2012-01-03 02:42:58",
+            "updateDate": "2015-12-16 12:32:00",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "ToV6d7",
+            "name": "Corne de Brume",
+            "nameDisplay": "Corne de Brume",
+            "description": "Corne de Brume (The Air Horn) is a Scotch ale at 9.0% alcohol. In a deep brown with hints of ruby, she dons a mocha mousse aspects. This is the mouth Air Horn reveals its depth. A wall of caramelized flavor stands before us and surrounds us warmly language. This dance caramelized and lascivious binds with bitterness deaf to form a waltz which combines wild fruits and heady malt. Some time later, the bitterness release its grip on our taste buds to slowly bring us back to reality.\r\nBeer aging potential",
+            "abv": "9",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ToV6d7/upload_BLVOU0-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ToV6d7/upload_BLVOU0-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ToV6d7/upload_BLVOU0-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-10-23 00:44:00",
+            "updateDate": "2015-12-16 19:56:06",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "yEjCDY",
+            "name": "Dram Tree Scottish Ale",
+            "nameDisplay": "Dram Tree Scottish Ale",
+            "description": "Our House specialty. Dark but smooth, maly and semi-sweet, with caramel tones and a slight mocha finish. Mahogany body with ruby highlights. So smooth, this beer is constantly turning regular light-beer drinkers to the dark side. Pale, Munich, Chocolate and Caramel malts make up the backbone of this Ale. Challenger and EKG hops are used sparingly.",
+            "abv": "7.2",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/yEjCDY/upload_vnx791-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/yEjCDY/upload_vnx791-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/yEjCDY/upload_vnx791-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Bacon, Scottish Ale Brew-Bq Sauce Ribs, Jim Beam Sirloin Steak",
+            "createDate": "2012-01-10 19:02:08",
+            "updateDate": "2015-12-16 14:05:03",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "oOUequ",
+            "name": "Dunmore",
+            "nameDisplay": "Dunmore",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oOUequ/upload_Dt6OaE-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oOUequ/upload_Dt6OaE-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/oOUequ/upload_Dt6OaE-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-03 12:51:09",
+            "updateDate": "2015-12-17 13:01:04",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "ms0nzO",
+            "name": "Fresh Spring",
+            "nameDisplay": "Fresh Spring",
+            "description": "Refreshing light ale, its colour is likened to daffodils. Brewed with a nice blend of malted barley with locally grown Fuggles hops for a gentle hop aroma and flavour. At 4.0% abv it is very drinkable.",
+            "abv": "4",
+            "availableId": 5,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/ms0nzO/upload_kkCLAI-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/ms0nzO/upload_kkCLAI-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/ms0nzO/upload_kkCLAI-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-27 21:32:11",
+            "updateDate": "2015-02-27 22:04:19",
+            "available": {
+                "id": 5,
+                "name": "Spring",
+                "description": "Available during the spring months."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "OaK1T0",
+            "name": "Heavy Horse",
+            "nameDisplay": "Heavy Horse",
+            "abv": "6.7",
+            "ibu": "20",
+            "glasswareId": 5,
+            "availableId": 2,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OaK1T0/upload_9KFGc1-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OaK1T0/upload_9KFGc1-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OaK1T0/upload_9KFGc1-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:21",
+            "updateDate": "2015-12-16 13:31:56",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "M1v4ls",
+            "name": "Highlander Scottish Ale",
+            "nameDisplay": "Highlander Scottish Ale",
+            "description": "Rich malty flavors derived from kettle caramelization with hints of roasted malt.",
+            "abv": "4.6",
+            "ibu": "20",
+            "availableId": 2,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/M1v4ls/upload_3PoODQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/M1v4ls/upload_3PoODQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/M1v4ls/upload_3PoODQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-07-18 14:47:42",
+            "updateDate": "2015-12-16 18:07:05",
+            "available": {
+                "id": 2,
+                "name": "Limited",
+                "description": "Limited availability."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "tsDIaw",
+            "name": "Hop Scotch",
+            "nameDisplay": "Hop Scotch",
+            "abv": "7.4",
+            "glasswareId": 5,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/tsDIaw/upload_Jz3E9c-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/tsDIaw/upload_Jz3E9c-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/tsDIaw/upload_Jz3E9c-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:25",
+            "updateDate": "2015-12-16 13:53:17",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "EICTkH",
+            "name": "Hop Scotch Ale",
+            "nameDisplay": "Hop Scotch Ale",
+            "abv": "9",
+            "glasswareId": 5,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/EICTkH/upload_n0LOqK-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/EICTkH/upload_n0LOqK-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/EICTkH/upload_n0LOqK-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:43:25",
+            "updateDate": "2015-12-16 13:42:23",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "gMPdmy",
+            "name": "Hullabaloo",
+            "nameDisplay": "Hullabaloo",
+            "description": "Experience a world of hearty flavors and aromas with this special winter beer. This brew starts as a Scottish ale featuring European and Domestic malts, giving Hullabaloo intriguing caramel and roast nuances. A blend of American and English hops delivers ample bitterness & unique hop profile. This is a big, rich beer with a nice, underlying complexity – Toast to the Season!",
+            "abv": "6.5",
+            "ibu": "39",
+            "glasswareId": 5,
+            "availableId": 4,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/gMPdmy/upload_arH75b-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/gMPdmy/upload_arH75b-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/gMPdmy/upload_arH75b-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Pulled Pork, smoked Trout, hard sheeps-milk chees",
+            "servingTemperature": "cool",
+            "servingTemperatureDisplay": "Cool - (8-12C/45-54F)",
+            "createDate": "2012-11-07 13:09:28",
+            "updateDate": "2015-12-16 20:36:26",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "2tnC2K",
+            "name": "Imperial Topaz Amber",
+            "nameDisplay": "Imperial Topaz Amber",
+            "description": "Scottish amber ale that is brewed with two row malt and roasted barley using a single noble British hop to compliment the malty rich flavor of this strong beer",
+            "abv": "5.5",
+            "ibu": "25",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/2tnC2K/upload_7H2OVo-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/2tnC2K/upload_7H2OVo-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/2tnC2K/upload_7H2OVo-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2016-01-05 22:09:45",
+            "updateDate": "2016-01-06 14:56:50",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "CaIBEn",
+            "name": "Jolly Scot Scottish Ale",
+            "nameDisplay": "Jolly Scot Scottish Ale",
+            "description": "A rich amber color and deep layers of natural malt flavor make this a great session beer. Brewed with a complex blend of distinct caramel style malts and light hop additions, this ale is sweet and toasty on the palate, and smooth to the finish.",
+            "abv": "5.5",
+            "ibu": "18",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/CaIBEn/upload_Jyen6y-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/CaIBEn/upload_Jyen6y-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/CaIBEn/upload_Jyen6y-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.059",
+            "createDate": "2012-01-03 02:43:32",
+            "updateDate": "2015-12-15 23:19:01",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "WQDzDz",
+            "name": "Motte & Bailey",
+            "nameDisplay": "Motte & Bailey",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/WQDzDz/upload_ZiA8Ty-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/WQDzDz/upload_ZiA8Ty-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/WQDzDz/upload_ZiA8Ty-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-06-11 12:06:58",
+            "updateDate": "2015-12-17 13:41:21",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "OcS8KH",
+            "name": "Noble Scot",
+            "nameDisplay": "Noble Scot",
+            "description": "Noble Scot is a complex and full-bodied Scottish Ale with notes of toast and caramel and a sweet, subtle smokiness for the bonnie days of fall.",
+            "abv": "6.5",
+            "ibu": "25",
+            "glasswareId": 5,
+            "srmId": 22,
+            "availableId": 4,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OcS8KH/upload_54nONl-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OcS8KH/upload_54nONl-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/OcS8KH/upload_54nONl-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.065",
+            "createDate": "2013-05-09 00:48:57",
+            "updateDate": "2015-12-17 02:39:02",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "srm": {
+                "id": 22,
+                "name": "22",
+                "hex": "8E2900"
+            },
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "uf5uHx",
+            "name": "Pemaquid Ale",
+            "nameDisplay": "Pemaquid Ale",
+            "glasswareId": 5,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/uf5uHx/upload_bRKngs-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/uf5uHx/upload_bRKngs-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/uf5uHx/upload_bRKngs-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.052",
+            "createDate": "2014-02-27 13:15:49",
+            "updateDate": "2015-12-17 10:25:52",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "n8F7AS",
+            "name": "Piper Down",
+            "nameDisplay": "Piper Down",
+            "description": "A Scottish ale with San Diego spirit.\r\nOur Piper Down Scottish Ale hits all the right notes for the Ballast Point Bagpipe Corps that inspired it. We created this very low hopped, malty ale for the band to enjoy using UK Maris Otter malt, roasted barley, UK hops and low fermentation temperatures. Then we let the brew’s sweet complexity build over a three-hour boil. Full of roasted caramel flavor, it’s a pub classic with Ballast Point personality.",
+            "abv": "5.8",
+            "ibu": "22",
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/n8F7AS/upload_aDk1gQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/n8F7AS/upload_aDk1gQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/n8F7AS/upload_aDk1gQ-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Raw Oysters\r\nCandied Walnuts\r\nGrilled Cinnamon Lamb Chops",
+            "createDate": "2014-09-19 05:23:01",
+            "updateDate": "2015-12-17 18:53:53",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "GKpYgQ",
+            "name": "Race Rocks Ale",
+            "nameDisplay": "Race Rocks Ale",
+            "abv": "5.2",
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/GKpYgQ/upload_mbR39D-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/GKpYgQ/upload_mbR39D-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/GKpYgQ/upload_mbR39D-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2015-02-25 21:30:36",
+            "updateDate": "2015-12-17 21:40:13",
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "00wHoo",
+            "name": "Rampant Lion",
+            "nameDisplay": "Rampant Lion",
+            "abv": "7",
+            "glasswareId": 5,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/00wHoo/upload_yNSsXL-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/00wHoo/upload_yNSsXL-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/00wHoo/upload_yNSsXL-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:44:02",
+            "updateDate": "2015-12-16 12:57:18",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "8b6xep",
+            "name": "Rare Oak Pale Ale",
+            "nameDisplay": "Rare Oak Pale Ale",
+            "description": "This refreshing pale ale has been matured over rare Scottish oak and then finished with the addition of Sweet Gale, which grows wild in the Highlands of Scotland and was used traditionally as an alternative to imported hops. Crisp, fragrant and light, this beer is one for long summer evenings.",
+            "abv": "5.8",
+            "availableId": 4,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/8b6xep/upload_DiRNUw-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/8b6xep/upload_DiRNUw-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/8b6xep/upload_DiRNUw-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-11-20 18:06:41",
+            "updateDate": "2015-12-17 18:39:49",
+            "available": {
+                "id": 4,
+                "name": "Seasonal",
+                "description": "Available at the same time of year, every year."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "pJlst2",
+            "name": "Scottish 60 Schilling",
+            "nameDisplay": "Scottish 60 Schilling",
+            "glasswareId": 5,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/pJlst2/upload_sdYzww-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/pJlst2/upload_sdYzww-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/pJlst2/upload_sdYzww-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:44:11",
+            "updateDate": "2015-12-16 11:18:26",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "Nk3coP",
+            "name": "Scottish Ale",
+            "nameDisplay": "Scottish Ale",
+            "description": "Our Scottish Ale is loaded with a clean malt flavor layered throughout the beer. We created this beer to be malt forward, yet sessionable.    East Kent Golding hops are used to balance but not overpower the malt profile. Big enough to comfort that malt craving, yet very smooth and balanced.  Enjoy!e.",
+            "abv": "7",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Nk3coP/upload_T8qKNG-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Nk3coP/upload_T8qKNG-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/Nk3coP/upload_T8qKNG-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-03-04 12:51:28",
+            "updateDate": "2015-12-17 10:45:10",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "0spitM",
+            "name": "Scottish Ale",
+            "nameDisplay": "Scottish Ale",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/0spitM/upload_XWdMha-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/0spitM/upload_XWdMha-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/0spitM/upload_XWdMha-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-08-24 13:30:16",
+            "updateDate": "2015-12-17 05:51:59",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "QJfgEc",
+            "name": "Scottish Ale",
+            "nameDisplay": "Scottish Ale",
+            "description": "It takes a brave beer to stand up to a Maine winter. Gritty McDuff 's Scottish Ale is returns every January to help you weather the season. Scottish Style Ale is our interpretation of the robust brews native to Scotland. Generous quantities of Pale malt along with Munich and Caramalts give this ale a deep and complex profile. Scottish Style Ale is just a shade darker than our Bitter, with a rich, slightly sweet first impression on the palate that rounds out to a satisfying maltiness and a medium-dry hop finish. At 6.3% ABV it's hearty but not overwhelming. Sure to please the Braveheart in all of us.",
+            "ibu": "25",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/QJfgEc/upload_1kVWyo-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/QJfgEc/upload_1kVWyo-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/QJfgEc/upload_1kVWyo-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "originalGravity": "1.016",
+            "createDate": "2012-01-03 02:44:11",
+            "updateDate": "2015-12-16 12:20:17",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "r875LZ",
+            "name": "Scottish Ale",
+            "nameDisplay": "Scottish Ale",
+            "description": "A caramel sweet beer with a malty profile. This amber toned beer has low but apparent hops. Small hints of smokiness may be found throughout this well balanced brew.",
+            "abv": "4.7",
+            "ibu": "22.6",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/r875LZ/upload_qnouD6-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/r875LZ/upload_qnouD6-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/r875LZ/upload_qnouD6-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "The Works Pizza, Aged Cheddar Burger",
+            "originalGravity": "1.05",
+            "createDate": "2013-01-21 22:09:44",
+            "updateDate": "2015-12-17 00:25:20",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "K6OMhJ",
+            "name": "Scottish Ale",
+            "nameDisplay": "Scottish Ale",
+            "description": "Pale Ale. Aromas of anise and dark toasted rye, hints of caramel and nut, subtle burnt edges accented by coffee, and soft mouth finish.",
+            "abv": "5.4",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/K6OMhJ/upload_LDapLN-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/K6OMhJ/upload_LDapLN-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/K6OMhJ/upload_LDapLN-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Pairs well with grilled steak, spicy pork tenderloin or curry.",
+            "createDate": "2013-09-02 13:15:26",
+            "updateDate": "2015-12-17 05:59:02",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "imxbxX",
+            "name": "Scottish Ale",
+            "nameDisplay": "Scottish Ale",
+            "description": "Malty and hoppy, we at Belhaven love the classic Scottish Ale and we've been brewing it longer than any of the other beers we produce. Delivering a sweet, smooth and creamy finish, Scottish Ale has a stunning ruby colour in the glass. Magic.",
+            "abv": "5.2",
+            "glasswareId": 5,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/imxbxX/upload_RaKj9V-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/imxbxX/upload_RaKj9V-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/imxbxX/upload_RaKj9V-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2012-01-03 02:44:11",
+            "updateDate": "2015-12-15 22:35:23",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "K7aBjm",
+            "name": "Scottish Ale",
+            "nameDisplay": "Scottish Ale",
+            "description": "Our flagship beer and Gold Medal Winner at the 2014 World Beer Cup.  A rich, full flavored ale with great body.  Deep amber hues accent this smooth delicious beer. Lightly hopped, as this one is all about the malt and finishes with delicate carmel and smokey undertones.",
+            "abv": "6.5",
+            "ibu": "20",
+            "glasswareId": 5,
+            "availableId": 1,
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/K7aBjm/upload_tEoJII-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/K7aBjm/upload_tEoJII-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/K7aBjm/upload_tEoJII-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "servingTemperature": "cold",
+            "servingTemperatureDisplay": "Cold - (4-7C/39-45F)",
+            "createDate": "2014-01-16 18:43:52",
+            "updateDate": "2015-12-17 08:15:49",
+            "glass": {
+                "id": 5,
+                "name": "Pint",
+                "createDate": "2012-01-03 02:41:33"
+            },
+            "available": {
+                "id": 1,
+                "name": "Year Round",
+                "description": "Available year round as a staple beer."
+            },
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "nc4YDz",
+            "name": "Sláinte",
+            "nameDisplay": "Sláinte",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/nc4YDz/upload_PkZjg1-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/nc4YDz/upload_PkZjg1-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/nc4YDz/upload_PkZjg1-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2013-11-04 23:48:20",
+            "updateDate": "2015-12-17 06:50:20",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "dFeDPU",
+            "name": "Tally Wacker",
+            "nameDisplay": "Tally Wacker",
+            "description": "A mild, malt-forward, food-friendly, copper-colored ale with a hint of toasted caramel up front, a slightly peaty character and just a dash of fresh, grassy hops for balance.\r\n\r\nTally Wacker Scottish Ale is a year-round specialty beer available exclusively for draft accounts. This classic crowd-pleasing Scottish ale is available under the Tally Wacker name or can be purchased as a branded signature tap selection.",
+            "abv": "5",
+            "ibu": "18",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/dFeDPU/upload_G9GerT-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/dFeDPU/upload_G9GerT-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/dFeDPU/upload_G9GerT-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "foodPairings": "Moderately sharp or earthy cheeses, roast beef, baked ham, sweet potato and caramelized onion frittata, mellow roasted garlic.",
+            "originalGravity": "1.05",
+            "createDate": "2014-09-08 18:41:23",
+            "updateDate": "2015-12-17 16:42:16",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        },
+        {
+            "id": "dxmodF",
+            "name": "Wee Peat",
+            "nameDisplay": "Wee Peat",
+            "abv": "5",
+            "styleId": 7,
+            "isOrganic": "N",
+            "labels": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/beer/dxmodF/upload_cQbAb8-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/beer/dxmodF/upload_cQbAb8-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/beer/dxmodF/upload_cQbAb8-large.png"
+            },
+            "status": "verified",
+            "statusDisplay": "Verified",
+            "createDate": "2014-02-03 12:33:17",
+            "updateDate": "2015-12-17 09:33:04",
+            "style": {
+                "id": 7,
+                "categoryId": 1,
+                "category": {
+                    "id": 1,
+                    "name": "British Origin Ales",
+                    "createDate": "2012-03-21 20:06:45"
+                },
+                "name": "Scottish-Style Light Ale",
+                "shortName": "Scottish Light",
+                "description": "Scottish light ales are light bodied. Little bitterness is perceived, and hop flavor or aroma should not be perceived. Despite its lightness, Scottish light ale will have a degree of malty, caramel-like, soft and chewy character. Yeast characters such as diacetyl (butterscotch) and sulfuriness are acceptable at very low levels. The color will range from golden amber to deep brown Bottled versions of this traditional draft beer may contain higher amounts of carbon dioxide than is typical for mildly carbonated draft versions. Chill haze is acceptable at low temperatures. Though there is little evidence suggesting that traditionally made Scottishstyle light ales exhibited peat smoke character, the current marketplace offers many Scottish-style light ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scottish-style light ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).",
+                "ibuMin": "9",
+                "ibuMax": "20",
+                "abvMin": "2.8",
+                "abvMax": "3.5",
+                "srmMin": "8",
+                "srmMax": "17",
+                "ogMin": "1.03",
+                "fgMin": "1.006",
+                "fgMax": "1.012",
+                "createDate": "2012-03-21 20:06:45",
+                "updateDate": "2015-04-07 15:19:41"
+            }
+        }
+    ],
+    "status": "success"
+}
