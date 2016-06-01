@@ -1,12 +1,12 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-Base Demo TFG
+Yeoman AngularJS project generator
 ============
 
 Angularjs project Web 
 ============
 
-This is the repository of the base demo TFG Project. It provides an starting point for an angularJS project
+This is the repository of the Yeoman and demo TFG Project. It provides an starting point for an angularJS project
 
 
 ### Quick Start
