@@ -54,5 +54,6 @@
     "xunit-file": "0.0.9",
     "yeoman-assert": "^2.1.1",
     "yeoman-test": "^1.1.0"
-  }
+  },
+    "license":"MIT"
 }
