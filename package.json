@@ -1,7 +1,7 @@
 {
   "name": "generator-tower-angular",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.4",
+  "description": "AngularJS project Yeoman generator",
   "homepage": "",
   "author": {
     "name": "Roger Torra",

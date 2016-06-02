@@ -1,4 +1,7 @@
+[![Jenkins](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/precise-desktop-amd64_default.svg?maxAge=2592000)](https://www.npmjs.com/package/generator-tower-angular)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/generator-tower-angular)
+[![CocoaPods](https://img.shields.io/cocoapods/l/AFNetworking.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/generator-tower-angular)
 
 Yeoman AngularJS project generator
 ============
@@ -35,7 +38,7 @@ npm install generator-tower-angular
 *generating project
 
 ```script
-yo tower_angular
+yo tower-angular
 ```
 
 * configure project:
