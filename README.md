@@ -66,14 +66,11 @@ Exexecute the following command to launch tests
 
  Grunt tasks list 
 ---------------- 
-###storeCoverage
-store coverage from global
+
 ###karma
 run karma. (Multitask)
 ###reloadTasks
 override instrumented tasks
-###makeReport
-make coverage report
 ###instrument
 instruments a file or a directory tree
 ###jshint
@@ -100,8 +97,6 @@ Minify files with UglifyJS. (Multitask)
 Minify HTML (Multitask)
 ###cssmin
 Minify CSS (Multitask)
-###list
-List all the available grunt tasks and write them to a file.
 ###browserSync
 Keep your browsers in sync (Multitask)
 ###jscs
@@ -110,10 +105,6 @@ JavaScript Code Style checker (Multitask)
 Inject Bower components into your source code. (Multitask)
 ###includeSource
 Include lists of files into your source files automatically. (Multitask)
-###license
-Generate an HTML report of all NPM modules licenses.
-###bsNotify
-Custom multi task. (Multitask)
 ###bsReload
 Custom multi task. (Multitask)
 ###copy
@@ -126,8 +117,6 @@ Compile Sass to CSS (Multitask)
 Compile CoffeeScript files into JavaScript (Multitask)
 ###clean
 Clean files and folders. (Multitask)
-###release
-Bump version, git tag, git push, npm publish
 ###default
 Alias for "server" task.
 ###test:unit:auto
@@ -150,5 +139,4 @@ Alias for "clean:doc", "docular" tasks.
 Alias for "clean:dist", "concurrent:dist", "postcss:css", "wiredep", "includeSource", "useminPrepare", "concat:generated", "copy:dist", "ngAnnotate", "cssmin:generated", "uglify:generated", "rev", "usemin", "htmlmin" tasks.
 ###ngAnnotate
 Add, remove and rebuild AngularJS dependency injection annotations (Multitask)
-###grunt-license-report
-No info 
+

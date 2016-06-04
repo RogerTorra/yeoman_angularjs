@@ -1,7 +1,27 @@
 <!DOCTYPE html>
-<div class="container-fluid" ng-controller="gruntController">
+<div class="container-fluid" ng-controller="gruntController as grunt">
  <div class="jumbotron home">
         <h1>Grunt</h1>
-        <p>Your project is ready.</p>
+     <div class="col-md-12">
+        <md-card>
+            <md-card-actions layout="row" layout-align="start center">
+              <md-button aria-label="left" ng-click="grunt.back()"><i class="glyphicon glyphicon-chevron-left"> </i></md-button>
+              <md-button aria-label="right" ng-click="grunt.next()"><i class="glyphicon glyphicon-chevron-right"> </i></md-button>
+            </md-card-actions>
+             <div class="width:100%" hljs hljs-source="grunt.slide.code">
+                </div>
+            <md-card-content>
+               <md-card-title-text>
+                <span class="md-headline"> {{grunt.slide.name}}</span>
+              </md-card-title-text>
+              <p>
+                {{grunt.slide.text}}
+              </p>
+            </md-card-content>
+
+      </md-card>
+
+         
+   
   </div>
 </div>

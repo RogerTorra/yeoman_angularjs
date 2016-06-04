@@ -13,11 +13,17 @@
         'ngMdIcons',
         'angular-loading-bar',
         'ngMaterial',
-        'restangular'
+        'restangular',
+        'hljs'
     ]).run(function($log) {
         $log.debug('run');
-    }).config(['cfpLoadingBarProvider', function(cfpLoadingBarProvider) {
+    }).config(['cfpLoadingBarProvider','hljsServiceProvider', function(cfpLoadingBarProvider,hljsServiceProvider) {
         cfpLoadingBarProvider.includeSpinner = false;
+        
+        hljsServiceProvider.setOptions({
+            // replace tab with 4 spaces
+            tabReplace: '    '
+          });
     }]);
 
 
