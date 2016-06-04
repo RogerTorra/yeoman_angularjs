@@ -31,6 +31,7 @@ module.exports = yeoman.Base.extend({
     this.props.scripts = '<%= scripts %>';
         
       templates.forEach(function (template) {
+          this.log(this.templatePath(template));
             this.fs.copyTpl(
             this.templatePath(template),
             this.destinationPath(template),
