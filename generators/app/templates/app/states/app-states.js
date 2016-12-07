@@ -7,7 +7,7 @@
 
 'use strict';
 
-angular.module('<%= name %>')
+angular.module('<%= name %>App')
     .config(
     ['$stateProvider', '$urlRouterProvider',
       function ($stateProvider, $urlRouterProvider) {
